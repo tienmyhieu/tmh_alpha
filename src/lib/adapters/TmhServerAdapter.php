@@ -4,15 +4,16 @@ namespace lib\adapters;
 
 class TmhServerAdapter
 {
-    public function domainParts(): array
-    {
-        return explode('.', $_SERVER['SERVER_NAME']);
-    }
-
     public function host(): string
     {
         $domainParts = $this->domainParts();
         return $domainParts[count($domainParts) - 2] . '.' . $domainParts[count($domainParts) - 1];
+    }
+
+    public function redirectQueryString(): string
+    {
+        parse_str($_SERVER['REDIRECT_QUERY_STRING'], $fields);
+        return $fields['title'];
     }
 
     public function requestScheme(): string
@@ -24,5 +25,10 @@ class TmhServerAdapter
     {
         $domainParts = $this->domainParts();
         return array_shift($domainParts);
+    }
+
+    private function domainParts(): array
+    {
+        return explode('.', $_SERVER['SERVER_NAME']);
     }
 }

@@ -14,6 +14,11 @@ class TmhJson
         return $this->loadFile(__DIR__ . '/../../locales/', $locale);
     }
 
+    public function routes(): array
+    {
+        return $this->loadFile(__DIR__ . '/../../', 'routes');
+    }
+
     private function loadFile(string $path, string $file): array
     {
         $contents = '[]';
