@@ -9,6 +9,11 @@ class TmhJson
         return $this->loadFile(__DIR__ . '/../../', 'domains');
     }
 
+    public function locale(string $locale): array
+    {
+        return $this->loadFile(__DIR__ . '/../../locales/', $locale);
+    }
+
     private function loadFile(string $path, string $file): array
     {
         $contents = '[]';
