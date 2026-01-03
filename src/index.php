@@ -1,5 +1,6 @@
 <?php
 
+use lib\adapters\TmhRouteAdapter;
 use lib\adapters\TmhServerAdapter;
 use lib\core\TmhDomain;
 use lib\core\TmhJson;
@@ -8,6 +9,7 @@ use lib\core\TmhRoute;
 use lib\transformers\TmhDomainTransformer;
 use lib\transformers\TmhRouteTransformer;
 
+require_once('lib/adapters/TmhRouteAdapter.php');
 require_once('lib/adapters/TmhServerAdapter.php');
 require_once('lib/core/TmhDomain.php');
 require_once('lib/core/TmhJson.php');
@@ -23,6 +25,7 @@ $domain = new TmhDomain($domainTransformer, $json, $serverAdapter);
 $locale = new TmhLocale($domain, $json);
 $routeTransformer = new TmhRouteTransformer($locale);
 $route = new TmhRoute($routeTransformer, $json, $serverAdapter);
-//echo "<pre>";
-//print_r($route->keyedRoutes());
-//echo "</pre>";
+$routeAdapter = new TmhRouteAdapter($route);
+echo "<pre>";
+print_r($routeAdapter->getCurrentRoute());
+echo "</pre>";

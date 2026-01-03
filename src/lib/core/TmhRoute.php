@@ -7,7 +7,6 @@ use lib\transformers\TmhRouteTransformer;
 
 readonly class TmhRoute
 {
-    public const string DEFAULT_ROUTE = 'umd0xr1h';
     public const string DEFAULT_TITLE = 'nn3zskng';
 
     private array $keyedRoutes;
@@ -22,6 +21,11 @@ readonly class TmhRoute
         $this->requestedRoute = $this->serverAdapter->redirectQueryString();
         $this->routes = $this->json->routes();
         $this->keyedRoutes = $this->routeTransformer->toKeyedRoutes($this->routes);
+    }
+
+    public function get(string $uuid): array
+    {
+        return in_array($uuid, array_keys($this->routes)) ? $this->routes[$uuid] : [];
     }
 
     public function keyedRoutes(): array
