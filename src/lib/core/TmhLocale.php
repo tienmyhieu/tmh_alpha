@@ -31,4 +31,11 @@ readonly class TmhLocale
     {
         return $this->locales;
     }
+
+    public function scrubbed(string $locale): string
+    {
+        $patterns = ["'", ' ', '、', '-', '.', "'", ','];
+        $replacements = ['', '_', '', '_', '_', '', ''];
+        return str_replace($patterns, $replacements, $locale);
+    }
 }

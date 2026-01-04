@@ -2,13 +2,14 @@
 
 namespace lib\transformers;
 
+use lib\adapters\TmhServerAdapter;
 use lib\core\TmhLocale;
 
 readonly class TmhRouteTransformer
 {
     public const string DEFAULT_TITLE = 'nn3zskng';
 
-    public function __construct(private TmhLocale $locale)
+    public function __construct(private TmhLocale $locale, private TmhServerAdapter $serverAdapter)
     {
     }
 
@@ -31,6 +32,25 @@ readonly class TmhRouteTransformer
             $transformed[str_replace($patterns, $replacements, $key)] = $uuid;
         }
         return $transformed;
+    }
+
+    public function translate(array $route): array
+    {
+        $translated = ['href' => [], 'title' => []];
+        $translated['innerHtml'] = $this->locale->get($route['innerHtml']);
+        foreach ($route['href'] as $uuid) {
+            $translated['href'][] = $this->locale->scrubbed($this->locale->get($uuid));
+        }
+        foreach ($route['title'] as $uuid) {
+            $translated['title'][] = $this->locale->get($uuid);
+        }
+        if ($route['type'] == 'toc') {
+            $translated['href'][] = $this->serverAdapter->url();
+        }
+        $translated['code'] = $route['code'];
+        $translated['type'] = $route['type'];
+        $translated['uuid'] = $route['uuid'];
+        return $translated;
     }
 
     public function withUuids(array $routes): array

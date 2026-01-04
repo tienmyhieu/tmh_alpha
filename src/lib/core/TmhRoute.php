@@ -7,8 +7,8 @@ use lib\transformers\TmhRouteTransformer;
 
 readonly class TmhRoute
 {
-    private array $keyedRoutes;
     private string $requestedRoute;
+    private array $routeMap;
     private array $routes;
 
     public function __construct(
@@ -18,7 +18,7 @@ readonly class TmhRoute
     ) {
         $this->requestedRoute = $this->serverAdapter->redirectQueryString();
         $this->routes = $this->routeTransformer->withUuids($this->json->routes());
-        $this->keyedRoutes = $this->routeTransformer->toKeyedRoutes($this->routes);
+        $this->routeMap = $this->routeTransformer->toKeyedRoutes($this->routes);
     }
 
     public function get(string $uuid): array
@@ -26,9 +26,9 @@ readonly class TmhRoute
         return in_array($uuid, array_keys($this->routes)) ? $this->routes[$uuid] : [];
     }
 
-    public function keyedRoutes(): array
+    public function routeMap(): array
     {
-        return $this->keyedRoutes;
+        return $this->routeMap;
     }
 
     public function requestedRoute(): string

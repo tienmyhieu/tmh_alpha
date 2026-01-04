@@ -27,8 +27,18 @@ class TmhServerAdapter
         return array_shift($domainParts);
     }
 
+    public function url(): string
+    {
+        return $this->requestScheme() . '://' . $this->serverName();
+    }
+
     private function domainParts(): array
     {
-        return explode('.', $_SERVER['SERVER_NAME']);
+        return explode('.', $this->serverName());
+    }
+
+    private function serverName(): string
+    {
+        return $_SERVER['SERVER_NAME'];
     }
 }

@@ -4,8 +4,15 @@ namespace lib\transformers;
 
 readonly class TmhHtmlEntityTransformer
 {
-    public function __construct(private TmhSiblingTransformer $siblingTransformer)
+    public function __construct(
+        private TmhAncestorTransformer $ancestorTransformer,
+        private TmhSiblingTransformer $siblingTransformer
+    ) {
+    }
+
+    public function ancestors(array $htmlEntity): array
     {
+        return $this->ancestorTransformer->ancestors($this->reconstituteRoute($htmlEntity));
     }
 
     public function siblings(array $htmlEntity): array
