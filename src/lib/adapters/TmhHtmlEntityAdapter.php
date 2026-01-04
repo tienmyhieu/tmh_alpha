@@ -17,6 +17,7 @@ readonly class TmhHtmlEntityAdapter
         $htmlEntity = $this->entityAdapter->find();
         $htmlEntity['siblings'] = $this->entityTransformer->siblings($htmlEntity);
         $htmlEntity['ancestors'] = $this->entityTransformer->ancestors($htmlEntity);
+        $htmlEntity['metadata'] = $this->entityTransformer->metadata($htmlEntity);
         return $htmlEntity;
     }
 }

@@ -6,6 +6,7 @@ readonly class TmhHtmlEntityTransformer
 {
     public function __construct(
         private TmhAncestorTransformer $ancestorTransformer,
+        private TmhMetadataTransformer $metadataTransformer,
         private TmhSiblingTransformer $siblingTransformer
     ) {
     }
@@ -13,6 +14,11 @@ readonly class TmhHtmlEntityTransformer
     public function ancestors(array $htmlEntity): array
     {
         return $this->ancestorTransformer->ancestors($this->reconstituteRoute($htmlEntity));
+    }
+
+    public function metadata(array $htmlEntity): array
+    {
+        return $this->metadataTransformer->metadata($this->reconstituteRoute($htmlEntity));
     }
 
     public function siblings(array $htmlEntity): array

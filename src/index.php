@@ -15,6 +15,7 @@ use lib\core\TmhRoute;
 use lib\transformers\TmhAncestorTransformer;
 use lib\transformers\TmhDomainTransformer;
 use lib\transformers\TmhHtmlEntityTransformer;
+use lib\transformers\TmhMetadataTransformer;
 use lib\transformers\TmhRouteTransformer;
 use lib\transformers\TmhSiblingTransformer;
 
@@ -30,6 +31,7 @@ require_once('lib/core/TmhRoute.php');
 require_once('lib/transformers/TmhAncestorTransformer.php');
 require_once('lib/transformers/TmhDomainTransformer.php');
 require_once('lib/transformers/TmhHtmlEntityTransformer.php');
+require_once('lib/transformers/TmhMetadataTransformer.php');
 require_once('lib/transformers/TmhRouteTransformer.php');
 require_once('lib/transformers/TmhSiblingTransformer.php');
 
@@ -45,8 +47,9 @@ $entity = new TmhEntity($json);
 $entityAdapter = new TmhEntityAdapter($routeTransformer, $entity, $routeAdapter);
 
 $ancestorTransformer = new TmhAncestorTransformer($routeAdapter, $locale, $routeTransformer);
+$metadataTransformer =  new TmhMetadataTransformer($domain, $locale);
 $siblingTransformer = new TmhSiblingTransformer($domain, $locale);
-$htmlEntityTransformer = new TmhHtmlEntityTransformer($ancestorTransformer, $siblingTransformer);
+$htmlEntityTransformer = new TmhHtmlEntityTransformer($ancestorTransformer, $metadataTransformer, $siblingTransformer);
 $htmlEntityAdapter = new TmhHtmlEntityAdapter($entityAdapter, $htmlEntityTransformer);
 //echo "<pre>";
 //print_r($htmlEntityAdapter->get());
