@@ -71,10 +71,6 @@ $elementFactory = new TmhHtmlElementFactory($nodeFactory);
 $componentFactory = new TmhHtmlComponentFactory($elementFactory);
 $nodeTransformer = new TmhHtmlNodeTransformer();
 $documentFactory = new TmhHtmlDocumentFactory($elementFactory, $componentFactory, $nodeTransformer);
-$entityTranslator = new TmhHtmlEntityTranslator($locale);
+$entityTranslator = new TmhHtmlEntityTranslator($locale, $route, $routeTransformer);
 $alpha = new TmhAlpha($documentFactory, $htmlEntityAdapter, $entityTranslator);
 echo $alpha->toHtml();
-
-//echo "<pre>";
-//print_r($htmlEntityAdapter->get());
-//echo "</pre>";

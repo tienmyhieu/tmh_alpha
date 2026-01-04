@@ -17,7 +17,8 @@ readonly class TmhAlpha
 
     public function toHtml(): string
     {
-        $entity = $this->entityTranslator->translate($this->entityAdapter->get());
-        return $this->documentFactory->create($entity);
+        $htmlEntity = $this->entityAdapter->get();
+        $htmlEntity['attributes'] = $this->entityTranslator->translate($htmlEntity['attributes']);
+        return $this->documentFactory->create($htmlEntity);
     }
 }
