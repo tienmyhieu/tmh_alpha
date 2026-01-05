@@ -1,8 +1,8 @@
 <?php
 
-namespace lib\adapters;
+namespace lib\core;
 
-class TmhServerAdapter
+class TmhServer
 {
     public function host(): string
     {

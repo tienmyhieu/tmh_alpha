@@ -4,14 +4,15 @@ namespace lib\transformers;
 
 use lib\core\TmhDomain;
 use lib\core\TmhLocale;
+use lib\core\TmhRoute;
 
-readonly class TmhSiblingTransformer
+readonly class TmhSiblingTransformer implements TmhTransformer
 {
-    public function __construct(private TmhDomain $domain, private TmhLocale $locale)
+    public function __construct(private TmhDomain $domain, private TmhLocale $locale, private TmhRoute $route)
     {
     }
 
-    public function siblings(array $route): array
+    public function transform(array $entity): array
     {
         $siblings = [];
         $domains = $this->domain->domains();
@@ -21,9 +22,7 @@ readonly class TmhSiblingTransformer
                 $domain['translation'] = $this->locale->get($domain['translation']);
                 $domainRoute = $this->fromDomain($domain);
                 $locales = $this->locale->getLocales($domain['locale']);
-                $sibling = $this->sibling($domainRoute, $locales, $route);
-                $sibling['href'] = implode('/', $sibling['href']);
-                $sibling['title'] = implode(' ', $sibling['title']);
+                $sibling = $this->route->flatten($this->sibling($domainRoute, $locales, $entity));
                 $siblings[$domain['locale']] = $sibling;
             }
         }

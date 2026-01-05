@@ -5,16 +5,16 @@ namespace lib\transformers;
 use lib\core\TmhDomain;
 use lib\core\TmhLocale;
 
-readonly class TmhMetadataTransformer
+readonly class TmhMetadataTransformer implements TmhTransformer
 {
     public function __construct(private TmhDomain $domain, private TmhLocale $locale)
     {
     }
 
-    public function metadata(array $route): array
+    public function transform(array $entity): array
     {
         $domain = $this->domain->domain();
-        $title = $this->locale->getMany($route['title']);
+        $title = $this->locale->getMany($entity['title']);
         return [
             'description' => implode(' ', $title),
             'documentTitle' => implode(' ', $title),

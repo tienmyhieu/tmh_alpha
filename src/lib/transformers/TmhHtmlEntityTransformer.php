@@ -13,17 +13,17 @@ readonly class TmhHtmlEntityTransformer
 
     public function ancestors(array $htmlEntity): array
     {
-        return $this->ancestorTransformer->ancestors($this->reconstituteRoute($htmlEntity));
+        return $this->ancestorTransformer->transform($this->reconstituteRoute($htmlEntity));
     }
 
     public function metadata(array $htmlEntity): array
     {
-        return $this->metadataTransformer->metadata($this->reconstituteRoute($htmlEntity));
+        return $this->metadataTransformer->transform($this->reconstituteRoute($htmlEntity));
     }
 
     public function siblings(array $htmlEntity): array
     {
-        return $this->siblingTransformer->siblings($this->reconstituteRoute($htmlEntity));
+        return $this->siblingTransformer->transform($this->reconstituteRoute($htmlEntity));
     }
 
     private function reconstituteRoute(array $entity): array

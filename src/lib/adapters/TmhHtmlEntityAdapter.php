@@ -3,12 +3,15 @@
 namespace lib\adapters;
 
 use lib\transformers\TmhHtmlEntityTransformer;
+use lib\translators\TmhRouteTranslator;
+use lib\translators\TmhTranslatorFactory;
 
 readonly class TmhHtmlEntityAdapter
 {
     public function __construct(
         private TmhEntityAdapter $entityAdapter,
-        private TmhHtmlEntityTransformer $entityTransformer
+        private TmhHtmlEntityTransformer $entityTransformer,
+        private TmhTranslatorFactory $translatorFactory
     ) {
     }
 
@@ -17,7 +20,7 @@ readonly class TmhHtmlEntityAdapter
         $htmlEntity = $this->entityAdapter->find();
         $htmlEntity['attributes'] = [
             'siblings' => $this->entityTransformer->siblings($htmlEntity),
-            'ancestors' => $this->entityTransformer->ancestors($htmlEntity),
+            'ancestors' => $this->translateRoutes($this->entityTransformer->ancestors($htmlEntity)),
             'titles' => $htmlEntity['title']
         ];
         foreach ($this->attributeMap($htmlEntity['type']) as $attribute) {
@@ -41,5 +44,13 @@ readonly class TmhHtmlEntityAdapter
     private function specimenAttributes(): array
     {
         return ['image_group_list', 'key_value_list', 'upload_group_list', 'citation_list'];
+    }
+
+    private function translateRoutes(array $routes): array
+    {
+        $routeTranslator = $this->translatorFactory->create('route');
+        return array_map(function ($route) use ($routeTranslator) {
+            return $routeTranslator->translate($route);
+        }, $routes);
     }
 }

@@ -1,24 +1,23 @@
 <?php
 
-namespace lib\transformers;
+namespace lib\translators;
 
 use lib\core\TmhLocale;
 use lib\core\TmhRoute;
 
-readonly class TmhHtmlEntityTranslator
+readonly class TmhHtmlEntityTranslator implements TmhTranslator
 {
     public function __construct(
         private TmhLocale $locale,
         private TmhRoute $route,
-        private TmhRouteTransformer $routeTransformer
-    )
-    {
+        private TmhTranslatorFactory $translatorFactory
+    ) {
     }
 
-    public function translate(array $attributes): array
+    public function translate(array $entity): array
     {
         $translated = [];
-        foreach ($attributes as $key => $attribute) {
+        foreach ($entity as $key => $attribute) {
             $translated[$key] = match ($key) {
                 'titles' => $this->translateTitles($attribute),
                 'topics' => $this->translateTopics($attribute),
@@ -59,9 +58,10 @@ readonly class TmhHtmlEntityTranslator
 
     private function translateRouteItem(array $item): array
     {
-        $route = $this->routeTransformer->hydrate($this->route->get($item['route']));
+        $routeTranslator = $this->translatorFactory->create('route');
+        $route = $this->route->hydrate($this->route->get($item['route']));
         $route['innerHtml'] = $item['translation'];
-        $item['route'] = $this->routeTransformer->translate($route);
+        $item['route'] = $routeTranslator->translate($route);
         return $item;
     }
 

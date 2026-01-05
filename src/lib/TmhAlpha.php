@@ -4,7 +4,7 @@ namespace lib;
 
 use lib\adapters\TmhHtmlEntityAdapter;
 use lib\html\TmhHtmlDocumentFactory;
-use lib\transformers\TmhHtmlEntityTranslator;
+use lib\translators\TmhHtmlEntityTranslator;
 
 readonly class TmhAlpha
 {

@@ -2,32 +2,29 @@
 
 namespace lib\transformers;
 
-use lib\adapters\TmhRouteAdapter;
 use lib\core\TmhLocale;
+use lib\core\TmhRoute;
 
-readonly class TmhAncestorTransformer
+readonly class TmhAncestorTransformer implements TmhTransformer
 {
-    public function __construct(
-        private TmhRouteAdapter $routeAdapter,
-        private TmhLocale $locale,
-        private TmhRouteTransformer $routeTransformer
-    ) {
+    public function __construct(private TmhLocale $locale, private TmhRoute $route)
+    {
     }
 
-    public function ancestors(array $route): array
+    public function transform(array $entity): array
     {
         $ancestors = [];
-        $defaultRoute = $this->routeAdapter->defaultRoute();
-        if ($route['uuid'] != $defaultRoute['uuid']) {
-            $ancestors[] = $this->routeTransformer->translate($this->routeTransformer->hydrate($defaultRoute));
+        $defaultRoute = $this->route->defaultRoute();
+        if ($entity['uuid'] != $defaultRoute['uuid']) {
+            $ancestors[] = $this->route->hydrate($defaultRoute);
             $cumulative = '';
-            foreach ($route['href'] as $href) {
+            foreach ($entity['href'] as $href) {
                 $cumulative .= $this->locale->scrubbed($this->locale->get($href));
-                $ancestor = $this->routeAdapter->getRoute($cumulative);
-                $ancestors[] = $this->routeTransformer->translate($this->routeTransformer->hydrate($ancestor));
+                $ancestor = $this->route->getRoute($cumulative);
+                $ancestors[] = $this->route->hydrate($ancestor);
                 $cumulative .= '/';
             }
-            $ancestors[] = $this->routeTransformer->translate($route);
+            $ancestors[] = $entity;
         }
         return $ancestors;
     }
