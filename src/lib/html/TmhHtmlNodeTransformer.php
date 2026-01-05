@@ -45,6 +45,9 @@ readonly class TmhHtmlNodeTransformer
     {
         $html = '';
         foreach ($nodes as $node) {
+            if (!in_array('htmlTag', array_keys($node))) {
+                $node = array_shift($node);
+            }
             $html .= $this->openNode($node);
             $html .= $this->innerHtml($node);
             $html .= $this->closeNode($node);
@@ -52,8 +55,8 @@ readonly class TmhHtmlNodeTransformer
         return $html;
     }
 
-    private function openNode($element): string
+    private function openNode(array $node): string
     {
-        return '<' . $element['htmlTag'] . $this->attributes($element['attributes']);
+        return '<' . $node['htmlTag'] . $this->attributes($node['attributes']);
     }
 }

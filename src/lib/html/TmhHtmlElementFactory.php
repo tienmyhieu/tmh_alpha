@@ -306,9 +306,9 @@ readonly class TmhHtmlElementFactory
         return $this->nodeFactory->div('tmh_sibling_item', $childNodes, '');
     }
 
-    public function siblingItemLink(string $href, string $innerHtml, string $title): array
+    public function siblingItemLink(array $attributes, string $innerHtml): array
     {
-        $attributes = ['class' => 'tmh_sibling_item_link', 'href'=> $href, 'title' => $title];
+        $attributes['class'] = 'tmh_sibling_item_link';
         return $this->nodeFactory->a($attributes, [], $innerHtml);
     }
 

@@ -22,7 +22,19 @@ readonly class TmhHtmlDocumentFactory
 
     private function body(array $entity): array
     {
-        return $this->elementFactory->body([], []);
+        $childNodes = [];
+        foreach ($entity['attributes'] as $key => $attribute) {
+            $htmlComponent = $this->htmlComponentFactory->create($key);
+            $component = $htmlComponent->get($attribute);
+            if (count($component)) {
+                $childNodes[] = $this->elementFactory->component([$component]);
+            }
+        }
+        $marginLeft = $this->elementFactory->marginLeft();
+        $center = $this->elementFactory->center($childNodes);
+        $marginRight = $this->elementFactory->marginRight();
+        $body = $this->elementFactory->contentBody([$marginLeft, $center, $marginRight]);
+        return $this->elementFactory->body([], [$body]);
     }
 
     private function head(array $entity): array

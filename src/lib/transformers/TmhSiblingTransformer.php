@@ -21,7 +21,10 @@ readonly class TmhSiblingTransformer
                 $domain['translation'] = $this->locale->get($domain['translation']);
                 $domainRoute = $this->fromDomain($domain);
                 $locales = $this->locale->getLocales($domain['locale']);
-                $siblings[] = $this->sibling($domainRoute, $locales, $route);
+                $sibling = $this->sibling($domainRoute, $locales, $route);
+                $sibling['href'] = implode('/', $sibling['href']);
+                $sibling['title'] = implode(' ', $sibling['title']);
+                $siblings[$domain['locale']] = $sibling;
             }
         }
         return $siblings;
