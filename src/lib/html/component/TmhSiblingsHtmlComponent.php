@@ -13,21 +13,23 @@ readonly class TmhSiblingsHtmlComponent implements TmhHtmlComponent
     public function get(array $entity): array
     {
         $childNodes = [];
-        $i = 0;
+        $siblingKeys = array_keys($entity);
+        $lastSiblingKey = $siblingKeys[count($siblingKeys) - 1];
+        $lastSibling = $entity[$lastSiblingKey];
+        unset($entity[$lastSiblingKey]);
         foreach ($entity as $sibling) {
             $siblingNodes = [];
-            $attributes = [
-                'lang' => $sibling['lang'],
-                'href' => $sibling['href'],
-                'title' => $sibling['title']
-            ];
-            $siblingNodes[] = $this->elementFactory->siblingItemLink($attributes, $sibling['innerHtml']);
-            if ($i < count($entity) - 1) {
-                $siblingNodes[] = $this->elementFactory->span([], '&nbsp;&#9675;&nbsp;');
-            }
+            $siblingNodes[] = $this->siblingItemLink($sibling);
+            $siblingNodes[] = $this->elementFactory->span([], '&nbsp;&#9675;&nbsp;');
             $childNodes[] = $this->elementFactory->siblingItem($siblingNodes);
-            $i++;
         }
+        $childNodes[] = $this->siblingItemLink($lastSibling);
         return [$this->elementFactory->siblings($childNodes)];
+    }
+
+    private function siblingItemLink(array $sibling): array
+    {
+        $attributes = ['lang' => $sibling['lang'], 'href' => $sibling['href'], 'title' => $sibling['title']];
+        return $this->elementFactory->siblingItemLink($attributes, $sibling['innerHtml']);
     }
 }

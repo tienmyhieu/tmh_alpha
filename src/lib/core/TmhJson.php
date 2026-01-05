@@ -4,6 +4,11 @@ namespace lib\core;
 
 class TmhJson
 {
+    public function database(string $file): array
+    {
+        return $this->loadFile(__DIR__ . '/../../database/', $file);
+    }
+
     public function domains(): array
     {
         return $this->loadFile(__DIR__ . '/../../', 'domains');
