@@ -2,14 +2,14 @@
 
 namespace lib\adapters;
 
+use lib\core\TmhEntity;
 use lib\transformers\TmhHtmlEntityTransformer;
-use lib\translators\TmhRouteTranslator;
 use lib\translators\TmhTranslatorFactory;
 
 readonly class TmhHtmlEntityAdapter
 {
     public function __construct(
-        private TmhEntityAdapter $entityAdapter,
+        private TmhEntity $entity,
         private TmhHtmlEntityTransformer $entityTransformer,
         private TmhTranslatorFactory $translatorFactory
     ) {
@@ -17,7 +17,7 @@ readonly class TmhHtmlEntityAdapter
 
     public function get(): array
     {
-        $htmlEntity = $this->entityAdapter->find();
+        $htmlEntity = $this->entity->get();
         $htmlEntity['attributes'] = [
             'siblings' => $this->entityTransformer->siblings($htmlEntity),
             'ancestors' => $this->translateRoutes($this->entityTransformer->ancestors($htmlEntity)),

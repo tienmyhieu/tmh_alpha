@@ -3,7 +3,6 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-use lib\adapters\TmhEntityAdapter;
 use lib\adapters\TmhHtmlEntityAdapter;
 use lib\core\TmhDomain;
 use lib\core\TmhEntity;
@@ -22,11 +21,9 @@ use lib\transformers\TmhHtmlEntityTransformer;
 use lib\transformers\TmhMetadataTransformer;
 use lib\transformers\TmhSiblingTransformer;
 use lib\translators\TmhHtmlEntityTranslator;
-use lib\translators\TmhRouteTranslator;
 use lib\translators\TmhTranslatorFactory;
 
 require_once('lib/TmhAlpha.php');
-require_once('lib/adapters/TmhEntityAdapter.php');
 require_once('lib/adapters/TmhHtmlEntityAdapter.php');
 
 require_once('lib/core/TmhDomain.php');
@@ -64,17 +61,16 @@ $server = new TmhServer();
 $domain = new TmhDomain($json, $server);
 $locale = new TmhLocale($domain, $json);
 $route = new TmhRoute($locale, $json, $server);
-$entity = new TmhEntity($json);
-$entityAdapter = new TmhEntityAdapter($route, $entity);
-$entity = $entityAdapter->find();
-//print_r($entity);
+$entity = new TmhEntity($json, $route);
+$entityTmp = $entity->get();
+//print_r($entityTmp);
 
 $translatorFactory = new TmhTranslatorFactory($locale, $server);
 $ancestorTransformer = new TmhAncestorTransformer($locale, $route);
 $metadataTransformer =  new TmhMetadataTransformer($domain, $locale);
 $siblingTransformer = new TmhSiblingTransformer($domain, $locale, $route);
 $htmlEntityTransformer = new TmhHtmlEntityTransformer($ancestorTransformer, $metadataTransformer, $siblingTransformer);
-$htmlEntityAdapter = new TmhHtmlEntityAdapter($entityAdapter, $htmlEntityTransformer, $translatorFactory);
+$htmlEntityAdapter = new TmhHtmlEntityAdapter($entity, $htmlEntityTransformer, $translatorFactory);
 $htmlEntity = $htmlEntityAdapter->get();
 //print_r($htmlEntity);
 
