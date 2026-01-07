@@ -2,23 +2,18 @@
 
 namespace lib;
 
-use lib\adapters\TmhHtmlEntityAdapter;
+use lib\core\TmhHtmlEntity;
 use lib\html\TmhHtmlDocumentFactory;
-use lib\translators\TmhHtmlEntityTranslator;
 
 readonly class TmhAlpha
 {
-    public function __construct(
-        private TmhHtmlDocumentFactory $documentFactory,
-        private TmhHtmlEntityAdapter $entityAdapter,
-        private TmhHtmlEntityTranslator $entityTranslator
-    ) {
+    public function __construct(private TmhHtmlDocumentFactory $documentFactory, private TmhHtmlEntity $htmlEntity)
+    {
     }
 
     public function toHtml(): string
     {
-        $htmlEntity = $this->entityAdapter->get();
-        $htmlEntity['attributes'] = $this->entityTranslator->translate($htmlEntity['attributes']);
+        $htmlEntity = $this->htmlEntity->get();
         return $this->documentFactory->create($htmlEntity);
     }
 }

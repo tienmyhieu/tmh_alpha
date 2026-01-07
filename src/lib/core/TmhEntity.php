@@ -17,9 +17,11 @@ readonly class TmhEntity
     {
         $route = $this->route->hydrate($this->route->getCurrentRoute());
         $entity = $this->byRouteCode($route['code']);
-        foreach ($this->transformers($route['type']) as $transformerName) {
-            $transformer = $this->transformerFactory->create($transformerName);
-            $entity[$transformerName] = $transformer->transform($entity[$transformerName]);
+        foreach ($this->transformers($route['type']) as $attribute) {
+            if (in_array($attribute, array_keys($entity))) {
+                $transformer = $this->transformerFactory->create($attribute);
+                $entity[$attribute] = $transformer->transform($entity[$attribute]);
+            }
         }
         return array_merge($route, $entity);
     }
@@ -35,8 +37,6 @@ readonly class TmhEntity
 
     private function transformers(string $type): array
     {
-        return match($type) {
-          'toc' => ['topics']
-        };
+        return ['topics'];
     }
 }

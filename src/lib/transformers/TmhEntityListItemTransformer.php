@@ -15,13 +15,13 @@ readonly class TmhEntityListItemTransformer implements TmhTransformer
             $transformer = $this->transformerFactory->create('image');
             $entityToTransform = ['uuid' => $entity['image']];
             $entity['route'] = $transformer->transform($entityToTransform);
-            $entity['image'] = '';
         }
         if ($entity['type'] == 'route') {
             $transformer = $this->transformerFactory->create('route');
             $entityToTransform = ['uuid' => $entity['route'], 'translation' => $entity['translation']];
             $entity['route'] = $transformer->transform($entityToTransform);
         }
+        unset($entity['image']);
         return $entity;
     }
 }

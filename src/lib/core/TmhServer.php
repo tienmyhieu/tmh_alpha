@@ -4,6 +4,11 @@ namespace lib\core;
 
 class TmhServer
 {
+    public function cdnHost(): string
+    {
+        return 'http://cdn.tienmyhieu.com';
+    }
+
     public function host(): string
     {
         $domainParts = $this->domainParts();

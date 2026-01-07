@@ -15,7 +15,7 @@ readonly class TmhHtmlDocumentFactory
 
     public function create(array $entity): string
     {
-        $lang = $entity['metadata']['lang'];
+        $lang = $entity['attributes']['metadata']['lang'];
         $nodes = $this->elementFactory->html([$this->head($entity), $this->body($entity)], $lang);
         return $this->nodeTransformer->toHtml($nodes);
     }
@@ -39,7 +39,7 @@ readonly class TmhHtmlDocumentFactory
 
     private function head(array $entity): array
     {
-        $metadata = $entity['metadata'];
+        $metadata = $entity['attributes']['metadata'];
         return $this->elementFactory->head($metadata['description'], $metadata['keywords'], $metadata['documentTitle']);
     }
 }

@@ -41,10 +41,9 @@ readonly class TmhSiblingTransformer implements TmhTransformer
 
     private function sibling(array $domainRoute, array $locales, array $route): array
     {
-        $patterns = ["'", ' ', '、', '-', '.', "'", ','];
-        $replacements = ['', '_', '', '_', '_', '', ''];
+        $domainRoute['code'] = $route['code'];
         foreach ($route['href'] as $uuid) {
-            $domainRoute['href'][] = str_replace($patterns, $replacements, $locales[$uuid]);
+            $domainRoute['href'][] = $this->locale->scrubbed($locales[$uuid]);
         }
         if ($route['type'] == 'metal_emperor_coin_specimen') {
             $codeParts = explode('.', $route['code']);
@@ -53,6 +52,8 @@ readonly class TmhSiblingTransformer implements TmhTransformer
         foreach ($route['title'] as $uuid) {
             $domainRoute['title'][] = $locales[$uuid];
         }
+        $domainRoute['type'] = $route['type'];
+        $domainRoute['uuid'] = $route['uuid'];
         return $domainRoute;
     }
 }

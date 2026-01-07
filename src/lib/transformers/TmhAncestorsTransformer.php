@@ -5,7 +5,7 @@ namespace lib\transformers;
 use lib\core\TmhLocale;
 use lib\core\TmhRoute;
 
-readonly class TmhAncestorTransformer implements TmhTransformer
+readonly class TmhAncestorsTransformer implements TmhTransformer
 {
     public function __construct(private TmhLocale $locale, private TmhRoute $route)
     {
@@ -24,7 +24,7 @@ readonly class TmhAncestorTransformer implements TmhTransformer
                 $ancestors[] = $this->route->hydrate($ancestor);
                 $cumulative .= '/';
             }
-            $ancestors[] = $entity;
+            //$ancestors[] = $entity;
         }
         return $ancestors;
     }

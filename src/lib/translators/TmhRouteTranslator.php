@@ -3,11 +3,12 @@
 namespace lib\translators;
 
 use lib\core\TmhLocale;
+use lib\core\TmhRoute;
 use lib\core\TmhServer;
 
 readonly class TmhRouteTranslator implements TmhTranslator
 {
-    public function __construct(private TmhLocale $locale, private TmhServer $server)
+    public function __construct(private TmhLocale $locale, private TmhRoute $route, private TmhServer $server)
     {
     }
 
@@ -27,6 +28,6 @@ readonly class TmhRouteTranslator implements TmhTranslator
         $translated['code'] = $entity['code'];
         $translated['type'] = $entity['type'];
         $translated['uuid'] = $entity['uuid'];
-        return $translated;
+        return $this->route->flatten($translated);
     }
 }

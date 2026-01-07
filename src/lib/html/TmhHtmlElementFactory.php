@@ -2,13 +2,15 @@
 
 namespace lib\html;
 
+use lib\core\TmhServer;
+
 readonly class TmhHtmlElementFactory
 {
-    private const string FAV_ICON = 'http://img1.tienmyhieu.com/favicon.png';
-    private const string PRINT_STYLE_SHEET = 'http://cdn.tienmyhieu.com/css/tienmyhieu-print.css';
-    private const string STYLE_SHEET = 'http://cdn.tienmyhieu.com/css/tienmyhieu.css';
+    private const string FAV_ICON = '/favicon.png';
+    private const string PRINT_STYLE_SHEET = '/css/tienmyhieu-print.css';
+    private const string STYLE_SHEET = '/css/tienmyhieu.css';
 
-    public function __construct(private TmhHtmlNodeFactory $nodeFactory)
+    public function __construct(private TmhHtmlNodeFactory $nodeFactory, private TmhServer $server)
     {
     }
 
@@ -101,7 +103,8 @@ readonly class TmhHtmlElementFactory
 
     public function favIcon(): array
     {
-        return $this->nodeFactory->link(['rel' => 'icon', 'href' => self::FAV_ICON, 'type' => 'image/png']);
+        $favIcon = $this->server->imageHost() . self::FAV_ICON;
+        return $this->nodeFactory->link(['rel' => 'icon', 'href' => $favIcon, 'type' => 'image/png']);
     }
 
     public function head(string $description, string $keywords, string $title): array
@@ -273,7 +276,8 @@ readonly class TmhHtmlElementFactory
 
     public function printStyleSheet(): array
     {
-        return $this->nodeFactory->link(['media'=> 'print', 'rel' => 'stylesheet', 'href' => self::PRINT_STYLE_SHEET]);
+        $styleSheet = $this->server->cdnHost() . self::PRINT_STYLE_SHEET;
+        return $this->nodeFactory->link(['media'=> 'print', 'rel' => 'stylesheet', 'href' => $styleSheet]);
     }
 
     public function quoteList(array $childNodes): array
@@ -324,7 +328,8 @@ readonly class TmhHtmlElementFactory
 
     public function styleSheet(): array
     {
-        return $this->nodeFactory->link(['media'=> 'screen', 'rel' => 'stylesheet', 'href' => self::STYLE_SHEET]);
+        $styleSheet = $this->server->cdnHost() . self::STYLE_SHEET;
+        return $this->nodeFactory->link(['media'=> 'screen', 'rel' => 'stylesheet', 'href' => $styleSheet]);
     }
 
     public function source(array $attributes): array

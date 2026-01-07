@@ -28,7 +28,8 @@ readonly class TmhRoute
 
     public function flatten(array $route): array
     {
-        $route['href'] = implode('/', $route['href']);
+        $prefix = $route['type'] == 'toc' ? '' : '/';
+        $route['href'] = $prefix . implode('/', $route['href']);
         $route['title'] = implode(' ', $route['title']);
         return $route;
     }
@@ -156,7 +157,9 @@ readonly class TmhRoute
         $route['title'] = [$secondLast, $last];
         if ($route['type'] == 'metal_emperor_coin_specimen') {
             $codeParts = explode('.', $route['code']);
-            $route['innerHtml'] = str_replace('_', ' ', $codeParts[count($codeParts) - 1]);
+            $uuid = $codeParts[count($codeParts) - 1];
+            $route['innerHtml'] = str_replace('_', ' ', $uuid);
+            $route['uuid'] = $uuid;
         }
         return $route;
     }
