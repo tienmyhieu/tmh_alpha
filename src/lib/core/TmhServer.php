@@ -10,6 +10,11 @@ class TmhServer
         return $domainParts[count($domainParts) - 2] . '.' . $domainParts[count($domainParts) - 1];
     }
 
+    public function imageHost(): string
+    {
+        return 'http://img1.tienmyhieu.com';
+    }
+
     public function redirectQueryString(): string
     {
         parse_str($_SERVER['REDIRECT_QUERY_STRING'], $fields);

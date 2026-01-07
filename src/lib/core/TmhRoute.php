@@ -154,6 +154,10 @@ readonly class TmhRoute
         $secondLast = $route['href'][count($route['href']) - 2];
         $route['innerHtml'] = $last;
         $route['title'] = [$secondLast, $last];
+        if ($route['type'] == 'metal_emperor_coin_specimen') {
+            $codeParts = explode('.', $route['code']);
+            $route['innerHtml'] = str_replace('_', ' ', $codeParts[count($codeParts) - 1]);
+        }
         return $route;
     }
 

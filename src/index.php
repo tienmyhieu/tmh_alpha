@@ -4,6 +4,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 use lib\adapters\TmhHtmlEntityAdapter;
+use lib\core\TmhDatabase;
 use lib\core\TmhDomain;
 use lib\core\TmhEntity;
 use lib\core\TmhJson;
@@ -20,12 +21,14 @@ use lib\transformers\TmhAncestorTransformer;
 use lib\transformers\TmhHtmlEntityTransformer;
 use lib\transformers\TmhMetadataTransformer;
 use lib\transformers\TmhSiblingTransformer;
+use lib\transformers\TmhTransformerFactory;
 use lib\translators\TmhHtmlEntityTranslator;
 use lib\translators\TmhTranslatorFactory;
 
 require_once('lib/TmhAlpha.php');
 require_once('lib/adapters/TmhHtmlEntityAdapter.php');
 
+require_once('lib/core/TmhDatabase.php');
 require_once('lib/core/TmhDomain.php');
 require_once('lib/core/TmhEntity.php');
 require_once('lib/core/TmhJson.php');
@@ -46,9 +49,15 @@ require_once('lib/html/component/TmhTopicsHtmlComponent.php');
 
 require_once('lib/transformers/TmhTransformer.php');
 require_once('lib/transformers/TmhAncestorTransformer.php');
+require_once('lib/transformers/TmhEntityListItemTransformer.php');
+require_once('lib/transformers/TmhEntityListsTransformer.php');
+require_once('lib/transformers/TmhImageTransformer.php');
 require_once('lib/transformers/TmhHtmlEntityTransformer.php');
 require_once('lib/transformers/TmhMetadataTransformer.php');
+require_once('lib/transformers/TmhRouteTransformer.php');
 require_once('lib/transformers/TmhSiblingTransformer.php');
+require_once('lib/transformers/TmhTopicsTransformer.php');
+require_once('lib/transformers/TmhTransformerFactory.php');
 
 require_once('lib/translators/TmhTranslator.php');
 require_once('lib/translators/TmhTranslatorFactory.php');
@@ -57,11 +66,13 @@ require_once('lib/translators/TmhRouteTranslator.php');
 
 //echo "<pre>";
 $json = new TmhJson();
+$database = new TmhDatabase($json);
 $server = new TmhServer();
 $domain = new TmhDomain($json, $server);
 $locale = new TmhLocale($domain, $json);
 $route = new TmhRoute($locale, $json, $server);
-$entity = new TmhEntity($json, $route);
+$transformerFactory = new TmhTransformerFactory($database, $route, $server);
+$entity = new TmhEntity($json, $route, $transformerFactory);
 $entityTmp = $entity->get();
 //print_r($entityTmp);
 

@@ -38,13 +38,11 @@ readonly class TmhHtmlEntityTranslator implements TmhTranslator
     {
         $translatedKey = $this->locale->get($entityList['translation']);
         $translated = ['translation' => $translatedKey, 'items' => []];
-        $items = $this->filterInactive($entityList['items']);
-        foreach ($items as $item) {
+        foreach ($entityList['items'] as $item) {
             $translatedItem = match($item['type']) {
                 'route' => $this->translateRouteItem($item),
                 default => $this->translateTextItem($item)
             };
-            unset($translatedItem['active']);
             $translated['items'][] = $translatedItem;
         }
         return $translated;
@@ -59,9 +57,7 @@ readonly class TmhHtmlEntityTranslator implements TmhTranslator
     private function translateRouteItem(array $item): array
     {
         $routeTranslator = $this->translatorFactory->create('route');
-        $route = $this->route->hydrate($this->route->get($item['route']));
-        $route['innerHtml'] = $item['translation'];
-        $item['route'] = $routeTranslator->translate($route);
+        $item['route'] = $routeTranslator->translate($item['route']);
         return $item;
     }
 
