@@ -20,22 +20,25 @@ readonly class TmhHtmlEntity
     {
         $entity = $this->entity->get();
         $route = $this->reconstituteRoute($entity);
-        $htmlEntity = ['uuid' => $entity['uuid'], 'attributes' => []];
-        foreach ($this->dynamicAttributes($entity['type']) as $attribute) {
+        $entity = $this->unsetRouteAttributes($entity, $route);
+        //print_r($entity);
+        $htmlEntity = ['uuid' => $route['uuid'], 'attributes' => []];
+        foreach ($this->dynamicAttributes($route['type']) as $attribute) {
             $htmlEntity['attributes'][$attribute] = $route;
         }
-        foreach ($this->transformerAttributes($entity['type']) as $attribute) {
+        foreach ($this->transformerAttributes($route['type']) as $attribute) {
             $transformer = $this->transformerFactory->create($attribute);
             $htmlEntity['attributes'][$attribute] = $transformer->transform($htmlEntity['attributes'][$attribute]);
         }
-        foreach ($this->translatorAttributes($entity['type']) as $attribute) {
+        foreach ($this->translatorAttributes($route['type']) as $attribute) {
             $translator = $this->translatorFactory->create($attribute);
             $htmlEntity['attributes'][$attribute] = $translator->translate($htmlEntity['attributes'][$attribute]);
         }
-        foreach ($this->entityAttributes($entity['type']) as $attribute) {
-            if (in_array($attribute, array_keys($entity))) {
-                $translator = $this->translatorFactory->create($attribute);
-                $htmlEntity['attributes'][$attribute] = $translator->translate($entity[$attribute]);
+        $entityAttributes = $this->entityAttributes($route['type']);
+        foreach ($entity as $attribute) {
+            if (in_array($attribute['type'], $entityAttributes)) {
+                $translator = $this->translatorFactory->create($attribute['type']);
+                $htmlEntity['attributes'][$attribute['type']] = $translator->translate($attribute);
             }
         }
         return $htmlEntity;
@@ -48,7 +51,15 @@ readonly class TmhHtmlEntity
 
     private function entityAttributes(string $type): array
     {
-        return ['topics'];
+        return ['title', 'topic', 'entity_lists'];
+    }
+
+    private function unsetRouteAttributes(array $entity, array $route): array
+    {
+        foreach (array_keys($route) as $attribute) {
+            unset($entity[$attribute]);
+        }
+        return $entity;
     }
 
     private function reconstituteRoute(array $entity): array

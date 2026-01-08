@@ -40,9 +40,12 @@ require_once('lib/html/TmhHtmlNodeFactory.php');
 require_once('lib/html/TmhHtmlNodeTransformer.php');
 require_once('lib/html/component/TmhHtmlComponent.php');
 require_once('lib/html/component/TmhAncestorsHtmlComponent.php');
+require_once('lib/html/component/TmhEntityListHtmlComponent.php');
+require_once('lib/html/component/TmhEntityListsHtmlComponent.php');
 require_once('lib/html/component/TmhHtmlComponentFactory.php');
 require_once('lib/html/component/TmhSiblingsHtmlComponent.php');
 require_once('lib/html/component/TmhTitlesHtmlComponent.php');
+require_once('lib/html/component/TmhTopicHtmlComponent.php');
 require_once('lib/html/component/TmhTopicsHtmlComponent.php');
 
 require_once('lib/transformers/TmhTransformer.php');
@@ -53,7 +56,6 @@ require_once('lib/transformers/TmhImageTransformer.php');
 require_once('lib/transformers/TmhMetadataTransformer.php');
 require_once('lib/transformers/TmhRouteTransformer.php');
 require_once('lib/transformers/TmhSiblingTransformer.php');
-require_once('lib/transformers/TmhTopicsTransformer.php');
 require_once('lib/transformers/TmhTransformerFactory.php');
 
 require_once('lib/translators/TmhTranslator.php');
@@ -63,7 +65,8 @@ require_once('lib/translators/TmhEntityListItemTranslator.php');
 require_once('lib/translators/TmhEntityListsTranslator.php');
 require_once('lib/translators/TmhMetadataTranslator.php');
 require_once('lib/translators/TmhRouteTranslator.php');
-require_once('lib/translators/TmhTopicsTranslator.php');
+require_once('lib/translators/TmhTitleTranslator.php');
+require_once('lib/translators/TmhTopicTranslator.php');
 
 //echo "<pre>";
 $json = new TmhJson();
@@ -91,5 +94,5 @@ $componentFactory = new TmhHtmlComponentFactory($elementFactory);
 $nodeTransformer = new TmhHtmlNodeTransformer();
 $documentFactory = new TmhHtmlDocumentFactory($elementFactory, $componentFactory, $nodeTransformer);
 $alpha = new TmhAlpha($documentFactory, $htmlEntity);
-echo $alpha->toHtml();
+//echo $alpha->toHtml();
 //echo "</pre>";

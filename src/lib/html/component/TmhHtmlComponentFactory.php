@@ -14,8 +14,11 @@ readonly class TmhHtmlComponentFactory
     {
         return match ($type) {
             'ancestors' => new TmhAncestorsHtmlComponent($this->elementFactory),
+            'entity_list' => new TmhEntityListHtmlComponent($this->elementFactory),
+            'entity_lists' => new TmhEntityListsHtmlComponent($this),
             'siblings' => new TmhSiblingsHtmlComponent($this->elementFactory),
-            'topics' => new TmhTopicsHtmlComponent($this->elementFactory),
+            'topic' => new TmhTopicHtmlComponent($this, $this->elementFactory),
+            'topics' => new TmhTopicsHtmlComponent($this),
             default => new TmhTitlesHtmlComponent($this->elementFactory),
         };
     }

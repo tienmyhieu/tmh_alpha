@@ -17,6 +17,8 @@ readonly class TmhHtmlDocumentFactory
     {
         $lang = $entity['attributes']['metadata']['lang'];
         $nodes = $this->elementFactory->html([$this->head($entity), $this->body($entity)], $lang);
+        //print_r($nodes);
+        //return '';
         return $this->nodeTransformer->toHtml($nodes);
     }
 

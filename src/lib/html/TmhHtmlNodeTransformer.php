@@ -45,9 +45,9 @@ readonly class TmhHtmlNodeTransformer
     {
         $html = '';
         foreach ($nodes as $node) {
-            if (!in_array('htmlTag', array_keys($node))) {
-                $node = array_shift($node);
-            }
+//            if (!in_array('htmlTag', array_keys($node))) {
+//                $node = array_shift($node);
+//            }
             $html .= $this->openNode($node);
             $html .= $this->innerHtml($node);
             $html .= $this->closeNode($node);

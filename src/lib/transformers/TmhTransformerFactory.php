@@ -28,8 +28,7 @@ readonly class TmhTransformerFactory
             'image' => new TmhImageTransformer($this->database, $this->server),
             'metadata' => new TmhMetadataTransformer($this->domain),
             'siblings' => new TmhSiblingTransformer($this->domain, $this->locale, $this->route),
-            'route' => new TmhRouteTransformer($this->route),
-            'topics' => new TmhTopicsTransformer($this)
+            'route' => new TmhRouteTransformer($this->route)
         };
     }
 }

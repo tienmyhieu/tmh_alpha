@@ -16,13 +16,7 @@ readonly class TmhEntity
     public function get(): array
     {
         $route = $this->route->hydrate($this->route->getCurrentRoute());
-        $entity = $this->byRouteCode($route['code']);
-        foreach ($this->transformers($route['type']) as $attribute) {
-            if (in_array($attribute, array_keys($entity))) {
-                $transformer = $this->transformerFactory->create($attribute);
-                $entity[$attribute] = $transformer->transform($entity[$attribute]);
-            }
-        }
+        $entity = $this->transform($this->byRouteCode($route['code']), $route);
         return array_merge($route, $entity);
     }
 
@@ -35,8 +29,23 @@ readonly class TmhEntity
         return $this->json->entity($entityDirectory, $entityFile);
     }
 
+    private function transform(array $entity, array $route): array
+    {
+        $transformed = [];
+        $transformers = $this->transformers($route['type']);
+        foreach ($entity as $entityAttribute) {
+            if (in_array($entityAttribute['type'], $transformers)) {
+                $transformer = $this->transformerFactory->create($entityAttribute['type']);
+                $transformed[] = $transformer->transform($entityAttribute);
+            } else {
+                $transformed[] = $entityAttribute;
+            }
+        }
+        return $transformed;
+    }
+
     private function transformers(string $type): array
     {
-        return ['topics'];
+        return ['entity_lists'];
     }
 }

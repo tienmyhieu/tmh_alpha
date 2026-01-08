@@ -4,7 +4,7 @@ namespace lib\html\component;
 
 use lib\html\TmhHtmlElementFactory;
 
-class TmhAncestorsHtmlComponent implements TmhHtmlComponent
+readonly class TmhAncestorsHtmlComponent implements TmhHtmlComponent
 {
     public function __construct(private TmhHtmlElementFactory $elementFactory)
     {

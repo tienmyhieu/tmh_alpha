@@ -24,7 +24,7 @@ readonly class TmhSiblingsHtmlComponent implements TmhHtmlComponent
             $childNodes[] = $this->elementFactory->siblingItem($siblingNodes);
         }
         $childNodes[] = $this->siblingItemLink($lastSibling);
-        return [$this->elementFactory->siblings($childNodes)];
+        return $this->elementFactory->siblings($childNodes);
     }
 
     private function siblingItemLink(array $sibling): array

@@ -10,15 +10,19 @@ readonly class TmhEntityListsTransformer implements TmhTransformer
 
     public function transform(array $entity): array
     {
-        $transformedEntityLists = [];
-        foreach ($entity as $entityList) {
-            $transformedEntityList = ['translation' => $entityList['translation'], 'items' => []];
+        $transformedEntityLists = ['type' => $entity['type'], 'items' => []];
+        foreach ($entity['items'] as $entityList) {
+            $transformedEntityList = [
+                'type' => $entityList['type'],
+                'translation' => $entityList['translation'],
+                'items' => []
+            ];
             $activeEntityListItems = $this->filterInactive($entityList['items']);
             foreach ($activeEntityListItems as $activeEntityListItem) {
                 $transformer = $this->transformerFactory->create('entity_list_item');
                 $transformedEntityList['items'][] = $transformer->transform($activeEntityListItem);
             }
-            $transformedEntityLists[] = $transformedEntityList;
+            $transformedEntityLists['items'][] = $transformedEntityList;
         }
         return $transformedEntityLists;
     }
