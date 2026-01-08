@@ -24,9 +24,9 @@ readonly class TmhHtmlElementFactory
         return $this->nodeFactory->div('tmh_ancestor_item', $childNodes, '');
     }
 
-    public function ancestorItemLink(string $href, string $innerHtml, string $title): array
+    public function ancestorItemLink(array $attributes, string $innerHtml): array
     {
-        $attributes = ['class' => 'tmh_ancestor_item_link', 'href'=> $href, 'title' => $title];
+        $attributes['class'] = 'tmh_ancestor_item_link';
         return $this->nodeFactory->a($attributes, [], $innerHtml);
     }
 

@@ -74,7 +74,7 @@ $locale = new TmhLocale($domain, $json);
 $route = new TmhRoute($locale, $json, $server);
 $transformerFactory = new TmhTransformerFactory($database, $domain, $locale, $route, $server);
 $entity = new TmhEntity($json, $route, $transformerFactory);
-$entityTmp = $entity->get();
+//$entityTmp = $entity->get();
 //print_r($entityTmp);
 
 $translatorFactory = new TmhTranslatorFactory($locale, $route, $server);
@@ -82,7 +82,7 @@ $ancestorTransformer = new TmhAncestorsTransformer($locale, $route);
 $metadataTransformer =  new TmhMetadataTransformer($domain);
 $siblingTransformer = new TmhSiblingTransformer($domain, $locale, $route);
 $htmlEntity = new TmhHtmlEntity($entity, $transformerFactory, $translatorFactory);
-$htmlEntityTmp = $htmlEntity->get();
+//$htmlEntityTmp = $htmlEntity->get();
 //print_r($htmlEntityTmp);
 
 $nodeFactory = new TmhHtmlNodeFactory();
@@ -91,5 +91,5 @@ $componentFactory = new TmhHtmlComponentFactory($elementFactory);
 $nodeTransformer = new TmhHtmlNodeTransformer();
 $documentFactory = new TmhHtmlDocumentFactory($elementFactory, $componentFactory, $nodeTransformer);
 $alpha = new TmhAlpha($documentFactory, $htmlEntity);
-//echo "</pre>";
 echo $alpha->toHtml();
+//echo "</pre>";
