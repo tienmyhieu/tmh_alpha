@@ -17,14 +17,13 @@ readonly class TmhHtmlDocumentFactory
     {
         $lang = $entity['attributes']['metadata']['lang'];
         $nodes = $this->elementFactory->html([$this->head($entity), $this->body($entity)], $lang);
-        //print_r($nodes);
-        //return '';
         return $this->nodeTransformer->toHtml($nodes);
     }
 
     private function body(array $entity): array
     {
         $childNodes = [];
+        unset($entity['attributes']['metadata']);
         foreach ($entity['attributes'] as $key => $attribute) {
             $htmlComponent = $this->htmlComponentFactory->create($key);
             $component = $htmlComponent->get($attribute);

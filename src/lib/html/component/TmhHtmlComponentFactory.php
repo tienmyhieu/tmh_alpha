@@ -17,9 +17,8 @@ readonly class TmhHtmlComponentFactory
             'entity_list' => new TmhEntityListHtmlComponent($this->elementFactory),
             'entity_lists' => new TmhEntityListsHtmlComponent($this),
             'siblings' => new TmhSiblingsHtmlComponent($this->elementFactory),
-            'topic' => new TmhTopicHtmlComponent($this, $this->elementFactory),
-            'topics' => new TmhTopicsHtmlComponent($this),
-            default => new TmhTitlesHtmlComponent($this->elementFactory),
+            'topic' => new TmhTopicHtmlComponent($this->elementFactory),
+            'title' => new TmhTitleHtmlComponent($this->elementFactory),
         };
     }
 }

@@ -44,9 +44,8 @@ require_once('lib/html/component/TmhEntityListHtmlComponent.php');
 require_once('lib/html/component/TmhEntityListsHtmlComponent.php');
 require_once('lib/html/component/TmhHtmlComponentFactory.php');
 require_once('lib/html/component/TmhSiblingsHtmlComponent.php');
-require_once('lib/html/component/TmhTitlesHtmlComponent.php');
+require_once('lib/html/component/TmhTitleHtmlComponent.php');
 require_once('lib/html/component/TmhTopicHtmlComponent.php');
-require_once('lib/html/component/TmhTopicsHtmlComponent.php');
 
 require_once('lib/transformers/TmhTransformer.php');
 require_once('lib/transformers/TmhAncestorsTransformer.php');
@@ -94,5 +93,5 @@ $componentFactory = new TmhHtmlComponentFactory($elementFactory);
 $nodeTransformer = new TmhHtmlNodeTransformer();
 $documentFactory = new TmhHtmlDocumentFactory($elementFactory, $componentFactory, $nodeTransformer);
 $alpha = new TmhAlpha($documentFactory, $htmlEntity);
-//echo $alpha->toHtml();
+echo $alpha->toHtml();
 //echo "</pre>";

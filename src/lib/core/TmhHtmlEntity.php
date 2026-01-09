@@ -21,7 +21,6 @@ readonly class TmhHtmlEntity
         $entity = $this->entity->get();
         $route = $this->reconstituteRoute($entity);
         $entity = $this->unsetRouteAttributes($entity, $route);
-        //print_r($entity);
         $htmlEntity = ['uuid' => $route['uuid'], 'attributes' => []];
         foreach ($this->dynamicAttributes($route['type']) as $attribute) {
             $htmlEntity['attributes'][$attribute] = $route;
@@ -46,7 +45,11 @@ readonly class TmhHtmlEntity
 
     private function dynamicAttributes(string $type): array
     {
-        return $type == 'article' ? self::DYNAMIC_ATTRIBUTES : array_merge(['siblings'], self::DYNAMIC_ATTRIBUTES);
+        return match ($type) {
+            'article' => self::DYNAMIC_ATTRIBUTES,
+            'toc' => ['siblings', 'metadata'],
+            default => array_merge(['siblings'], self::DYNAMIC_ATTRIBUTES)
+        };
     }
 
     private function entityAttributes(string $type): array
@@ -81,6 +84,9 @@ readonly class TmhHtmlEntity
 
     private function translatorAttributes(string $type): array
     {
-        return array_merge(self::DYNAMIC_ATTRIBUTES, []);
+        return match ($type) {
+            'toc' => ['metadata'],
+            default => self::DYNAMIC_ATTRIBUTES
+        };
     }
 }

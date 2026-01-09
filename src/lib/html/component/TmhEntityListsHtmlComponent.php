@@ -2,8 +2,6 @@
 
 namespace lib\html\component;
 
-use lib\html\TmhHtmlElementFactory;
-
 readonly class TmhEntityListsHtmlComponent implements TmhHtmlComponent
 {
     public function __construct(private TmhHtmlComponentFactory $htmlComponentFactory)
@@ -12,11 +10,12 @@ readonly class TmhEntityListsHtmlComponent implements TmhHtmlComponent
 
     public function get(array $entity): array
     {
-        $componentNodes = [];
-        foreach ($entity as $entityList) {
-            $component = $this->htmlComponentFactory->create('entity_list');
-            $componentNodes[] = $component->get($entityList);
-        }
-        return $componentNodes;
+        return [];
+//        $componentNodes = [];
+//        foreach ($entity as $entityList) {
+//            $component = $this->htmlComponentFactory->create('entity_list');
+//            $componentNodes[] = $component->get($entityList);
+//        }
+//        return $componentNodes;
     }
 }

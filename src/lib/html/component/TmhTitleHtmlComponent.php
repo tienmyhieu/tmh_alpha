@@ -4,7 +4,7 @@ namespace lib\html\component;
 
 use lib\html\TmhHtmlElementFactory;
 
-class TmhTitlesHtmlComponent implements TmhHtmlComponent
+readonly class TmhTitleHtmlComponent implements TmhHtmlComponent
 {
     public function __construct(private TmhHtmlElementFactory $elementFactory)
     {
@@ -12,6 +12,6 @@ class TmhTitlesHtmlComponent implements TmhHtmlComponent
 
     public function get(array $entity): array
     {
-        return [];
+        return $this->elementFactory->pageTitle($entity['translation']);
     }
 }

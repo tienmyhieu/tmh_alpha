@@ -12,10 +12,10 @@ readonly class TmhEntityListHtmlComponent implements TmhHtmlComponent
 
     public function get(array $entity): array
     {
-        echo $entity['translation'] . PHP_EOL;
-        $componentNodes = [];
-        $componentNodes[] = $this->elementFactory->listTitle($entity['translation']);
-        $componentNodes[] = $this->elementFactory->br();
-        return $componentNodes;
+        return [];
+//        $componentNodes = [];
+//        $componentNodes[] = $this->elementFactory->listTitle($entity['translation']);
+//        $componentNodes[] = $this->elementFactory->br();
+//        return $componentNodes;
     }
 }
