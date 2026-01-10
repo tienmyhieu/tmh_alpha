@@ -23,6 +23,7 @@ readonly class TmhHtmlDocumentFactory
     private function body(array $entity): array
     {
         $childNodes = [];
+        $lang = $entity['attributes']['metadata']['lang'];
         unset($entity['attributes']['metadata']);
         foreach ($entity['attributes'] as $key => $attribute) {
             $htmlComponent = $this->htmlComponentFactory->create($key);
