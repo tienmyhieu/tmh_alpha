@@ -14,6 +14,7 @@ readonly class TmhEntityListsTransformer implements TmhTransformer
         foreach ($entity['items'] as $entityList) {
             $transformedEntityList = [
                 'type' => $entityList['type'],
+                'lang' => $entityList['lang'],
                 'translation' => $entityList['translation'],
                 'items' => []
             ];

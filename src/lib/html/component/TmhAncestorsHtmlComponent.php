@@ -10,7 +10,7 @@ readonly class TmhAncestorsHtmlComponent implements TmhHtmlComponent
     {
     }
 
-    public function get(array $entity): array
+    public function get(array $entity, string $language): array
     {
         $childNodes = [];
         $lastAncestor = $entity[count($entity) - 1];
@@ -19,10 +19,10 @@ readonly class TmhAncestorsHtmlComponent implements TmhHtmlComponent
             $ancestorNodes = [];
             $ancestorNodes[] = $this->ancestorItemLink($ancestor);
             $ancestorNodes[] = $this->elementFactory->span([], '&nbsp;&raquo;&nbsp;');
-            $childNodes[] = $this->elementFactory->ancestorItem($ancestorNodes);
+            $childNodes[] = $this->elementFactory->ancestorItem([], $ancestorNodes);
         }
         $childNodes[] = $this->elementFactory->span([], $lastAncestor['innerHtml']);
-        return $this->elementFactory->ancestors($childNodes);
+        return $this->elementFactory->ancestors([], $childNodes);
     }
 
     private function ancestorItemLink(array $ancestor): array

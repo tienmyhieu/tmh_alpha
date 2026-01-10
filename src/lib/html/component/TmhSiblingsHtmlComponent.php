@@ -10,7 +10,7 @@ readonly class TmhSiblingsHtmlComponent implements TmhHtmlComponent
     {
     }
 
-    public function get(array $entity): array
+    public function get(array $entity, string $language): array
     {
         $childNodes = [];
         $siblingKeys = array_keys($entity);
@@ -19,17 +19,21 @@ readonly class TmhSiblingsHtmlComponent implements TmhHtmlComponent
         unset($entity[$lastSiblingKey]);
         foreach ($entity as $sibling) {
             $siblingNodes = [];
-            $siblingNodes[] = $this->siblingItemLink($sibling);
+            $siblingNodes[] = $this->siblingItemLink($sibling, $language);
             $siblingNodes[] = $this->elementFactory->span([], '&nbsp;&#9675;&nbsp;');
-            $childNodes[] = $this->elementFactory->siblingItem($siblingNodes);
+            $childNodes[] = $this->elementFactory->siblingItem([], $siblingNodes);
         }
-        $childNodes[] = $this->siblingItemLink($lastSibling);
-        return $this->elementFactory->siblings($childNodes);
+        $childNodes[] = $this->siblingItemLink($lastSibling, $language);
+        return $this->elementFactory->siblings([], $childNodes);
     }
 
-    private function siblingItemLink(array $sibling): array
+    private function siblingItemLink(array $sibling, string $language): array
     {
-        $attributes = ['lang' => $sibling['lang'], 'href' => $sibling['href'], 'title' => $sibling['title']];
+        $useLanguage = $sibling['lang'] != $language;
+        $attributes = ['href' => $sibling['href'], 'title' => $sibling['title']];
+        if ($useLanguage) {
+            $attributes['lang'] = $sibling['lang'];
+        }
         return $this->elementFactory->siblingItemLink($attributes, $sibling['innerHtml']);
     }
 }

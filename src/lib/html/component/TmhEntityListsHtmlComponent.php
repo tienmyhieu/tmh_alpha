@@ -12,13 +12,13 @@ readonly class TmhEntityListsHtmlComponent implements TmhHtmlComponent
     ) {
     }
 
-    public function get(array $entity): array
+    public function get(array $entity, string $language): array
     {
         $componentLists = [];
         foreach ($entity['items'] as $entityList) {
             $htmlComponent = $this->htmlComponentFactory->create($entityList['type']);
-            $componentLists[] = $this->elementFactory->componentList($htmlComponent->get($entityList));
+            $componentLists[] = $this->elementFactory->componentList([], $htmlComponent->get($entityList, $language));
         }
-        return $this->elementFactory->componentGroup($componentLists);
+        return $this->elementFactory->componentGroup([], $componentLists);
     }
 }

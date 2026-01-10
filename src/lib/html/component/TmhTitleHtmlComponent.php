@@ -10,8 +10,13 @@ readonly class TmhTitleHtmlComponent implements TmhHtmlComponent
     {
     }
 
-    public function get(array $entity): array
+    public function get(array $entity, string $language): array
     {
-        return $this->elementFactory->pageTitle($entity['translation']);
+        $attributes = [];
+        $useLanguage = 0 < strlen($entity['lang']) && $entity['lang'] != $language;
+        if ($useLanguage) {
+            $attributes['lang'] = $entity['lang'];
+        }
+        return $this->elementFactory->pageTitle($attributes, $entity['translation']);
     }
 }

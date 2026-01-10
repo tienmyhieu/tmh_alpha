@@ -24,9 +24,9 @@ class TmhHtmlNodeFactory
         return $this->node('br', [], [], '', true);
     }
 
-    public function div(string $class, array $childNodes, string $innerHtml): array
+    public function div(array $attributes, array $childNodes, string $innerHtml): array
     {
-        return $this->node('div', ['class' => $class], $childNodes, $innerHtml, false);
+        return $this->node('div', $attributes, $childNodes, $innerHtml, false);
     }
 
     public function head(array $childNodes): array

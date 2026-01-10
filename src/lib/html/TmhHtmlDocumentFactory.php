@@ -23,19 +23,19 @@ readonly class TmhHtmlDocumentFactory
     private function body(array $entity): array
     {
         $childNodes = [];
-        $lang = $entity['attributes']['metadata']['lang'];
+        $language = $entity['attributes']['metadata']['lang'];
         unset($entity['attributes']['metadata']);
         foreach ($entity['attributes'] as $key => $attribute) {
             $htmlComponent = $this->htmlComponentFactory->create($key);
-            $component = $htmlComponent->get($attribute);
+            $component = $htmlComponent->get($attribute, $language);
             if (count($component)) {
-                $childNodes[] = $this->elementFactory->component([$component]);
+                $childNodes[] = $this->elementFactory->component([], [$component]);
             }
         }
-        $marginLeft = $this->elementFactory->marginLeft();
-        $center = $this->elementFactory->center($childNodes);
-        $marginRight = $this->elementFactory->marginRight();
-        $body = $this->elementFactory->contentBody([$marginLeft, $center, $marginRight]);
+        $marginLeft = $this->elementFactory->marginLeft([]);
+        $center = $this->elementFactory->center([], $childNodes);
+        $marginRight = $this->elementFactory->marginRight([]);
+        $body = $this->elementFactory->contentBody([], [$marginLeft, $center, $marginRight]);
         return $this->elementFactory->body([], [$body]);
     }
 

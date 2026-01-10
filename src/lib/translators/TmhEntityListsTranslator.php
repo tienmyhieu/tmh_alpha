@@ -12,10 +12,14 @@ readonly class TmhEntityListsTranslator implements TmhTranslator
 
     public function translate(array $entity): array
     {
+//        echo "<pre>";
+//        print_r($entity);
+//        echo "</pre>";
         $translated = ['type' => $entity['type'], 'items' => []];
         foreach ($entity['items'] as $entityList) {
             $translatedEntityList = [
                 'type' => $entityList['type'],
+                'lang' => $entityList['lang'],
                 'translation' => $this->locale->get($entityList['translation']),
                 'items' => []
             ];
