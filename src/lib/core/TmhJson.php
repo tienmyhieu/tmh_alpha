@@ -37,7 +37,7 @@ class TmhJson
             // echo "<pre>" . 'reading ' . $path . $file . PHP_EOL . "</pre>";
             $contents = file_get_contents($path . $file . '.json');
         } else {
-            // echo "<pre>" . 'not reading ' . $path . $file . PHP_EOL . "</pre>";
+            //echo "<pre>" . 'not reading ' . $path . $file . PHP_EOL . "</pre>";
         }
         return json_decode($contents, true);
     }
