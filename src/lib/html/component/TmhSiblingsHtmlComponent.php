@@ -30,7 +30,7 @@ readonly class TmhSiblingsHtmlComponent implements TmhHtmlComponent
     private function siblingItemLink(array $sibling, string $language): array
     {
         $useLanguage = $sibling['lang'] != $language;
-        $attributes = ['href' => $sibling['href'], 'title' => $sibling['title']];
+        $attributes = ['href' => $sibling['href'], 'title' => trim($sibling['title'])];
         if ($useLanguage) {
             $attributes['lang'] = $sibling['lang'];
         }

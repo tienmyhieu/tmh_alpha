@@ -24,9 +24,9 @@
         "lang": "",
         "translation": "u07ytg1z",
         "items": [
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "mmd0ckjk", "translation": ["tz5wui5i"], "type": "route" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "2z91klps", "translation": ["sf9roia7"], "type": "route" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "9clbqv87", "translation": ["9pm5s23r"], "type": "route" }
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "mmd0ckjk", "translation": ["tz5wui5i"], "type": "route" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "2z91klps", "translation": ["sf9roia7"], "type": "route" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "9clbqv87", "translation": ["9pm5s23r"], "type": "route" }
         ]
       }
     ]
