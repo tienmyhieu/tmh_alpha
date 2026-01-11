@@ -13,9 +13,9 @@ readonly class TmhAncestorsHtmlComponent implements TmhHtmlComponent
     public function get(array $entity, string $language): array
     {
         $childNodes = [];
-        $lastAncestor = $entity[count($entity) - 1];
-        unset($entity[count($entity) - 1]);
-        foreach ($entity as $ancestor) {
+        $lastAncestor = $entity['items'][count($entity['items']) - 1];
+        unset($entity['items'][count($entity['items']) - 1]);
+        foreach ($entity['items'] as $ancestor) {
             $ancestorNodes = [];
             $ancestorNodes[] = $this->ancestorItemLink($ancestor);
             $ancestorNodes[] = $this->elementFactory->span([], '&nbsp;&raquo;&nbsp;');

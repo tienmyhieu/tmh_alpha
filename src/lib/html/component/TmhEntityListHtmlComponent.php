@@ -18,8 +18,10 @@ readonly class TmhEntityListHtmlComponent implements TmhHtmlComponent
         if ($useLanguage) {
             $attributes['lang'] = $entity['lang'];
         }
-        $componentNodes[] = $this->elementFactory->listTitle($attributes, $entity['translation']);
-        $componentNodes[] = $this->elementFactory->br();
+        if (0 < strlen($entity['translation'])) {
+            $componentNodes[] = $this->elementFactory->listTitle($attributes, $entity['translation']);
+            $componentNodes[] = $this->elementFactory->br();
+        }
 
         foreach ($entity['items'] as $listItem) {
             $componentNodes[] = $this->elementFactory->listItem(

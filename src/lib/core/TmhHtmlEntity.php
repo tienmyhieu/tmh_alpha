@@ -7,8 +7,6 @@ use lib\translators\TmhTranslatorFactory;
 
 readonly class TmhHtmlEntity
 {
-    private const array DYNAMIC_ATTRIBUTES = ['ancestors', 'metadata'];
-
     public function __construct(
         private TmhEntity $entity,
         private TmhTransformerFactory $transformerFactory,
@@ -20,49 +18,34 @@ readonly class TmhHtmlEntity
     {
         $entity = $this->entity->get();
         $route = $this->reconstituteRoute($entity);
-        $entity = $this->unsetRouteAttributes($entity, $route);
         $htmlEntity = ['uuid' => $route['uuid'], 'attributes' => []];
-        foreach ($this->dynamicAttributes($route['type']) as $attribute) {
-            $htmlEntity['attributes'][$attribute] = $route;
+        $htmlEntity['metadata'] = $this->metadata($route);
+        if ($entity['type'] != 'article') {
+            $htmlEntity['attributes'][] = $this->siblings($route);
         }
-        foreach ($this->transformerAttributes($route['type']) as $attribute) {
-            $transformer = $this->transformerFactory->create($attribute);
-            $htmlEntity['attributes'][$attribute] = $transformer->transform($htmlEntity['attributes'][$attribute]);
+        if ($entity['type'] != 'toc') {
+            $htmlEntity['attributes'][] = $this->ancestors($route);
         }
-        foreach ($this->translatorAttributes($route['type']) as $attribute) {
-            $translator = $this->translatorFactory->create($attribute);
-            $htmlEntity['attributes'][$attribute] = $translator->translate($htmlEntity['attributes'][$attribute]);
-        }
-        $entityAttributes = $this->entityAttributes($route['type']);
+        $entity = $this->unsetRouteAttributes($entity, $route);
         foreach ($entity as $attribute) {
-            if (in_array($attribute['type'], $entityAttributes)) {
-                $translator = $this->translatorFactory->create($attribute['type']);
-                $htmlEntity['attributes'][$attribute['type']] = $translator->translate($attribute);
-            }
+            $translator = $this->translatorFactory->create($attribute['type']);
+            $htmlEntity['attributes'][] = $translator->translate($attribute);
         }
         return $htmlEntity;
     }
 
-    private function dynamicAttributes(string $type): array
+    private function ancestors(array $route): array
     {
-        return match ($type) {
-            'article' => self::DYNAMIC_ATTRIBUTES,
-            'toc' => ['siblings', 'metadata'],
-            default => array_merge(['siblings'], self::DYNAMIC_ATTRIBUTES)
-        };
+        $transformer = $this->transformerFactory->create('ancestors');
+        $translator = $this->translatorFactory->create('ancestors');
+        return ['type' => 'ancestors', 'items' => $translator->translate($transformer->transform($route))];
     }
 
-    private function entityAttributes(string $type): array
+    private function metadata(array $route): array
     {
-        return ['title', 'topic', 'entity_lists'];
-    }
-
-    private function unsetRouteAttributes(array $entity, array $route): array
-    {
-        foreach (array_keys($route) as $attribute) {
-            unset($entity[$attribute]);
-        }
-        return $entity;
+        $transformer = $this->transformerFactory->create('metadata');
+        $translator = $this->translatorFactory->create('metadata');
+        return $translator->translate($transformer->transform($route));
     }
 
     private function reconstituteRoute(array $entity): array
@@ -77,16 +60,17 @@ readonly class TmhHtmlEntity
         ];
     }
 
-    private function transformerAttributes(string $type): array
+    private function siblings(array $route): array
     {
-        return array_merge($this->dynamicAttributes($type), []);
+        $transformer = $this->transformerFactory->create('siblings');
+        return ['type' => 'siblings', 'items' => $transformer->transform($route)];
     }
 
-    private function translatorAttributes(string $type): array
+    private function unsetRouteAttributes(array $entity, array $route): array
     {
-        return match ($type) {
-            'toc' => ['metadata'],
-            default => self::DYNAMIC_ATTRIBUTES
-        };
+        foreach (array_keys($route) as $attribute) {
+            unset($entity[$attribute]);
+        }
+        return $entity;
     }
 }

@@ -13,11 +13,11 @@ readonly class TmhSiblingsHtmlComponent implements TmhHtmlComponent
     public function get(array $entity, string $language): array
     {
         $childNodes = [];
-        $siblingKeys = array_keys($entity);
+        $siblingKeys = array_keys($entity['items']);
         $lastSiblingKey = $siblingKeys[count($siblingKeys) - 1];
-        $lastSibling = $entity[$lastSiblingKey];
+        $lastSibling = $entity['items'][$lastSiblingKey];
         unset($entity[$lastSiblingKey]);
-        foreach ($entity as $sibling) {
+        foreach ($entity['items'] as $sibling) {
             $siblingNodes = [];
             $siblingNodes[] = $this->siblingItemLink($sibling, $language);
             $siblingNodes[] = $this->elementFactory->span([], '&nbsp;&#9675;&nbsp;');

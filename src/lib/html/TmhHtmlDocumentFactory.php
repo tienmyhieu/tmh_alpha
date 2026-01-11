@@ -15,18 +15,17 @@ readonly class TmhHtmlDocumentFactory
 
     public function create(array $entity): string
     {
-        $lang = $entity['attributes']['metadata']['lang'];
-        $nodes = $this->elementFactory->html([$this->head($entity), $this->body($entity)], $lang);
+        $lang = $entity['metadata']['lang'];
+        $nodes = $this->elementFactory->html([$this->head($entity['metadata']), $this->body($entity)], $lang);
         return $this->nodeTransformer->toHtml($nodes);
     }
 
     private function body(array $entity): array
     {
         $childNodes = [];
-        $language = $entity['attributes']['metadata']['lang'];
-        unset($entity['attributes']['metadata']);
-        foreach ($entity['attributes'] as $key => $attribute) {
-            $htmlComponent = $this->htmlComponentFactory->create($key);
+        $language = $entity['metadata']['lang'];
+        foreach ($entity['attributes'] as $attribute) {
+            $htmlComponent = $this->htmlComponentFactory->create($attribute['type']);
             $component = $htmlComponent->get($attribute, $language);
             if (count($component)) {
                 $childNodes[] = $this->elementFactory->component([], [$component]);
@@ -41,7 +40,6 @@ readonly class TmhHtmlDocumentFactory
 
     private function head(array $entity): array
     {
-        $metadata = $entity['attributes']['metadata'];
-        return $this->elementFactory->head($metadata['description'], $metadata['keywords'], $metadata['documentTitle']);
+        return $this->elementFactory->head($entity['description'], $entity['keywords'], $entity['documentTitle']);
     }
 }
