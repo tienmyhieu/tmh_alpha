@@ -143,8 +143,8 @@ readonly class TmhRoute
     private function toKeyedRoutes(array $routes): array
     {
         $transformed = [];
-        $patterns = ["'", ' ', '、', '-', '.', "'", ','];
-        $replacements = ['', '_', '', '_', '_', '', ''];
+        $patterns = ["'", ' ', '、', '-', '.', "'", ',', ':'];
+        $replacements = ['', '_', '', '_', '_', '', '', ''];
         foreach ($routes as $uuid => $route) {
             $key = implode('/', $this->locale->getMany($route['href']));
             $transformed[str_replace($patterns, $replacements, $key)] = $uuid;

@@ -34,21 +34,26 @@ readonly class TmhEntityListHtmlComponent implements TmhHtmlComponent
         return [$this->elementFactory->entityList([], $componentNodes)];
     }
 
-    private function transformListItem(array $listItem, string $language): array
-    {
-        return match($listItem['type']) {
-            'route' => $this->routeListItem($listItem, $language),
-            default => $this->textListItem($listItem, $language)
-        };
-    }
-
-    private function routeListItem(array $listItem, string $language): array
+    private function routeAttributes(array $listItem, string $language): array
     {
         $attributes = ['href' => $listItem['route']['href'], 'title' => $listItem['route']['title']];
         $useLanguage = $this->useLanguage($listItem, $language);
         if ($useLanguage) {
             $attributes['lang'] = $listItem['lang'];
         }
+        return $attributes;
+    }
+
+    private function routeListItem(array $listItem, string $language): array
+    {
+        $attributes = $this->routeAttributes($listItem, $language);
+        return $this->elementFactory->listItemLink($attributes, $listItem['route']['innerHtml']);
+    }
+
+    private function route2ListItem(array $listItem, string $language): array
+    {
+        $attributes = $this->routeAttributes($listItem, $language);
+        $listItem['route']['innerHtml'] = $listItem['identifier'] . ' - ' . $listItem['route']['innerHtml'];
         return $this->elementFactory->listItemLink($attributes, $listItem['route']['innerHtml']);
     }
 
@@ -60,6 +65,15 @@ readonly class TmhEntityListHtmlComponent implements TmhHtmlComponent
             $attributes['lang'] = $listItem['lang'];
         }
         return $this->elementFactory->span($attributes, $listItem['translation']);
+    }
+
+    private function transformListItem(array $listItem, string $language): array
+    {
+        return match($listItem['type']) {
+            'route' => $this->routeListItem($listItem, $language),
+            'route2' => $this->route2ListItem($listItem, $language),
+            default => $this->textListItem($listItem, $language)
+        };
     }
 
     private function useLanguage(array $entity, string $language): bool
