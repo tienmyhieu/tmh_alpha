@@ -9,9 +9,9 @@
         "lang": "",
         "translation": "yts3t5df",
         "items": [
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "hjvi00op", "translation": ["csnavkj8"], "type": "route" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "scd99xcf", "translation": ["0r0jnf8n"], "type": "route" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "y4kuomg2", "translation": ["t1ogq9j2"], "type": "route" }
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "hjvi00op", "translation": ["csnavkj8"], "type": "route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "scd99xcf", "translation": ["0r0jnf8n"], "type": "route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "y4kuomg2", "translation": ["t1ogq9j2"], "type": "route1" }
         ]
       }
     ]
@@ -24,9 +24,9 @@
         "lang": "",
         "translation": "u07ytg1z",
         "items": [
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "mmd0ckjk", "translation": ["tz5wui5i"], "type": "route" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "2z91klps", "translation": ["sf9roia7"], "type": "route" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "9clbqv87", "translation": ["9pm5s23r"], "type": "route" }
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "mmd0ckjk", "translation": ["tz5wui5i"], "type": "route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "2z91klps", "translation": ["sf9roia7"], "type": "route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "9clbqv87", "translation": ["9pm5s23r"], "type": "route1" }
         ]
       }
     ]

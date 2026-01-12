@@ -11,7 +11,7 @@ readonly class TmhAncestorsTranslator implements TmhTranslator
     public function translate(array $entity): array
     {
         $translated = [];
-        $translator = $this->translatorFactory->create('route');
+        $translator = $this->translatorFactory->create('route1');
         foreach ($entity as $ancestor) {
             $translated[] = $translator->translate($ancestor);
         }

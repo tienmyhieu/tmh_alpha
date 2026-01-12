@@ -44,13 +44,13 @@ readonly class TmhEntityListHtmlComponent implements TmhHtmlComponent
         return $attributes;
     }
 
-    private function routeListItem(array $listItem, string $language): array
+    private function routeTypeOneListItem(array $listItem, string $language): array
     {
         $attributes = $this->routeAttributes($listItem, $language);
         return $this->elementFactory->listItemLink($attributes, $listItem['route']['innerHtml']);
     }
 
-    private function route2ListItem(array $listItem, string $language): array
+    private function routeTypeTwoListItem(array $listItem, string $language): array
     {
         $attributes = $this->routeAttributes($listItem, $language);
         $listItem['route']['innerHtml'] = $listItem['identifier'] . ' - ' . $listItem['route']['innerHtml'];
@@ -70,8 +70,8 @@ readonly class TmhEntityListHtmlComponent implements TmhHtmlComponent
     private function transformListItem(array $listItem, string $language): array
     {
         return match($listItem['type']) {
-            'route' => $this->routeListItem($listItem, $language),
-            'route2' => $this->route2ListItem($listItem, $language),
+            'route1' => $this->routeTypeOneListItem($listItem, $language),
+            'route2' => $this->routeTypeTwoListItem($listItem, $language),
             default => $this->textListItem($listItem, $language)
         };
     }

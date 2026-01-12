@@ -9,9 +9,9 @@
         "lang": "",
         "translation": "tl21gvro",
         "items": [
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "n3a7yusi", "translation": ["owx48uk2"], "type": "route" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "e7e2tq5u", "translation": ["fkopup0j"], "type": "route" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "pekqp5dk", "translation": ["ifj4y3ag"], "type": "route" }
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "n3a7yusi", "translation": ["owx48uk2"], "type": "route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "e7e2tq5u", "translation": ["fkopup0j"], "type": "route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi", "route": "pekqp5dk", "translation": ["ifj4y3ag"], "type": "route1" }
         ]
       }
     ]
@@ -24,7 +24,7 @@
         "lang": "",
         "translation": "lm8zsnx8",
         "items": [
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja", "route": "8w01zpww", "translation": ["0x8c99on"], "type": "route" }
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja", "route": "8w01zpww", "translation": ["0x8c99on"], "type": "route1" }
         ]
       }
     ]
@@ -37,7 +37,7 @@
         "lang": "",
         "translation": "lis0vsmv",
         "items": [
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr", "route": "xykuqy24", "translation": ["pmrtf4hy"], "type": "route" }
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr", "route": "xykuqy24", "translation": ["pmrtf4hy"], "type": "route1" }
         ]
       }
     ]
@@ -50,10 +50,10 @@
         "lang": "",
         "translation": "8kpxhrtu",
         "items": [
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "zpqwr0ow", "translation": ["fxfnyybi"], "type": "route" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "1y9xkbss", "translation": ["ia9nazro"], "type": "route" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "4c4skgts", "translation": ["vall9fvz"], "type": "route" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "zmvevvgm", "translation": ["aw1tjsnd"], "type": "route" }
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "zpqwr0ow", "translation": ["fxfnyybi"], "type": "route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "1y9xkbss", "translation": ["ia9nazro"], "type": "route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "4c4skgts", "translation": ["vall9fvz"], "type": "route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh", "route": "zmvevvgm", "translation": ["aw1tjsnd"], "type": "route1" }
         ]
       }
     ]

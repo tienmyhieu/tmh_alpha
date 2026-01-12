@@ -10,7 +10,7 @@ readonly class TmhEntityListItemTransformer implements TmhTransformer
 
     public function transform(array $entity): array
     {
-        $routeTypes = ['route', 'route2'];
+        $routeTypes = ['route1', 'route2'];
         unset($entity['active']);
         if ($entity['type'] == 'image') {
             $transformer = $this->transformerFactory->create('image');
@@ -18,7 +18,7 @@ readonly class TmhEntityListItemTransformer implements TmhTransformer
             $entity['route'] = $transformer->transform($entityToTransform);
         }
         if (in_array($entity['type'], $routeTypes)) {
-            $transformer = $this->transformerFactory->create('route');
+            $transformer = $this->transformerFactory->create($entity['type']);
             $entityToTransform = ['uuid' => $entity['route'], 'translation' => $entity['translation']];
             $entity['route'] = $transformer->transform($entityToTransform);
         }
