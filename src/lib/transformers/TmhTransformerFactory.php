@@ -29,7 +29,8 @@ readonly class TmhTransformerFactory
             'metadata' => new TmhMetadataTransformer($this->domain),
             'siblings' => new TmhSiblingTransformer($this->domain, $this->locale, $this->route),
             'route1',
-            'route2' => new TmhRouteTransformer($this->route)
+            'route2',
+            'route3' => new TmhRouteTransformer($this->route)
         };
     }
 }

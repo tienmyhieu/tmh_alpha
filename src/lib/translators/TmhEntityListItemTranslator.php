@@ -12,7 +12,7 @@ readonly class TmhEntityListItemTranslator implements TmhTranslator
 
     public function translate(array $entity): array
     {
-        $routeTypes = ['route1', 'route2'];
+        $routeTypes = ['route1', 'route2', 'route3'];
         if (in_array($entity['type'], $routeTypes)) {
             $translator = $this->translatorFactory->create($entity['type']);
             $entity['route'] = $translator->translate($entity['route']);

@@ -16,7 +16,7 @@ readonly class TmhSiblingsHtmlComponent implements TmhHtmlComponent
         $siblingKeys = array_keys($entity['items']);
         $lastSiblingKey = $siblingKeys[count($siblingKeys) - 1];
         $lastSibling = $entity['items'][$lastSiblingKey];
-        unset($entity[$lastSiblingKey]);
+        unset($entity['items'][$lastSiblingKey]);
         foreach ($entity['items'] as $sibling) {
             $siblingNodes = [];
             $siblingNodes[] = $this->siblingItemLink($sibling, $language);

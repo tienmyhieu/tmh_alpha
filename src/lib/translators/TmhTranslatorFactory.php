@@ -20,7 +20,8 @@ readonly class TmhTranslatorFactory
             'entity_lists' => new TmhEntityListsTranslator($this, $this->locale),
             'metadata' => new TmhMetadataTranslator($this->locale),
             'route1',
-            'route2' => new TmhRouteTranslator($this->locale, $this->route, $this->server),
+            'route2',
+            'route3' => new TmhRouteTranslator($this->locale, $this->route, $this->server),
             'title' => new TmhTitleTranslator($this->locale),
             'topic' => new TmhTopicTranslator($this->locale)
         };
