@@ -46,6 +46,6 @@ readonly class TmhEntity
 
     private function transformers(string $type): array
     {
-        return ['entity_lists'];
+        return ['entity_lists', 'image_gallery'];
     }
 }

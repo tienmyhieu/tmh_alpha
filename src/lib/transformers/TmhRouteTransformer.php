@@ -12,9 +12,15 @@ readonly class TmhRouteTransformer implements TmhTransformer
 
     public function transform(array $entity): array
     {
-        $routeUuid = $entity['uuid'];
-        $route = $this->route->hydrate($this->route->get($routeUuid));
-        $route['innerHtml'] = implode(' ', $entity['translation']);
-        return $route;
+        $route = $this->route->get($entity['uuid']);
+        if (in_array('code', array_keys($entity))) {
+            $route['code'] = $entity['code'];
+        }
+        if (in_array('type', array_keys($entity))) {
+            $route['type'] = $entity['type'];
+        }
+        $transformed = $this->route->hydrate($route);
+        $transformed['innerHtml'] = str_replace('_', ' ', implode(' ', $entity['translation']));
+        return $transformed;
     }
 }

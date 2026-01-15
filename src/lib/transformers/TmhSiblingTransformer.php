@@ -45,7 +45,8 @@ readonly class TmhSiblingTransformer implements TmhTransformer
         foreach ($route['href'] as $uuid) {
             $domainRoute['href'][] = $this->locale->scrubbed($locales[$uuid]);
         }
-        if ($route['type'] == 'metal_emperor_coin_specimen') {
+        $specimenRouteTypes = ['specimen', 'specimen_group'];
+        if (in_array($route['type'], $specimenRouteTypes)) {
             $codeParts = explode('.', $route['code']);
             $domainRoute['href'][] = $codeParts[count($codeParts) - 1];
         }

@@ -16,6 +16,8 @@ readonly class TmhHtmlComponentFactory
             'ancestors' => new TmhAncestorsHtmlComponent($this->elementFactory),
             'entity_list' => new TmhEntityListHtmlComponent($this->elementFactory),
             'entity_lists' => new TmhEntityListsHtmlComponent($this, $this->elementFactory),
+            'image_gallery' => new TmhImageGalleryHtmlComponent($this, $this->elementFactory),
+            'image_group' => new TmhImageGalleryItemHtmlComponent($this->elementFactory),
             'siblings' => new TmhSiblingsHtmlComponent($this->elementFactory),
             'topic' => new TmhTopicHtmlComponent($this->elementFactory),
             'title' => new TmhTitleHtmlComponent($this->elementFactory),

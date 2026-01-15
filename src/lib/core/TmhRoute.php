@@ -101,8 +101,9 @@ readonly class TmhRoute
         $ancestorRoute = $this->ancestorRoute($routeParts);
         $childRoute = $ancestorRoute;
         if ($ancestorRoute['type'] === 'metal_emperor_coin') {
+            $type = 4 == strlen($requestedChildRoute) ? 'specimen_group' : 'specimen';
             $childRoute['code'] = $ancestorRoute['code'] . '.' . $requestedChildRoute;
-            $childRoute['type'] = $ancestorRoute['type'] . '_specimen';
+            $childRoute['type'] = $type;
         }
         return $childRoute;
     }
@@ -130,7 +131,7 @@ readonly class TmhRoute
                 $routeTypes[] = $route['type'];
             }
         }
-        $routeTypes[] = 'metal_emperor_coin_specimen';
+        $routeTypes = array_merge($routeTypes, ['specimen', 'specimen_group']);
         sort($routeTypes);
         return $routeTypes;
     }
@@ -158,7 +159,8 @@ readonly class TmhRoute
         $secondLast = $route['href'][count($route['href']) - 2];
         $route['innerHtml'] = $last;
         $route['title'] = [$secondLast, $last];
-        if ($route['type'] == 'metal_emperor_coin_specimen') {
+        $specimenRouteTypes = ['specimen', 'specimen_group'];
+        if (in_array($route['type'], $specimenRouteTypes)) {
             $codeParts = explode('.', $route['code']);
             $uuid = $codeParts[count($codeParts) - 1];
             $route['innerHtml'] = str_replace('_', ' ', $uuid);

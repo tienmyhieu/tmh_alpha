@@ -19,6 +19,10 @@ readonly class TmhRouteTranslator implements TmhTranslator
         foreach ($entity['href'] as $uuid) {
             $translated['href'][] = $this->locale->scrubbed($this->locale->get($uuid));
         }
+        $specimenRouteTypes = ['specimen', 'specimen_group'];
+        if (in_array($entity['type'], $specimenRouteTypes)) {
+            $translated['href'][] = $entity['code'];
+        }
         foreach ($entity['title'] as $uuid) {
             $translated['title'][] = $this->locale->get($uuid);
         }

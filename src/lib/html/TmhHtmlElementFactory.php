@@ -137,6 +137,24 @@ readonly class TmhHtmlElementFactory
         return $this->nodeFactory->html(['lang' => $language], $childNodes);
     }
 
+    public function imageGallery(array $attributes, array $childNodes): array
+    {
+        $attributes['class'] = 'tmh_image_gallery';
+        return $this->nodeFactory->div($attributes, $childNodes, '');
+    }
+
+    public function imageGalleryItem(array $attributes, array $childNodes): array
+    {
+        $attributes['class'] = 'tmh_image_gallery_item';
+        return $this->nodeFactory->div($attributes, $childNodes, '');
+    }
+
+    public function imageGalleryItemDescription(array $attributes, string $innerHtml): array
+    {
+        $attributes['class'] = 'tmh_image_gallery_item_description';
+        return $this->nodeFactory->div($attributes, [], $innerHtml);
+    }
+
     public function imageGroup(array $attributes, array $childNodes): array
     {
         $attributes['class'] = 'tmh_image_group';
@@ -169,7 +187,7 @@ readonly class TmhHtmlElementFactory
         $linkAttributes = [
             'class' => 'tmh_list_item_link',
             'href' => $attributes['href'],
-            'name' => $attributes['name'],
+            //'name' => $attributes['name'],
             'target' => $attributes['target'],
             'title' => $attributes['title']
         ];
