@@ -16,7 +16,7 @@ readonly class TmhImageTransformer implements TmhTransformer
         $image = $this->database->image($entity['uuid']);
         return match($entity['type']) {
           'image2' => $this->image($image),
-          default => $this->imageToImageRoute($entity)
+          default => $this->imageToImageRoute(array_merge($image, ['translation' => $entity['translation']]))
         };
     }
 
@@ -30,14 +30,12 @@ readonly class TmhImageTransformer implements TmhTransformer
 
     private function imageToImageRoute(array $image): array
     {
-        $href = $this->server->imageHost() . '/images/1024/' . $image['src'] . '.jpg';
-        $alt = $image['alt'];
         return [
             'code' => '',
-            'innerHtml' => $alt,
-            'href' => $href,
-            'title' => $alt,
-            'type' => 'image',
+            'innerHtml' => $image['translation'],
+            'href' => $this->server->imageHost() . '/images/1024/' . $image['src'] . '.jpg',
+            'title' => $image['alt'],
+            'type' => 'image_route1',
             'uuid' => ''
         ];
     }

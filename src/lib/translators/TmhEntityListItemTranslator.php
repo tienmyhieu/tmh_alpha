@@ -17,6 +17,11 @@ readonly class TmhEntityListItemTranslator implements TmhTranslator
             $translator = $this->translatorFactory->create($entity['type']);
             $entity['route'] = $translator->translate($entity['route']);
         }
+        if ($entity['type'] == 'image_route1') {
+            $translator = $this->translatorFactory->create($entity['type']);
+            $entity['route'] = $translator->translate($entity['route']);
+            $entity['type'] = 'route1';
+        }
         $entity['translation'] = implode(' ', $this->locale->getMany($entity['translation']));
 
         return $entity;

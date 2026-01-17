@@ -22,6 +22,7 @@ readonly class TmhTranslatorFactory
             'image_gallery' => new TmhImageGalleryTranslator($this, $this->locale),
             'image_group1',
             'image_group2' => new TmhImageGroupTranslator($this, $this->locale),
+            'image_route1' => new TmhImageRouteTranslator($this->locale, $this->route),
             'metadata' => new TmhMetadataTranslator($this->locale),
             'route1',
             'route2',

@@ -69,6 +69,7 @@ require_once('lib/translators/TmhEntityListsTranslator.php');
 require_once('lib/translators/TmhImageTranslator.php');
 require_once('lib/translators/TmhImageGalleryTranslator.php');
 require_once('lib/translators/TmhImageGroupTranslator.php');
+require_once('lib/translators/TmhImageRouteTranslator.php');
 require_once('lib/translators/TmhMetadataTranslator.php');
 require_once('lib/translators/TmhRouteTranslator.php');
 require_once('lib/translators/TmhTitleTranslator.php');

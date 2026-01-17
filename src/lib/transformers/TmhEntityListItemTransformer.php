@@ -12,14 +12,18 @@ readonly class TmhEntityListItemTransformer implements TmhTransformer
     {
         $routeTypes = ['route1', 'route2', 'route3'];
         unset($entity['active']);
-        if ($entity['type'] == 'image') {
-            $transformer = $this->transformerFactory->create('image');
-            $entityToTransform = ['uuid' => $entity['image']];
-            $entity['route'] = $transformer->transform($entityToTransform);
-        }
         if (in_array($entity['type'], $routeTypes)) {
             $transformer = $this->transformerFactory->create($entity['type']);
             $entityToTransform = ['uuid' => $entity['route'], 'translation' => $entity['translation']];
+            $entity['route'] = $transformer->transform($entityToTransform);
+        }
+        if ($entity['type'] == 'image_route1') {
+            $transformer = $this->transformerFactory->create('image1');
+            $entityToTransform = [
+                'uuid' => $entity['image'],
+                'translation' => $entity['translation'],
+                'type' => 'image_route1'
+            ];
             $entity['route'] = $transformer->transform($entityToTransform);
         }
         unset($entity['image']);
