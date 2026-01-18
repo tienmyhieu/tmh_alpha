@@ -1,0 +1,21 @@
+[
+  { "type": "title", "lang": "", "translation": "ffhq0gea", "identifier": "" },
+  { "type": "title", "lang": "", "translation": "s48pkn9o", "identifier": "" },
+  { "type": "topic", "lang": "fr", "translation": "jvzwx35l", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "translation": "",
+    "items": [
+      { "active": "1", "code": "mmdp_1", "identifier": "V60", "image_group": "lgazuurk", "lang": "", "route": "78fh1lat", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_2", "identifier": "V61", "image_group": "fcenpfr2", "lang": "", "route": "78fh1lat", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_3", "identifier": "V62", "image_group": "1xr3zans", "lang": "", "route": "78fh1lat", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_4", "identifier": "V63", "image_group": "34crfct9", "lang": "", "route": "78fh1lat", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_5", "identifier": "V64", "image_group": "o2exqmza", "lang": "", "route": "78fh1lat", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_6", "identifier": "V65", "image_group": "1u1widro", "lang": "", "route": "78fh1lat", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_7", "identifier": "V66", "image_group": "5wn0bj9k", "lang": "", "route": "78fh1lat", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_8", "identifier": "V67", "image_group": "clfbkkhr", "lang": "", "route": "78fh1lat", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_9", "identifier": "V68", "image_group": "vksnwqtx", "lang": "", "route": "78fh1lat", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_10", "identifier": "V69", "image_group": "ek3trrfr", "lang": "", "route": "78fh1lat", "translation": [], "type": "image_group3" }
+    ]
+  }
+]

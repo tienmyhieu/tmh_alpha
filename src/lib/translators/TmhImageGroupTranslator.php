@@ -17,6 +17,7 @@ readonly class TmhImageGroupTranslator implements TmhTranslator
             'lang' => $entity['lang'],
             'translation' => $entity['translation'],
             'date' => $entity['date'],
+            'identifier' => $entity['identifier'],
             'images' => []
         ];
         if (0 < count($entity['translation'])) {

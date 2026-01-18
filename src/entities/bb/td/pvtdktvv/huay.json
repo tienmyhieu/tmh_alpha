@@ -6,9 +6,9 @@
     "type": "image_gallery",
     "translation": "",
     "items": [
-      { "active": "1", "code": "hccv_1", "identifier": "", "image_group": "qoqm9mhr", "lang": "", "route": "xa7hqyir", "translation": [], "type": "image_group1" },
-      { "active": "1", "code": "huay_1", "identifier": "", "image_group": "fo0u12rq", "lang": "", "route": "xa7hqyir", "translation": [], "type": "image_group1" },
-      { "active": "1", "code": "huay_2", "identifier": "", "image_group": "rr9w38z5", "lang": "", "route": "xa7hqyir", "translation": [], "type": "image_group1" }
+      { "active": "1", "code": "hccv_1", "identifier": "194", "image_group": "qoqm9mhr", "lang": "", "route": "xa7hqyir", "translation": [], "type": "image_group1" },
+      { "active": "1", "code": "huay_1", "identifier": "170117", "image_group": "fo0u12rq", "lang": "", "route": "xa7hqyir", "translation": [], "type": "image_group1" },
+      { "active": "1", "code": "huay_2", "identifier": "220629", "image_group": "rr9w38z5", "lang": "", "route": "xa7hqyir", "translation": [], "type": "image_group1" }
     ]
   }
 ]

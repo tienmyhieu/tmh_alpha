@@ -19,7 +19,7 @@ readonly class TmhImageGalleryHtmlComponent implements TmhHtmlComponent
             $componentNodes[] = $this->elementFactory->listTitle([], $entity['translation']);
         }
         foreach ($entity['items'] as $imageGroup) {
-            $imageGroupFactory = $this->componentFactory->create('image_group');
+            $imageGroupFactory = $this->componentFactory->create('image_gallery_item');
             $componentNodes[] = $imageGroupFactory->get($imageGroup, $language);
         }
         return $this->elementFactory->imageGallery([], $componentNodes);
