@@ -29,7 +29,7 @@ readonly class TmhRoute
     public function flatten(array $route): array
     {
         $prefix = '/';
-        $noPrefixTypes = ['toc', 'image_route1'];
+        $noPrefixTypes = ['toc', 'image_route1', 'image_route2'];
         if (in_array('lang', array_keys($route)) || in_array($route['type'], $noPrefixTypes)) {
             $prefix = '';
         }
