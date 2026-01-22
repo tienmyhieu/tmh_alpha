@@ -33,12 +33,16 @@ readonly class TmhImageTransformer implements TmhTransformer
     private function imageToImageRoute(array $image): array
     {
         return [
-            'code' => '',
-            'innerHtml' => $image['translation'],
-            'href' => $this->server->imageHost() . '/images/1024/' . $image['src'] . '.jpg',
-            'title' => $image['alt'],
-            'type' => $image['type'],
-            'uuid' => ''
+            'alt' => $image['alt'],
+            'src' => $this->server->imageHost() . '/images/128/' . $image['src'] . '.jpg',
+            'route' => [
+                'code' => '',
+                'innerHtml' => $image['translation'],
+                'href' => $this->server->imageHost() . '/images/1024/' . $image['src'] . '.jpg',
+                'title' => $image['alt'],
+                'type' => $image['type'],
+                'uuid' => ''
+            ]
         ];
     }
 }

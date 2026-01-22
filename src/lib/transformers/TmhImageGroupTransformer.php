@@ -55,15 +55,16 @@ readonly class TmhImageGroupTransformer implements TmhTransformer
         return match($entity['type']) {
             'image_group1' => $this->entityIdentifiedImageGroupTranslation($entity),
             'image_group2' => $this->datedIdentifiedImageGroupTranslation($entity, $imageGroup),
-            'image_group3' => $this->identifiedImageGroupTranslation($entity),
+            'image_group3',
+            'image_group4' => $this->identifiedImageGroupTranslation($entity),
             default => $entity['code']
         };
     }
 
     private function routedToImageGroup(array $entity, string $image): array
     {
-        $imageTransformer = $this->transformerFactory->create('image2');
-        $imageToTransform = ['uuid' => $image, 'translation' => $entity['translation'], 'type' => 'image2'];
+        $imageTransformer = $this->transformerFactory->create('image1');
+        $imageToTransform = ['uuid' => $image, 'translation' => $entity['translation'], 'type' => 'image1'];
         return $imageTransformer->transform($imageToTransform);
     }
 
