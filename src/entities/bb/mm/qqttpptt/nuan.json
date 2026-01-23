@@ -4,7 +4,6 @@
   { "type": "topic", "lang": "fr", "translation": "jo0iecf1", "identifier": "" },
   {
     "type": "image_gallery",
-    "translation": "",
     "items": [
       { "active": "1", "code": "nuan_1", "identifier": "400", "image_group": "atfqm5l5", "lang": "", "route": "", "translation": [], "type": "image_group4" },
       { "active": "1", "code": "nuan_2", "identifier": "421", "image_group": "qson9p9a", "lang": "", "route": "", "translation": [], "type": "image_group4" }

@@ -155,6 +155,13 @@ readonly class TmhHtmlElementFactory
         return $this->nodeFactory->div($attributes, [], $innerHtml);
     }
 
+    public function imageGalleryTitle(array $attributes, string $innerHtml): array
+    {
+        $attributes['class'] = 'tmh_image_gallery_title';
+        return $this->nodeFactory->div($attributes, [], $innerHtml);
+    }
+
+
     public function imageGroup(array $attributes, array $childNodes): array
     {
         $attributes['class'] = 'tmh_image_group';

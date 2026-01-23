@@ -4,7 +4,6 @@
   { "type": "topic", "lang": "fr", "translation": "jvzwx35l", "identifier": "" },
   {
     "type": "image_gallery",
-    "translation": "",
     "items": [
       { "active": "1", "code": "mmdp_1", "identifier": "V216", "image_group": "d5kgpgfw", "lang": "", "route": "c5f4ircv", "translation": [], "type": "image_group3" },
       { "active": "1", "code": "mmdp_2", "identifier": "V217", "image_group": "zfb8mlzz", "lang": "", "route": "c5f4ircv", "translation": [], "type": "image_group3" },
