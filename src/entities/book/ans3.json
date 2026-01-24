@@ -1,0 +1,54 @@
+[
+  { "type": "title", "lang": "ja", "translation": "pexn8m4x", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "ffhq0gea",
+        "items": [
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "rgsezyvk", "translation": ["ao3emrlo"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "43r7u0b3", "translation": ["kohck17v"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "73agm7xe", "translation": ["lrbiiogb"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "mo84rsgp", "translation": ["iiopso5q"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "qsby8vrz", "translation": ["bh247381"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "vorhih72", "translation": ["z8jewlpk"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "4le1zg1p", "translation": ["kwo8ouac"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "fznalc0t", "translation": ["o273du9k"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "js3thp2i", "translation": ["yz04hagr"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "coafyqkn", "translation": ["k3ldy7oc"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "dtin11bo", "translation": ["hcawgp3e"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "rpmtytnx", "translation": ["8y3r7f95"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "78fh1lat", "translation": ["s48pkn9o"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "vbxni5re", "translation": ["q3ibadex"], "type": "route3" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "j4un27gi",
+        "items": [
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "x1lplxft", "translation": ["8tm3rfdc"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "2tmy15w5", "translation": ["ish3as9t"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "cws434rc", "translation": ["uv9iuu37"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "gmqipaie", "translation": ["hjotfcxg"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "nljk525e", "translation": ["bzpwrkeh"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "3r9x42wk", "translation": ["ffmstbn0"], "type": "route3" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "qxfco1bg",
+        "items": [
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "noa9vveg", "translation": ["v01gsiwo"], "type": "route3" },
+          { "active": "1", "code": "anen_1", "identifier": "", "image": "", "lang": "", "route": "s5nz9ymn", "translation": ["q202gw30"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "b2hifjpg", "translation": ["jashw8c4"], "type": "route3" },
+          { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "fgbvkjoy", "translation": ["ih1gq1i4"], "type": "route3" }
+        ]
+      }
+    ]
+  }
+]
