@@ -72,7 +72,7 @@ readonly class TmhEntityListHtmlComponent implements TmhHtmlComponent
 
     private function textListItem(array $listItem, string $language): array
     {
-        $attributes = [];
+        $attributes = ['class' => 'tmh_' . $listItem['type']];
         $useLanguage = $this->useLanguage($listItem, $language);
         if ($useLanguage) {
             $attributes['lang'] = $listItem['lang'];
