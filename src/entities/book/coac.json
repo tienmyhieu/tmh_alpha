@@ -1,0 +1,18 @@
+[
+  { "type": "title", "lang": "en", "translation": "d04i0e3f", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "qxfco1bg",
+        "items": [
+          { "active": "1", "code": "coac_1", "identifier": "", "image": "", "lang": "", "route": "5kqpokt0", "translation": ["p8s9wqen"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "i8a332vg", "lang": "", "route": "", "translation": ["iiopso5q"], "type": "image_route1" }
+        ]
+      }
+    ]
+  }
+]
