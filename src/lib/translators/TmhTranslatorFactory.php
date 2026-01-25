@@ -31,7 +31,8 @@ readonly class TmhTranslatorFactory
             'route1',
             'route2',
             'route3',
-            'route4' => new TmhRouteTranslator($this->locale, $this->route, $this->server),
+            'route4',
+            'route5' => new TmhRouteTranslator($this->locale, $this->route, $this->server),
             'title' => new TmhTitleTranslator($this->locale),
             'topic' => new TmhTopicTranslator($this->locale)
         };

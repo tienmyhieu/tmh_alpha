@@ -44,6 +44,13 @@ readonly class TmhEntityListHtmlComponent implements TmhHtmlComponent
         return $attributes;
     }
 
+    private function routeTypeFiveListItem(array $listItem, string $language): array
+    {
+        $attributes = $this->routeAttributes($listItem, $language);
+        $attributes['href'] = $attributes['href'] . '/' . $listItem['code'];
+        return $this->elementFactory->paleListItemLink($attributes, $listItem['route']['innerHtml']);
+    }
+
     private function routeTypeFourListItem(array $listItem, string $language): array
     {
         $attributes = $this->routeAttributes($listItem, $language);
@@ -87,6 +94,7 @@ readonly class TmhEntityListHtmlComponent implements TmhHtmlComponent
             'route2' => $this->routeTypeTwoListItem($listItem, $language),
             'route3' => $this->routeTypeThreeListItem($listItem, $language),
             'route4' => $this->routeTypeFourListItem($listItem, $language),
+            'route5' => $this->routeTypeFiveListItem($listItem, $language),
             default => $this->textListItem($listItem, $language)
         };
     }

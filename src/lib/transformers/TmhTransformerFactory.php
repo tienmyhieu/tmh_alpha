@@ -37,7 +37,8 @@ readonly class TmhTransformerFactory
             'route1',
             'route2',
             'route3',
-            'route4' => new TmhRouteTransformer($this->route)
+            'route4',
+            'route5' => new TmhRouteTransformer($this->route)
         };
     }
 }

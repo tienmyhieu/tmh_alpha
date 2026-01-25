@@ -38,7 +38,7 @@
         "items": [
           { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "x1lplxft", "translation": ["8tm3rfdc"], "type": "route3" },
           { "active": "1", "code": "mmdp_10", "identifier": "", "image": "", "lang": "", "route": "wnanwtlb", "translation": ["iiopso5q"], "type": "route3" },
-          { "active": "1", "code": "vhco_1", "identifier": "", "image": "", "lang": "", "route": "2ew57fhw", "translation": ["z8jewlpk"], "type": "route3" },
+          { "active": "1", "code": "vhco_1", "identifier": "", "image": "", "lang": "", "route": "2ew57fhw", "translation": ["z8jewlpk"], "type": "route5" },
           { "active": "1", "code": "mmdp_2", "identifier": "", "image": "", "lang": "", "route": "qoby5qxv", "translation": ["4konpxjf"], "type": "route3" },
           { "active": "1", "code": "anen_1", "identifier": "", "image": "", "lang": "", "route": "cws434rc", "translation": ["uv9iuu37"], "type": "route3" },
           { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "gmqipaie", "translation": ["hjotfcxg"], "type": "route3" },
@@ -56,7 +56,7 @@
         "items": [
           { "active": "1", "code": "vhco_1", "identifier": "", "image": "", "lang": "", "route": "s5nz9ymn", "translation": ["q202gw30"], "type": "route3" },
           { "active": "1", "code": "mmdp_1", "identifier": "", "image": "", "lang": "", "route": "r8vi5dpk", "translation": ["wyxchkgo"], "type": "route3" },
-          { "active": "1", "code": "vhco_1", "identifier": "", "image": "", "lang": "", "route": "b8bx92lk", "translation": ["zemh3n34"], "type": "route3" },
+          { "active": "1", "code": "vhco_1", "identifier": "", "image": "", "lang": "", "route": "b8bx92lk", "translation": ["zemh3n34"], "type": "route5" },
           { "active": "1", "code": "mmdp_3", "identifier": "", "image": "", "lang": "", "route": "b3gjvi0y", "translation": ["ish3as9t"], "type": "route3" },
           { "active": "1", "code": "mmdp_1", "identifier": "", "image": "", "lang": "", "route": "bqyjlaej", "translation": ["f374q2cn"], "type": "route3" },
           { "active": "1", "code": "mmdp_5", "identifier": "", "image": "", "lang": "", "route": "c5f4ircv", "translation": ["tjlu2zq2"], "type": "route3" }
