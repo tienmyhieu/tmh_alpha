@@ -1,0 +1,54 @@
+[
+  { "type": "title", "lang": "fr", "translation": "cn4yoqje", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "ffhq0gea",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["v01gsiwo"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["bh247381"], "type": "text" },
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "vorhih72", "translation": ["z8jewlpk"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["kwo8ouac"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["wyxchkgo"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["o273du9k"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["hcawgp3e"], "type": "text" },
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "at80agmf", "translation": ["w2v3vdqj"], "type": "route3" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "j4un27gi",
+        "items": [
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "uz38488s", "translation": ["1redsad2"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["ao3emrlo"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["kwo8ouac"], "type": "text" },
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "2tmy15w5", "translation": ["ish3as9t"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["l79zyvhq"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["hcawgp3e"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["mw2dznxy"], "type": "text" },
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "nljk525e", "translation": ["bzpwrkeh"], "type": "route3" },
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "aeu37kv3", "translation": ["a2xs5nm1"], "type": "route3" },
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "rgr3cp4z", "translation": ["hbisv8zx"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["ffmstbn0"], "type": "text" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "qxfco1bg",
+        "items": [
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "b3gjvi0y", "translation": ["ish3as9t"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["hcawgp3e"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["7gpacv8a"], "type": "text" },
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "aqhfhf8b", "translation": ["8y3r7f95"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["hbisv8zx"], "type": "text" }
+        ]
+      }
+    ]
+  }
+]
