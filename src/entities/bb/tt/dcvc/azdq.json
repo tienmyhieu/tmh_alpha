@@ -1,0 +1,12 @@
+[
+  { "type": "title", "lang": "", "translation": "j4un27gi", "identifier": "" },
+  { "type": "title", "lang": "", "translation": "bzpwrkeh", "identifier": "" },
+  { "type": "topic", "lang": "ja", "translation": "rripvk3v", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "azdq_1", "identifier": "85.1", "image_group": "mck9zi37", "lang": "", "route": "nljk525e", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "azdq_2", "identifier": "85.2", "image_group": "lwyznsfi", "lang": "", "route": "nljk525e", "translation": [], "type": "image_group3" }
+    ]
+  }
+]
