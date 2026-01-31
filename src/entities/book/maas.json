@@ -1,0 +1,40 @@
+[
+  { "type": "title", "lang": "fr", "translation": "5f7q7k4l", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "ffhq0gea",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "4xwg9nx1", "lang": "", "route": "", "translation": ["z8jewlpk"], "type": "image_route1" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "j4un27gi",
+        "items": [
+          { "active": "1", "code": "maas_1", "identifier": "", "image": "", "lang": "", "route": "gmqipaie", "translation": ["hjotfcxg"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "7zr3uy27", "lang": "", "route": "", "translation": ["l79zyvhq"], "type": "image_route1" },
+          { "active": "1", "code": "maas_1", "identifier": "", "image": "", "lang": "", "route": "pdxwi810", "translation": ["w2v3vdqj"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "ybpifbff", "lang": "", "route": "", "translation": ["bzpwrkeh"], "type": "image_route1" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "qxfco1bg",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "gqmqc1nt", "lang": "", "route": "", "translation": ["wyxchkgo"], "type": "image_route1" },
+          { "active": "1", "code": "maas_1", "identifier": "", "image": "", "lang": "", "route": "q5qr70cr", "translation": ["b4z5qqdm"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "w7ple5e9", "lang": "", "route": "", "translation": ["p8s9wqen"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "p5gt5c95", "lang": "", "route": "", "translation": ["hruripe1"], "type": "image_route1" },
+          { "active": "1", "code": "maas_1", "identifier": "", "image": "", "lang": "", "route": "l5fpfdzx", "translation": ["ns2j408d"], "type": "route3" }
+        ]
+      }
+    ]
+  }
+]
