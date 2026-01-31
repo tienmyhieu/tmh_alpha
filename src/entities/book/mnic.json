@@ -1,0 +1,35 @@
+[
+  { "type": "title", "lang": "fr", "translation": "viqh4c4l", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "ffhq0gea",
+        "items": [
+          { "active": "1", "code": "mmep_1", "identifier": "", "image": "", "lang": "", "route": "mo84rsgp", "translation": ["iiopso5q"], "type": "route3" },
+          { "active": "1", "code": "mnic", "identifier": "", "image": "", "lang": "", "route": "vorhih72", "translation": ["z8jewlpk"], "type": "route3" },
+          { "active": "1", "code": "mjs1_1", "identifier": "", "image": "", "lang": "", "route": "js3thp2i", "translation": ["yz04hagr"], "type": "route3" },
+          { "active": "1", "code": "mnic_1", "identifier": "", "image": "", "lang": "", "route": "coafyqkn", "translation": ["k3ldy7oc"], "type": "route3" },
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "b1t423l5", "translation": ["o5h8jrz7"], "type": "route3" },
+          { "active": "1", "code": "mmdp_1", "identifier": "", "image": "", "lang": "", "route": "l27o5lmr", "translation": ["y88pcryx"], "type": "route3" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "qxfco1bg",
+        "items": [
+          { "active": "1", "code": "mmep_1", "identifier": "", "image": "", "lang": "", "route": "bmi37vfb", "translation": ["blc3yx23"], "type": "route3" },
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "x1wvs1z4", "translation": ["l13uczum"], "type": "route3" },
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "szwrht3s", "translation": ["uv9iuu37"], "type": "route3" },
+          { "active": "1", "code": "bnfr_1", "identifier": "", "image": "", "lang": "", "route": "24gvd37b", "translation": ["hjotfcxg"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "ij3fwx2s", "lang": "", "route": "", "translation": ["svm2q4e3"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "ps7wejf7", "lang": "", "route": "", "translation": ["v8irqgcj"], "type": "image_route1" }
+        ]
+      }
+    ]
+  }
+]
