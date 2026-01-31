@@ -1,0 +1,19 @@
+[
+  { "type": "title", "lang": "en", "translation": "fl97fsbc", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "hvtmjtxa",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["ao3emrlo"], "type": "text1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["yz04hagr"], "type": "text1" }
+
+        ]
+      }
+    ]
+  }
+]
