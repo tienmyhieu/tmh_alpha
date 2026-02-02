@@ -1,0 +1,45 @@
+[
+  { "type": "title", "lang": "vi", "translation": "wq9njd9w", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "ffhq0gea",
+        "items": [
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "8tc5zxs0", "translation": ["twb054en"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "yvc5yyzi", "translation": ["bq7o4wqr"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "lno4a9jy", "translation": ["8tm3rfdc"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["v01gsiwo"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["kohck17v"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["blc3yx23"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["lrbiiogb"], "type": "text" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "mo84rsgp", "translation": ["iiopso5q"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["bh247381"], "type": "text" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "vorhih72", "translation": ["z8jewlpk"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["kwo8ouac"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["4bwdhhmz"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["l13uczum"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["wyxchkgo"], "type": "text" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "fznalc0t", "translation": ["o273du9k"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "js3thp2i", "translation": ["yz04hagr"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["zemh3n34"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["ish3as9t"], "type": "text" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "coafyqkn", "translation": ["k3ldy7oc"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["evvk9x5s"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["hcawgp3e"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["w2v3vdqj"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["jashw8c4"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["o5h8jrz7"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["7gpacv8a"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["8y3r7f95"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["s48pkn9o"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["y88pcryx"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["q3ibadex"], "type": "text" }
+        ]
+      }
+    ]
+  }
+]
