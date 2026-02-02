@@ -1,0 +1,40 @@
+[
+  { "type": "title", "lang": "vi", "translation": "l2rgjurp", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "qxfco1bg",
+        "items": [
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "s1nsrlz9", "translation": ["ao3emrlo"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "sc320ghf", "translation": ["zh7c0xos"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "s5nz9ymn", "translation": ["q202gw30"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "x3qe9rl5", "translation": ["d7nupkkn"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["vps8psh1"], "type": "text" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "x1wvs1z4", "translation": ["l13uczum"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["wyxchkgo"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["i1go1hpp"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["uv9iuu37"], "type": "text" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "24gvd37b", "translation": ["hjotfcxg"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "tgmtw3d5", "translation": ["ox0l2b9b"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "5kqpokt0", "translation": ["p8s9wqen"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["hruripe1"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["ohfe1zrb"], "type": "text" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "q8mob551", "translation": ["wmin7o5a"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "pddnae1k", "translation": ["sco84zua"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["evvk9x5s"], "type": "text" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "k8jklpg0", "translation": ["hcawgp3e"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["jashw8c4"], "type": "text" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "7rn1egww", "translation": ["y88pcryx"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "x8xoodca", "translation": ["q3ibadex"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "m9qynekr", "translation": ["1npst8z9"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "qsdvvi85", "translation": ["ffmstbn0"], "type": "route3" },
+          { "active": "1", "code": "bsqg_1", "identifier": "", "image": "", "lang": "", "route": "fgbvkjoy", "translation": ["ih1gq1i4"], "type": "route3" }
+        ]
+      }
+    ]
+  }
+]
