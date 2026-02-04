@@ -1,0 +1,14 @@
+[
+  { "type": "title", "lang": "", "translation": "qxfco1bg", "identifier": "" },
+  { "type": "title", "lang": "", "translation": "ish3as9t", "identifier": "" },
+  { "type": "topic", "lang": "fr", "translation": "tfjbs8oh", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "mmdp_1", "identifier": "1835", "image_group": "fx9q52a2", "lang": "", "route": "b3gjvi0y", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_2", "identifier": "1836", "image_group": "4sa8xlsx", "lang": "", "route": "b3gjvi0y", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_3", "identifier": "1856", "image_group": "1ilway4k", "lang": "", "route": "b3gjvi0y", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_4", "identifier": "1857", "image_group": "btipumoi", "lang": "", "route": "b3gjvi0y", "translation": [], "type": "image_group3" }
+    ]
+  }
+]
