@@ -53,7 +53,8 @@ readonly class TmhImageGroupTransformer implements TmhTransformer
     private function imageGroupTranslation(array $entity, array $imageGroup): string
     {
         return match($entity['type']) {
-            'image_group1' => $this->entityIdentifiedImageGroupTranslation($entity),
+            'image_group1',
+            'image_group5' => $this->entityIdentifiedImageGroupTranslation($entity),
             'image_group2' => $this->datedIdentifiedImageGroupTranslation($entity, $imageGroup),
             'image_group3',
             'image_group4' => $this->identifiedImageGroupTranslation($entity),
