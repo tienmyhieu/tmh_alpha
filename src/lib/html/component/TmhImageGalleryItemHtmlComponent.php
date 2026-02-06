@@ -6,6 +6,8 @@ use lib\html\TmhHtmlElementFactory;
 
 readonly class TmhImageGalleryItemHtmlComponent implements TmhHtmlComponent
 {
+    private const string SPACER_IMG = '35609f0ec63d40c9b0cca4f29cc089d0';
+
     public function __construct(private TmhHtmlElementFactory $elementFactory)
     {
     }
@@ -18,13 +20,17 @@ readonly class TmhImageGalleryItemHtmlComponent implements TmhHtmlComponent
             $imageGroupNodes[] = $this->elementFactory->imageGalleryItemDescription([], $innerHtml);
         }
         foreach ($entity['images'] as $image) {
-            $attributes = [
-                'href' => $image['route']['href'],
-                'src' => $image['src'],
-                'target' => '_self',
-                'title' => $image['alt']
-            ];
-            $imageGroupNodes[] = $this->elementFactory->linkedImage($attributes);
+            if (str_contains($image['src'], self::SPACER_IMG)) {
+                $imageGroupNodes[] =  $this->elementFactory->img($image['alt'], $image['src']);
+            } else {
+                $attributes = [
+                    'href' => $image['route']['href'],
+                    'src' => $image['src'],
+                    'target' => '_self',
+                    'title' => $image['alt']
+                ];
+                $imageGroupNodes[] = $this->elementFactory->linkedImage($attributes);
+            }
         }
         return $this->elementFactory->imageGalleryItem([], $imageGroupNodes);
     }
