@@ -1,0 +1,12 @@
+[
+  { "type": "title", "lang": "", "translation": "qxfco1bg", "identifier": "" },
+  { "type": "title", "lang": "", "translation": "d7nupkkn", "identifier": "" },
+  { "type": "topic", "lang": "en", "translation": "11c5svkl", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "auwo_1", "identifier": "111210", "image_group": "zaaieocw", "lang": "", "route": "x3qe9rl5", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "auwo_2", "identifier": "171009", "image_group": "04k2its5", "lang": "", "route": "x3qe9rl5", "translation": [], "type": "image_group3" }
+    ]
+  }
+]
