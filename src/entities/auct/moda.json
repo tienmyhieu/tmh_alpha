@@ -1,0 +1,51 @@
+[
+  { "type": "title", "lang": "fr", "translation": "pfvqyq9r", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "ffhq0gea",
+        "items": [
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "8tc5zxs0", "translation": ["twb054en"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "rgsezyvk", "translation": ["ao3emrlo"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "yvc5yyzi", "translation": ["bq7o4wqr"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "n9uohpm3", "translation": ["blc3yx23"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "mo84rsgp", "translation": ["iiopso5q"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "bbt9rdzs", "translation": ["l13uczum"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "1az9758s", "translation": ["ish3as9t"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "dtin11bo", "translation": ["hcawgp3e"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "b1t423l5", "translation": ["o5h8jrz7"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "78fh1lat", "translation": ["s48pkn9o"], "type": "route3" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "j4un27gi",
+        "items": [
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "pzkhxzof", "translation": ["7gpacv8a"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "gcbgwjcb", "translation": ["mw2dznxy"], "type": "route3" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "qxfco1bg",
+        "items": [
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "d0ciftrq", "translation": ["8tm3rfdc"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "zghy8zab", "translation": ["kohck17v"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "lhg8qkn4", "translation": ["iiopso5q"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "s5nz9ymn", "translation": ["q202gw30"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "x1wvs1z4", "translation": ["l13uczum"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "1mv3e2il", "translation": ["4konpxjf"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "bqyjlaej", "translation": ["f374q2cn"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "b2hifjpg", "translation": ["jashw8c4"], "type": "route3" },
+          { "active": "1", "code": "moda_1", "identifier": "", "image": "", "lang": "", "route": "qpzf7zmw", "translation": ["7gpacv8a"], "type": "route3" }
+        ]
+      }
+    ]
+  }
+]
