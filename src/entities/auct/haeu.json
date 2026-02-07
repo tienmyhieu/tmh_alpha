@@ -1,0 +1,41 @@
+[
+  { "type": "title", "lang": "en", "translation": "am9mxida", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "ffhq0gea",
+        "items": [
+          { "active": "1", "code": "haeu_1", "identifier": "", "image": "", "lang": "", "route": "43r7u0b3", "translation": ["kohck17v"], "type": "route3" },
+          { "active": "1", "code": "haeu", "identifier": "", "image": "", "lang": "", "route": "vorhih72", "translation": ["z8jewlpk"], "type": "route3" },
+          { "active": "1", "code": "haeu_1", "identifier": "", "image": "", "lang": "", "route": "uw9zn1pf", "translation": ["zemh3n34"], "type": "route3" },
+          { "active": "1", "code": "haeu_1", "identifier": "", "image": "", "lang": "", "route": "78fh1lat", "translation": ["s48pkn9o"], "type": "route3" },
+          { "active": "1", "code": "haeu_1", "identifier": "", "image": "", "lang": "", "route": "l27o5lmr", "translation": ["y88pcryx"], "type": "route3" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "j4un27gi",
+        "items": [
+          { "active": "1", "code": "haeu_1", "identifier": "", "image": "", "lang": "", "route": "x1lplxft", "translation": ["8tm3rfdc"], "type": "route3" },
+          { "active": "1", "code": "haeu_1", "identifier": "", "image": "", "lang": "", "route": "wvm35ssb", "translation": ["q202gw30"], "type": "route3" },
+          { "active": "1", "code": "haeu_1", "identifier": "", "image": "", "lang": "", "route": "yzn4plnd", "translation": ["1npst8z9"], "type": "route3" },
+          { "active": "1", "code": "haeu_1", "identifier": "", "image": "", "lang": "", "route": "3r9x42wk", "translation": ["ffmstbn0"], "type": "route3" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "qxfco1bg",
+        "items": [
+          { "active": "1", "code": "haeu_1", "identifier": "", "image": "", "lang": "", "route": "5kqpokt0", "translation": ["p8s9wqen"], "type": "route3" },
+          { "active": "1", "code": "haeu_1", "identifier": "", "image": "", "lang": "", "route": "cwov41jk", "translation": ["ub5tvyce"], "type": "route3" }
+        ]
+      }
+    ]
+  }
+]
