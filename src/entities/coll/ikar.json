@@ -1,0 +1,93 @@
+[
+  { "type": "title", "lang": "ja", "translation": "0x8c99on", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "ffhq0gea",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "qgdn5gr5", "lang": "", "route": "", "translation": ["twb054en"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "sq5hiwqi", "lang": "", "route": "", "translation": ["ao3emrlo"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "oul4vi0r", "lang": "", "route": "", "translation": ["8tm3rfdc"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "9uyfaxwm", "lang": "", "route": "", "translation": ["v01gsiwo"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "mz4xmsot", "lang": "", "route": "", "translation": ["kohck17v"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "5mo0zgni", "lang": "", "route": "", "translation": ["lrbiiogb"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "9lhxdnvy", "lang": "", "route": "", "translation": ["iiopso5q"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "8peshkyx", "lang": "", "route": "", "translation": ["bh247381"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "eenfzqzj", "lang": "", "route": "", "translation": ["4bwdhhmz"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "wrr7freu", "lang": "", "route": "", "translation": ["l13uczum"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "z0agyz9i", "lang": "", "route": "", "translation": ["wyxchkgo"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "7dlclk7l", "lang": "", "route": "", "translation": ["yz04hagr"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "ng7w9uvt", "lang": "", "route": "", "translation": ["zemh3n34"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "wwu5swr2", "lang": "", "route": "", "translation": ["ish3as9t"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "3ncxqncc", "lang": "", "route": "", "translation": ["evvk9x5s"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "db7f2ae3", "lang": "", "route": "", "translation": ["hcawgp3e"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "btouzapz", "lang": "", "route": "", "translation": ["w2v3vdqj"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "4qk0yt1f", "lang": "", "route": "", "translation": ["jashw8c4"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "xoiop041", "lang": "", "route": "", "translation": ["o5h8jrz7"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "gj49e828", "lang": "", "route": "", "translation": ["7gpacv8a"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "3mos1rkx", "lang": "", "route": "", "translation": ["8y3r7f95"], "type": "image_route1" },
+          { "active": "1", "code": "ikar", "identifier": "", "image": "", "lang": "", "route": "78fh1lat", "translation": ["s48pkn9o"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "4u18hzxg", "lang": "", "route": "", "translation": ["y88pcryx"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "low5tavm", "lang": "", "route": "", "translation": ["q3ibadex"], "type": "image_route1" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "j4un27gi",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "nkt17qlx", "lang": "", "route": "", "translation": ["1redsad2"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "9smro5lj", "lang": "", "route": "", "translation": ["ao3emrlo"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "i7k8s9yv", "lang": "", "route": "", "translation": ["v01gsiwo"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "4oc97ua2", "lang": "", "route": "", "translation": ["kohck17v"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "fqdmhwe9", "lang": "", "route": "", "translation": ["zh7c0xos"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "mvu4sepd", "lang": "", "route": "", "translation": ["z8jewlpk"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "a7xt8vbn", "lang": "", "route": "", "translation": ["iafpkazd"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "x2tdy5xu", "lang": "", "route": "", "translation": ["l13uczum"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "fpb79g2m", "lang": "", "route": "", "translation": ["wyxchkgo"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "25vv3yux", "lang": "", "route": "", "translation": ["yz04hagr"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "jkjwjrln", "lang": "", "route": "", "translation": ["uv9iuu37"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "ew000vm5", "lang": "", "route": "", "translation": ["l79zyvhq"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "gww104h8", "lang": "", "route": "", "translation": ["o5h8jrz7"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "nj5fe8er", "lang": "", "route": "", "translation": ["ddv2r4i3"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "3bh4ti7c", "lang": "", "route": "", "translation": ["q3ibadex"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "8fjbmqp9", "lang": "", "route": "", "translation": ["mw2dznxy"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "0zmt5umo", "lang": "", "route": "", "translation": ["1npst8z9"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "xjzfowtz", "lang": "", "route": "", "translation": ["a2xs5nm1"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "ocnci9dj", "lang": "", "route": "", "translation": ["ffmstbn0"], "type": "image_route1" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "qxfco1bg",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "ea1ldeno", "lang": "", "route": "", "translation": ["8tm3rfdc"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "3yrnnasy", "lang": "", "route": "", "translation": ["v01gsiwo"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "ogmonu9e", "lang": "", "route": "", "translation": ["z8jewlpk"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "71xc0p9y", "lang": "", "route": "", "translation": ["iafpkazd"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "w4280zih", "lang": "", "route": "", "translation": ["l13uczum"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "brh8czyw", "lang": "", "route": "", "translation": ["wyxchkgo"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "w3qf18iy", "lang": "", "route": "", "translation": ["hjotfcxg"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "uq0o9ymm", "lang": "", "route": "", "translation": ["ox0l2b9b"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "0cy5abho", "lang": "", "route": "", "translation": ["f374q2cn"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "xuv7c694", "lang": "", "route": "", "translation": ["hruripe1"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "xnir9wbg", "lang": "", "route": "", "translation": ["ohfe1zrb"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "vxon7yif", "lang": "", "route": "", "translation": ["wmin7o5a"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "8nhunqaz", "lang": "", "route": "", "translation": ["evvk9x5s"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "dl8eotro", "lang": "", "route": "", "translation": ["w2v3vdqj"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "d94dno4j", "lang": "", "route": "", "translation": ["jashw8c4"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "hoietjsq", "lang": "", "route": "", "translation": ["8y3r7f95"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "zugk2evq", "lang": "", "route": "", "translation": ["y88pcryx"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "f2uwlflz", "lang": "", "route": "", "translation": ["1npst8z9"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "tkshmlj4", "lang": "", "route": "", "translation": ["bzpwrkeh"], "type": "image_route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "du2w0emg", "lang": "", "route": "", "translation": ["hbisv8zx"], "type": "image_route1" }
+        ]
+      }
+    ]
+  }
+]
