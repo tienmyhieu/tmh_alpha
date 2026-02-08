@@ -1,0 +1,11 @@
+[
+  { "type": "title", "lang": "fr", "translation": "pbqy0frk", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "image_gallery_title", "lang": "", "translation": "j4un27gi", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "ognn_1", "identifier": "", "image_group": "fsl5n09v", "lang": "", "route": "gcbgwjcb", "translation": ["mw2dznxy"], "type": "image_group1" }
+    ]
+  }
+]
