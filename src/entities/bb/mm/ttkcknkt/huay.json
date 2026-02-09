@@ -7,7 +7,7 @@
     "items": [
       { "active": "1", "code": "hccv_1", "identifier": "156", "image_group": "7ic5rk0v", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group1" },
       { "active": "1", "code": "huay_1", "identifier": "130530", "image_group": "w4v80nl2", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group1" },
-      { "active": "1", "code": "huay_2", "identifier": "191031", "image_group": "9nxnx3a4", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group1" }
+      { "active": "1", "code": "jnqu_1", "identifier": "1", "image_group": "9nxnx3a4", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group1" }
     ]
   }
 ]
