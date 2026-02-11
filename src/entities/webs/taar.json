@@ -1,0 +1,20 @@
+[
+  { "type": "title", "lang": "fr", "translation": "ekkku1h5", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "image_gallery_title", "lang": "", "translation": "ffhq0gea", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "taar_1", "identifier": "", "image_group": "abvtbeko", "lang": "", "route": "78fh1lat", "translation": ["s48pkn9o"], "type": "image_group1" },
+      { "active": "1", "code": "taar_1", "identifier": "", "image_group": "r0r4ccbn", "lang": "", "route": "l27o5lmr", "translation": ["y88pcryx"], "type": "image_group1" },
+      { "active": "1", "code": "taar_1", "identifier": "", "image_group": "ju89z9xv", "lang": "", "route": "vbxni5re", "translation": ["q3ibadex"], "type": "image_group1" }
+    ]
+  },
+  { "type": "image_gallery_title", "lang": "", "translation": "qxfco1bg", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "bnfr_1", "identifier": "", "image_group": "281etryy", "lang": "", "route": "q8mob551", "translation": ["wmin7o5a"], "type": "image_group1" }
+    ]
+  }
+]
