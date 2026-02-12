@@ -42,13 +42,14 @@ require_once('lib/html/component/TmhHtmlComponent.php');
 require_once('lib/html/component/TmhAncestorsHtmlComponent.php');
 require_once('lib/html/component/TmhEntityListHtmlComponent.php');
 require_once('lib/html/component/TmhEntityListsHtmlComponent.php');
-require_once('lib/html/component/TmhHtmlComponentFactory.php');
 require_once('lib/html/component/TmhImageGalleryHtmlComponent.php');
 require_once('lib/html/component/TmhImageGalleryItemHtmlComponent.php');
 require_once('lib/html/component/TmhImageGalleryTitleHtmlComponent.php');
 require_once('lib/html/component/TmhSiblingsHtmlComponent.php');
 require_once('lib/html/component/TmhTitleHtmlComponent.php');
 require_once('lib/html/component/TmhTopicHtmlComponent.php');
+require_once('lib/html/component/TmhVerticalQuoteListHtmlComponent.php');
+require_once('lib/html/component/TmhHtmlComponentFactory.php');
 
 require_once('lib/transformers/TmhTransformer.php');
 require_once('lib/transformers/TmhAncestorsTransformer.php');
@@ -60,10 +61,10 @@ require_once('lib/transformers/TmhImageTransformer.php');
 require_once('lib/transformers/TmhMetadataTransformer.php');
 require_once('lib/transformers/TmhRouteTransformer.php');
 require_once('lib/transformers/TmhSiblingTransformer.php');
+require_once('lib/transformers/TmhVerticalQuoteListTransformer.php');
 require_once('lib/transformers/TmhTransformerFactory.php');
 
 require_once('lib/translators/TmhTranslator.php');
-require_once('lib/translators/TmhTranslatorFactory.php');
 require_once('lib/translators/TmhAncestorsTranslator.php');
 require_once('lib/translators/TmhEntityListItemTranslator.php');
 require_once('lib/translators/TmhEntityListsTranslator.php');
@@ -76,6 +77,8 @@ require_once('lib/translators/TmhMetadataTranslator.php');
 require_once('lib/translators/TmhRouteTranslator.php');
 require_once('lib/translators/TmhTitleTranslator.php');
 require_once('lib/translators/TmhTopicTranslator.php');
+require_once('lib/translators/TmhVerticalQuoteListTranslator.php');
+require_once('lib/translators/TmhTranslatorFactory.php');
 
 //echo "<pre>";
 $json = new TmhJson();

@@ -22,6 +22,7 @@ readonly class TmhHtmlComponentFactory
             'siblings' => new TmhSiblingsHtmlComponent($this->elementFactory),
             'topic' => new TmhTopicHtmlComponent($this->elementFactory),
             'title' => new TmhTitleHtmlComponent($this->elementFactory),
+            'vertical_quote_list' => new TmhVerticalQuoteListHtmlComponent($this->elementFactory)
         };
     }
 }
