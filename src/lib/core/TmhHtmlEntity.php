@@ -20,7 +20,7 @@ readonly class TmhHtmlEntity
         $route = $this->reconstituteRoute($entity);
         $htmlEntity = ['uuid' => $route['uuid'], 'attributes' => []];
         $htmlEntity['metadata'] = $this->metadata($route);
-        if ($entity['type'] != 'article') {
+        if ($entity['type'] != 'web_article') {
             $htmlEntity['attributes'][] = $this->siblings($route);
         }
         if ($entity['type'] != 'toc') {
