@@ -40,6 +40,7 @@ require_once('lib/html/TmhHtmlNodeFactory.php');
 require_once('lib/html/TmhHtmlNodeTransformer.php');
 require_once('lib/html/component/TmhHtmlComponent.php');
 require_once('lib/html/component/TmhAncestorsHtmlComponent.php');
+require_once('lib/html/component/TmhArticleHtmlComponent.php');
 require_once('lib/html/component/TmhEntityListHtmlComponent.php');
 require_once('lib/html/component/TmhEntityListsHtmlComponent.php');
 require_once('lib/html/component/TmhImageGalleryHtmlComponent.php');
@@ -53,6 +54,7 @@ require_once('lib/html/component/TmhHtmlComponentFactory.php');
 
 require_once('lib/transformers/TmhTransformer.php');
 require_once('lib/transformers/TmhAncestorsTransformer.php');
+require_once('lib/transformers/TmhArticleTransformer.php');
 require_once('lib/transformers/TmhEntityListItemTransformer.php');
 require_once('lib/transformers/TmhEntityListsTransformer.php');
 require_once('lib/transformers/TmhImageGalleryTransformer.php');
@@ -66,6 +68,7 @@ require_once('lib/transformers/TmhTransformerFactory.php');
 
 require_once('lib/translators/TmhTranslator.php');
 require_once('lib/translators/TmhAncestorsTranslator.php');
+require_once('lib/translators/TmhArticleTranslator.php');
 require_once('lib/translators/TmhEntityListItemTranslator.php');
 require_once('lib/translators/TmhEntityListsTranslator.php');
 require_once('lib/translators/TmhImageTranslator.php');

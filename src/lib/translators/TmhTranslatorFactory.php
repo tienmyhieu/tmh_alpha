@@ -16,6 +16,7 @@ readonly class TmhTranslatorFactory
     {
         return match($type) {
             'ancestors' => new TmhAncestorsTranslator($this),
+            'article' => new TmhArticleTranslator($this, $this->locale),
             'entity_list_item' => new TmhEntityListItemTranslator($this, $this->locale),
             'entity_lists' => new TmhEntityListsTranslator($this, $this->locale),
             'image' => new TmhImageTranslator($this, $this->locale),

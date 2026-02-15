@@ -23,6 +23,7 @@ readonly class TmhTransformerFactory
     {
         return match($type) {
             'ancestors' => new TmhAncestorsTransformer($this->locale, $this->route),
+            'article' => new TmhArticleTransformer($this),
             'entity_list_item' => new TmhEntityListItemTransformer($this),
             'entity_lists' => new TmhEntityListsTransformer($this),
             'image1',
