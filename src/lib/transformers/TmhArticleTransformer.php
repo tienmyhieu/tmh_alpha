@@ -12,10 +12,17 @@ readonly class TmhArticleTransformer implements TmhTransformer
     {
         $transformed = $entity;
         $transformed['paragraphs'] = [];
+        $sentenceTypes = [
+            'anchored_newline_sentence',
+            'bold_newline_sentence',
+            'bold_sentence',
+            'newline_sentence',
+            'sentence'
+        ];
         foreach ($entity['paragraphs'] as $paragraphItems) {
             $transformedParagraphItems = [];
             foreach ($paragraphItems as $paragraphItem) {
-                if ($paragraphItem['type'] == 'sentence') {
+                if (in_array($paragraphItem['type'], $sentenceTypes)) {
                     $transformedParagraphItems[] = $paragraphItem;
                 }
                 if ($paragraphItem['type'] == 'image_group4') {
