@@ -54,6 +54,9 @@ readonly class TmhArticleHtmlComponent implements TmhHtmlComponent
 
     private function sentence(array $paragraphItem, string $language): array
     {
+        if ($paragraphItem['type'] == 'bold_newline_sentence') {
+            $paragraphItem['type'] = 'bold_sentence';
+        }
         $attributes = ['class' => 'tmh_' . $paragraphItem['type']];
         $useLanguage = $paragraphItem['lang'] != $language;
         if ($useLanguage) {
