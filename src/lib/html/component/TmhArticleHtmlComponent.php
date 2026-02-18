@@ -21,6 +21,7 @@ readonly class TmhArticleHtmlComponent implements TmhHtmlComponent
             foreach ($paragraphItems as $paragraphItem) {
                 $paragraphNodes[] = match($paragraphItem['type']) {
                     'image_group4' => $this->imageGroup($paragraphItem, $language),
+                    'upload_group1' => $this->uploadGroup($paragraphItem, $language),
                     default => $this->sentence($paragraphItem, $language)
                 };
                 if (in_array($paragraphItem['type'], $withNewlines)) {
@@ -63,5 +64,11 @@ readonly class TmhArticleHtmlComponent implements TmhHtmlComponent
             $attributes['lang'] = $paragraphItem['lang'];
         }
         return $this->elementFactory->span($attributes, $paragraphItem['text']);
+    }
+
+    private function uploadGroup(array $paragraphItem, string $language): array
+    {
+        $uploadGroupFactory = $this->componentFactory->create('upload_group');
+        return $uploadGroupFactory->get($paragraphItem, $language);
     }
 }

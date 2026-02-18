@@ -33,6 +33,10 @@ readonly class TmhArticleTranslator implements TmhTranslator
                     $translator = $this->translatorFactor->create($paragraphItem['type']);
                     $translatedParagraphItems[] = $translator->translate($paragraphItem);
                 }
+                if ($paragraphItem['type'] == 'upload_group1') {
+                    $translator = $this->translatorFactor->create($paragraphItem['type']);
+                    $translatedParagraphItems[] = $translator->translate($paragraphItem);
+                }
             }
             $translated['paragraphs'][] = $translatedParagraphItems;
         }

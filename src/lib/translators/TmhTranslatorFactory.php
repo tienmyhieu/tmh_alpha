@@ -37,6 +37,8 @@ readonly class TmhTranslatorFactory
             'route5' => new TmhRouteTranslator($this->locale, $this->route, $this->server),
             'title' => new TmhTitleTranslator($this->locale),
             'topic' => new TmhTopicTranslator($this->locale),
+            'upload' => new TmhUploadTranslator($this, $this->locale),
+            'upload_group1' => new TmhUploadGroupTranslator($this, $this->locale),
             'vertical_quote_list' => new TmhVerticalQuoteListTranslator($this->locale)
         };
     }

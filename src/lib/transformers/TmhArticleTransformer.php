@@ -29,6 +29,10 @@ readonly class TmhArticleTransformer implements TmhTransformer
                     $transformer = $this->transformerFactory->create($paragraphItem['type']);
                     $transformedParagraphItems[] = $transformer->transform($paragraphItem);
                 }
+                if ($paragraphItem['type'] == 'upload_group1') {
+                    $transformer = $this->transformerFactory->create($paragraphItem['type']);
+                    $transformedParagraphItems[] = $transformer->transform($paragraphItem);
+                }
             }
             $transformed['paragraphs'][] = $transformedParagraphItems;
         }

@@ -49,6 +49,7 @@ require_once('lib/html/component/TmhImageGalleryTitleHtmlComponent.php');
 require_once('lib/html/component/TmhSiblingsHtmlComponent.php');
 require_once('lib/html/component/TmhTitleHtmlComponent.php');
 require_once('lib/html/component/TmhTopicHtmlComponent.php');
+require_once('lib/html/component/TmhUploadGroupHtmlComponent.php');
 require_once('lib/html/component/TmhVerticalQuoteListHtmlComponent.php');
 require_once('lib/html/component/TmhHtmlComponentFactory.php');
 
@@ -63,6 +64,8 @@ require_once('lib/transformers/TmhImageTransformer.php');
 require_once('lib/transformers/TmhMetadataTransformer.php');
 require_once('lib/transformers/TmhRouteTransformer.php');
 require_once('lib/transformers/TmhSiblingTransformer.php');
+require_once('lib/transformers/TmhUploadTransformer.php');
+require_once('lib/transformers/TmhUploadGroupTransformer.php');
 require_once('lib/transformers/TmhVerticalQuoteListTransformer.php');
 require_once('lib/transformers/TmhTransformerFactory.php');
 
@@ -80,6 +83,8 @@ require_once('lib/translators/TmhMetadataTranslator.php');
 require_once('lib/translators/TmhRouteTranslator.php');
 require_once('lib/translators/TmhTitleTranslator.php');
 require_once('lib/translators/TmhTopicTranslator.php');
+require_once('lib/translators/TmhUploadTranslator.php');
+require_once('lib/translators/TmhUploadGroupTranslator.php');
 require_once('lib/translators/TmhVerticalQuoteListTranslator.php');
 require_once('lib/translators/TmhTranslatorFactory.php');
 
