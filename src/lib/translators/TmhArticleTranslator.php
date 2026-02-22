@@ -21,7 +21,10 @@ readonly class TmhArticleTranslator implements TmhTranslator
             'bold_newline_sentence',
             'bold_sentence',
             'newline_sentence',
-            'sentence'
+            'sentence',
+            'italic_sentence',
+            'anchor_route',
+            'table'
         ];
         foreach ($entity['paragraphs'] as $paragraphItems) {
             $translatedParagraphItems = [];

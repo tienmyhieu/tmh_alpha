@@ -22,6 +22,8 @@ readonly class TmhArticleHtmlComponent implements TmhHtmlComponent
                 $paragraphNodes[] = match($paragraphItem['type']) {
                     'image_group4' => $this->imageGroup($paragraphItem, $language),
                     'upload_group1' => $this->uploadGroup($paragraphItem, $language),
+                    'anchor_route' => $this->anchorRoute($paragraphItem['text']),
+                    'table' => $this->table($paragraphItem, $language),
                     default => $this->sentence($paragraphItem, $language)
                 };
                 if (in_array($paragraphItem['type'], $withNewlines)) {
@@ -70,5 +72,34 @@ readonly class TmhArticleHtmlComponent implements TmhHtmlComponent
     {
         $uploadGroupFactory = $this->componentFactory->create('upload_group');
         return $uploadGroupFactory->get($paragraphItem, $language);
+    }
+
+    private function anchorRoute(string $text): array
+    {
+        $attributes = ['href' => $this->articleUrl() . '#ref_' . $text, 'title' => $text];
+        return $this->elementFactory->listItemLink($attributes, '&nbsp;[' . $text . ']&nbsp;');
+    }
+
+    private function articleUrl(): string
+    {
+        return $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['SERVER_NAME'] . $_SERVER['REDIRECT_URL'];
+    }
+
+    private function table(array $paragraphItem, string $language): array
+    {
+        $rows = [];
+        foreach ($paragraphItem['rows'] as $rowCells) {
+            $cells = [];
+            foreach ($rowCells as $rowCell) {
+                $attributes = ['colspan' => $rowCell['colspan'], 'class' => 'tmh_table_cell'];
+                $useLanguage = $rowCell['lang'] != $language;
+                if ($useLanguage) {
+                    $attributes['lang'] = $rowCell['lang'];
+                }
+                $cells[] = $this->elementFactory->td($attributes, $rowCell['text']);
+            }
+            $rows[] = $this->elementFactory->tr('tmh_table_row', $cells);
+        }
+        return $this->elementFactory->table('tmh_table', $rows);
     }
 }
