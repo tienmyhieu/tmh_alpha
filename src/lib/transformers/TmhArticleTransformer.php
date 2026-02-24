@@ -19,6 +19,7 @@ readonly class TmhArticleTransformer implements TmhTransformer
             'newline_sentence',
             'sentence',
             'italic_sentence',
+            'underline_sentence',
             'anchor_route',
             'table'
         ];

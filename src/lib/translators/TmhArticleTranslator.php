@@ -23,6 +23,7 @@ readonly class TmhArticleTranslator implements TmhTranslator
             'newline_sentence',
             'sentence',
             'italic_sentence',
+            'underline_sentence',
             'anchor_route',
             'table'
         ];
