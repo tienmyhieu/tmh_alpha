@@ -21,6 +21,7 @@ readonly class TmhArticleTransformer implements TmhTransformer
             'italic_sentence',
             'underline_sentence',
             'anchor_route',
+            'named_route',
             'table'
         ];
         foreach ($entity['paragraphs'] as $paragraphItems) {

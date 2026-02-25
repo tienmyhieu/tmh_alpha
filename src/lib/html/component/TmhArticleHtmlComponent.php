@@ -24,6 +24,7 @@ readonly class TmhArticleHtmlComponent implements TmhHtmlComponent
                     'upload_group1' => $this->uploadGroup($paragraphItem, $language),
                     'anchor_route' => $this->anchorRoute($paragraphItem['text']),
                     'table' => $this->table($paragraphItem, $language),
+                    'named_route' => $this->createNamedRoute($paragraphItem['text']),
                     default => $this->sentence($paragraphItem, $language)
                 };
                 if (in_array($paragraphItem['type'], $withNewlines)) {
@@ -101,5 +102,12 @@ readonly class TmhArticleHtmlComponent implements TmhHtmlComponent
             $rows[] = $this->elementFactory->tr('tmh_table_row', $cells);
         }
         return $this->elementFactory->table('tmh_table', $rows);
+    }
+
+    private function createNamedRoute(string $text): array
+    {
+        $name = 'ref_' . $text;
+        $attributes = ['href' => $this->articleUrl() . '#' . $name, 'name' => $name, 'title' => $text];
+        return $this->elementFactory->listItemLink($attributes, '[' . $text . ']&nbsp;');
     }
 }

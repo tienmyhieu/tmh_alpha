@@ -979,6 +979,111 @@
     ],
     [
       { "active": "1", "lang": "vi", "type": "sentence", "text": "-MM : tiền Minh Mệnh Thông Bảo" }
+    ],
+    [
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "4otu4ein", "lang": "", "route": "", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "r449yed8", "lang": "", "route": "", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "llmqjk1d", "lang": "", "route": "", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "fo0zedjq", "lang": "", "route": "", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "wj2orv7m", "lang": "", "route": "", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "tv4ar0fv", "lang": "", "route": "", "translation": [], "type": "image_group4" }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "-TT : tiền Thiệu Trị Thông Bảo" }
+    ],
+    [
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "kblddwz3", "lang": "", "route": "", "translation": [], "type": "image_group4" }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "-TD : tiền Tự Đức Thông Bảo" }
+    ],
+    [
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "5jjfmxxi", "lang": "", "route": "", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "1bzzy5w7", "lang": "", "route": "", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "q45r7pgn", "lang": "", "route": "", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "1agsxclb", "lang": "", "route": "", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "fwscsk3g", "lang": "", "route": "", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "nah1_1", "identifier": "", "image_group": "18pmr7vr", "lang": "", "route": "", "translation": [], "type": "image_group4" }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "1" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Quốc sử quán triều Nguyễn, Minh Mệnh Chính Yếu (3 tập), Nhà xuất bản Thuận Hóa, 1994, Tập 2, trang 453." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "2" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Minh Mệnh Chính Yếu , Sách đã dẫn, Tập 2, trang 455." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "name": "nah10222", "paragraph": "rno0egjo", "type": "named_route", "text": "3" },
+      { "active": "1", "lang": "en", "name": "nah10223", "paragraph": "rno0egjo", "type": "sentence", "text": "François Thierry, “The Confucian Message on Vietnamese Coins, A closer look at the Nguyễn dynasty’s large coins with moral maxims”, The Numimatic Chronicle 171 Offprint, The Royal Numimatic Society, London, 2011, pp 367-406." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "4" },
+      { "active": "1", "lang": "de", "type": "sentence", "text": "Helmut Richter, Katalog zur Erfassung und Beschreibung der “Dong Tien” aus der Ara der Vietnamesischen Kaiser Minh Mạng, Thieu Tri und Tu Duc sowie deren Nachahmungen und Kopien, Bản thảo chưa xuất bản." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "5" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Quốc sử quán triều Nguyễn, Đại Nam Thực Lục (10 tập), Nhà xuất bản Giáo dục, Đà Nẵng, 2004-2007, Tập 2, trang 55." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "6" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Đại Nam Thực Lục, Sách đã dẫn, Tập 3, trang 69-71, chép là “源 (Nguyên)”, nhưng Khâm Định Đại Nam Hội Điển Sự Lệ, Tập 5, chép là “河 (Hà)”, các sưu tập tiền cổ trên thế giới đều cho thấy đồng tiền viết là “河 (Hà)”, không có đồng nào viết là “源 (Nguyên)”, có thể Đại Nam Thực Lục chép nhầm, hoặc dịch giả vô ý đọc sai." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "7" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Đại Nam Thực Lục, Sách đã dẫn, Tập 3, trang 69-71. Trong sách dịch không có phụ chú chữ Hán, tôi xin viết thêm chữ Hán cho tiện tham khảo." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "8" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Đại Nam Thực Lục, Sách đã dẫn, Tập 5, trang 202." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "9" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Giống như đã liệt kê ở trên 20 hiệu đầu, chỉ liệt kê thêm 3 hiệu mới." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "10" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Giống như đã liệt kê ở trên 10 hiệu đầu, chỉ liệt kê thêm 7 hiệu mới." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "11" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Nội các triều Nguyễn, Khâm Định Đại Nam Hội Điển Sự Lệ (10 tập), Nhà xuất bản Thuận Hóa, 1993, Tập 5, trang 17-19." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "12" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Đại Nam Thực Lục, Sách đã dẫn, Tập 6, trang 839-840." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "13" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Tất cả các loại tiền bằng đồng từ Quang Trung, Cảnh Thịnh, Gia Long cho đến Bảo Đại đường kính lớn hơn 10 cm như hình 631-638 trong sách Catalogue Of Annam Coins 968-1955 của Bernard J. Permar (Saigon, 1963)… mặt lưng có hình long vân, mỹ hiệu… đều là tiền giả mới sáng tác của Phường Đúc (Huế). Hoặc có đồng tiền “明 命 通 寶 (Minh Mệnh Thông Bảo)” mặt lưng có hình cửa Ngọ Môn cũng chỉ là sản phẩm mỹ nghệ do cụ Tánh mới sáng tác vào năm 1970." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "name": "nah10244", "paragraph": "0xkfhyin", "type": "named_route", "text": "14" },
+      { "active": "1", "lang": "vi", "name": "nah10245", "paragraph": "0xkfhyin", "type": "sentence", "text": "Nghĩa là : Giáp Ngọ ngày tốt, Mười vạn bạc ròng. Lưu làm quốc dụng, Ai dám riêng lòng." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "15" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Nghĩa là : Minh Mệnh Giáp ngọ, Cất bạc trăm ngàn. Của nước không thiếu, Chất chứa muôn vàn." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "16" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Quốc sử quán triều Nguyễn (Cao Tự Thanh dịch), Đại Nam Thực Lục (Chính biên Đệ lục kỷ Phụ biên), Nhà xuất bản Văn hóa Văn nghệ, 2011, trang 627." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "17" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Thích Đại Sán, Hải Ngoại Kỷ Sự, Viện Đại học Huế, Ủy ban phiên dịch sử liệu Việt Nam, 1963, trang 50." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "18" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Xem thêm bài của tôi : Tố Oanh (Nguyễn Anh Huy), “Nhân ngày xuân, nói chuyện cầu Quốc Thái Dân An – Phong Điều Vũ Thuận”, Xưa Và Nay, Số 467, Xuân Bính Thân, 2016." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "19" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Trần Tế Xương (1870-1907) diễn giải “Tam đa” qua bài thơ “Năm mới chúc nhau” : Lẳng lặng mà nghe nó chúc nhau, Chúc nhau trăm tuổi bạc đầu râu. Phen này ông quyết đi buôn cối, Thiên hạ bao nhiêu đứa giã trầu./ Lẳng lặng mà nghe nó chúc sang, Đứa thì mua tước đứa mua quan. Phen này ông quyết đi buôn lọng, Vừa bán vừa chửi cũng đắt hàng./ Nó lại chúc nhau cái sự giàu, Trăm nghìn vạn mớ để vào đâu ? Phen này ắt hẳn gà ăn bạc, Đồng rụng đồng rơi lọ phải cầu ?/ Nó lại chúc nhau có lắm con, Sinh năm đẻ bảy được vuông tròn. Phố phường chật hẹp người đông đúc, Bồng bế nhau lên nó ở non." }
+    ],
+    [
+      { "active": "1", "lang": "vi", "type": "named_route", "text": "20" },
+      { "active": "1", "lang": "vi", "type": "sentence", "text": "Theo GS François Thierry, hai chữ “無 虞 (vô ngu)” trong câu này lấy từ câu trong Kinh Thư : “四 方 無 虞, 予 一 人 以 寧 (Tứ phương vô ngu, dư nhất nhân dĩ ninh)”." }
     ]
   ] }
 ]
