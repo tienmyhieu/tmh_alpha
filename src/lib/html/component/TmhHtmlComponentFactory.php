@@ -20,6 +20,7 @@ readonly class TmhHtmlComponentFactory
             'image_gallery' => new TmhImageGalleryHtmlComponent($this, $this->elementFactory),
             'image_gallery_item' => new TmhImageGalleryItemHtmlComponent($this->elementFactory),
             'image_gallery_title' => new TmhImageGalleryTitleHtmlComponent($this->elementFactory),
+            'maxim_list' => new TmhMaximListHtmlComponent($this->elementFactory),
             'siblings' => new TmhSiblingsHtmlComponent($this->elementFactory),
             'topic' => new TmhTopicHtmlComponent($this->elementFactory),
             'title' => new TmhTitleHtmlComponent($this->elementFactory),

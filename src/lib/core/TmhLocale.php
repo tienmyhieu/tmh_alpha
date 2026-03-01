@@ -4,12 +4,14 @@ namespace lib\core;
 
 readonly class TmhLocale
 {
+    private string $currentLocale;
     private array $locales;
 
     public function __construct(private TmhDomain $domain, private TmhJson $json)
     {
         $domain = $this->domain->domain();
         $this->locales = $this->getLocales($domain['locale']);
+        $this->currentLocale = $domain['locale'];
     }
 
     public function get(string $uuid): string
@@ -37,5 +39,10 @@ readonly class TmhLocale
         $patterns = ["'", ' ', '、', '-', '.', "'", ',', ':'];
         $replacements = ['', '_', '', '_', '_', '', '', ''];
         return str_replace($patterns, $replacements, $locale);
+    }
+
+    public function currentLocale(): string
+    {
+        return $this->currentLocale;
     }
 }

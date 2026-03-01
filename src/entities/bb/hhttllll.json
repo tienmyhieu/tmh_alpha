@@ -1,0 +1,152 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "1redsad2", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "nikb5tsf", "lang": "", "route": "8tc5zxs0", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "qjan7ujb", "lang": "", "route": "8tc5zxs0", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "rx3oo4v2", "lang": "", "route": "4dnczf17", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "haxepuxb", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "a3ka7fzv",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["e91jsbk1"], "type": "text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["98p7nt2k"], "type": "text" }
+        ]
+      },
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "uaffrmxp",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Minh Mang thong bao: Hien - 贒",
+            "en-GB": "Minh Mang thong bao: Hien - 贒",
+            "fr-FR": "Minh Mang thong bao: Hien - 贒",
+            "ja-JP": "明命通寶: 贒",
+            "vi-VN": "Minh Mệnh thông bảo: Hiền - 贒",
+            "zh-Hans": "明命通宝: 贒",
+            "zh-Hant": "明命通寶: 贒"
+          }, "type": "locale_text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Thieu Tri thong bao: Hien - 賢",
+            "en-GB": "Thieu Tri thong bao: Hien - 賢",
+            "fr-FR": "Thieu Tri thong bao: Hien - 賢",
+            "ja-JP": "紹治通寶: 賢",
+            "vi-VN": "Thiệu Trị thông bảo: Hiền - 賢",
+            "zh-Hans": "绍治通宝: 賢",
+            "zh-Hant": "紹治通寶: 賢"
+          }, "type": "locale_text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Tu Duc thong bao: Hien - 賢",
+            "en-GB": "Tu Duc thong bao: Hien - 賢",
+            "fr-FR": "Tu Duc thong bao: Hien - 賢",
+            "ja-JP": "嗣德通寳: 賢",
+            "vi-VN": "Tự Đức thông bảo: Hiền - 賢",
+            "zh-Hans": "嗣德通宝: 賢",
+            "zh-Hant": "嗣德通寳: 賢"
+          }, "type": "locale_text" }
+        ]
+      }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "60", "plate": "" }
+      ], "text": "Menschen mit Tugenden achten, die Eitern lieben, den Frieden genießen, das Glück nutzen"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "384", "plate": "" },
+        { "citation": "vat3hloi", "page": "155", "plate": "" },
+        { "citation": "wzrb21p7", "page": "", "plate": "" }
+      ], "text": "Appreciate the wise, love one’s parents, enjoy pleasure, benefit from gain"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "10", "plate": "" },
+        { "citation": "yi4abjp5", "page": "10", "plate": "" }
+      ], "text": "To estimate the men of parts and of uncommon vietus (to love and seek the wise men; to love one's parent to cherish ones relative, to enjoy peace; to profit by good fortune)"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "180", "plate": "" }
+      ], "text": "Les parents du sage se réjouissent de sa prospérité"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "207,430", "plate": "" }
+      ], "text": "Estimer les hommes d'un talent et d'une vertu peu ordinaire (aimer et rechercher les hommes sage); aimer ses parents (chérir ses proches); jouir de la paix; profiter de la bonne fortune"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "idu77whs", "page": "49", "plate": "" }
+      ], "text": "Grande Sagesse, Piété filiale, Joie et Bonne Fortune"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "85", "plate": "" }
+      ], "text": "Rechercher les hommes sages, aimer ses parents, jouir de la sérénité, profiter de la bonne fortune"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "hq8n5n8z", "page": "76", "plate": "" }
+      ], "text": "Estimer les sages, aimer ses parents, cultiver la joie, profiter de la chance"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "19", "plate": "" }
+      ], "text": "賢人を贅人として待遇し、親族は親族として扱ぃ、人民の楽を楽と考之、人民の利益を利益と考之る"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "122", "plate": "" }
+      ], "text": "賢者に感謝し、両親を愛し、快楽を楽しみ、実りから利益を得る"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "52xcxi30", "page": "47", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "167", "plate": "" },
+        { "citation": "d3ajayqe", "page": "11", "plate": "" }
+      ], "text": "Hiên với người hiên, thân với người thân, vui cái vui, lợi cái lợi"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "69", "plate": "" },
+        { "citation": "twunhs0e", "page": "75", "plate": "" }
+      ], "text": "Quý người hiền, thân người thân"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "zv1eosh2", "page": "47", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "201", "plate": "" },
+        { "citation": "4i4d9qv0", "page": "839", "plate": "" }
+      ], "text": "Thân với ngườì thân, yêu quý ngườì hiền, lợi diều đáng lợi, vui diều đáng vui"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Mến người hiền, yêu người thân, thưởng thức niềm vui, hưởng ích từ những điều lợi"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "君子贤其贤而亲其亲、小人乐其乐而利其利"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "君子贤其贤而亲其亲、小人乐其乐而利其利"
+    }, "type": "maxim" }
+  ] }
+]

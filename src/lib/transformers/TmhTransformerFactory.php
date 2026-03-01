@@ -34,6 +34,7 @@ readonly class TmhTransformerFactory
             'image_group3',
             'image_group4',
             'image_group5' => new TmhImageGroupTransformer($this, $this->database),
+            'maxim_list' => new TmhMaximListTransformer(),
             'metadata' => new TmhMetadataTransformer($this->domain),
             'siblings' => new TmhSiblingTransformer($this->domain, $this->locale, $this->route),
             'route1',

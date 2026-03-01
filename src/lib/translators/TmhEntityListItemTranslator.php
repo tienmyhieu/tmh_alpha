@@ -12,6 +12,7 @@ readonly class TmhEntityListItemTranslator implements TmhTranslator
 
     public function translate(array $entity): array
     {
+        $currentLocale = $this->locale->currentLocale();
         $imageRouteTypes = ['image_route1', 'image_route2'];
         $routeTypes = ['route1', 'route2', 'route3', 'route5'];
         if (in_array($entity['type'], $routeTypes)) {
@@ -24,7 +25,13 @@ readonly class TmhEntityListItemTranslator implements TmhTranslator
             $entity['route'] = $translator->translate($entity['route']);
             $entity['type'] = $routeType;
         }
-        $entity['translation'] = implode(' ', $this->locale->getMany($entity['translation']));
+        if ($entity['type'] == 'locale_text') {
+            $localeText = $entity['translation'][$currentLocale];
+            $entity['translation'] = $localeText;
+            $entity['type'] = 'text';
+        } else {
+            $entity['translation'] = implode(' ', $this->locale->getMany($entity['translation']));
+        }
 
         return $entity;
     }
