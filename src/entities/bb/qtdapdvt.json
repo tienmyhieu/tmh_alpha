@@ -1,0 +1,90 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "ao3emrlo", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "79fg8rpb", "lang": "", "route": "rgsezyvk", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "kj9mwshx", "lang": "", "route": "4u4de93m", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "14p9l5xd", "lang": "", "route": "s1nsrlz9", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "60", "plate": "" }
+      ], "text": "Der Staat gedeihe, das Volk sei glücklich. Wind und Regen zur rechten Zeit und im richtigen Verhältnis"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "54q4hlvb", "page": "115", "plate": "" }
+      ], "text": "Wind and rain favorable and seasonable: the state prosperous: the people at peace"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "384", "plate": "" },
+        { "citation": "vat3hloi", "page": "155", "plate": "" }
+      ], "text": "The state calm, the people at peace, the wind gentle, the rain beneficial"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "10", "plate": "" },
+        { "citation": "yi4abjp5", "page": "10", "plate": "" }
+      ], "text": "The state is prosperous; the Nation is quiet; the wind and the rain at the right moment and to the right amount"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "207,430", "plate": "" },
+        { "citation": "rqdaou3y", "page": "145", "plate": "" }
+      ], "text": "L'état prospère, la peuple tranquille, le vent et la pluie à propos et dans une juste measure"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "86", "plate": "" },
+        { "citation": "hq8n5n8z", "page": "77", "plate": "" }
+      ], "text": "État prospère, peuple tranquille, vent tempéré et pluie bienfaisante"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "5", "plate": "" }
+      ], "text": "国家が泰平で、国民は安心していられる。気候が順調で五穀が豊穣である"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "123", "plate": "" }
+      ], "text": "静かな状態、平和な人々、優ししヽ風、益をもたらす雨"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "839", "plate": "" },
+        { "citation": "52xcxi30", "page": "47", "plate": "" },
+        { "citation": "zv1eosh2", "page": "47", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "167,201,234", "plate": "" },
+        { "citation": "n2u0xpv3", "page": "13", "plate": "" }
+      ], "text": "Nước thịnh, dân yên, gió hoà, mưa thuận"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "69", "plate": "" },
+        { "citation": "twunhs0e", "page": "76", "plate": "" }
+      ], "text": "Nước thịnh dân yên - Gió hoà mưa thuận"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "jgar9yls", "page": "62", "plate": "" },
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Đất nước thái bình, dân chúng an cư, mưa hòa, gió thuận"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "国家太平、人民安乐、风雨适时"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "国家太平、人民安乐、风雨适时"
+    }, "type": "maxim" }
+  ] }
+]
