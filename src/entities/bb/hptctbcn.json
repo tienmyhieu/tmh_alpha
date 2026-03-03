@@ -1,0 +1,88 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "bq7o4wqr", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "s45f24j2", "lang": "", "route": "yvc5yyzi", "translation": ["ffhq0gea"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "61", "plate": "" }
+      ], "text": "Freude schöpfen aus den drei Wünschen des „Hoa” und aus den neun Übereinstimmungen des „Thien-bac”"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "386", "plate": "" },
+        { "citation": "vat3hloi", "page": "155", "plate": "" },
+        { "citation": "wzrb21p7", "page": "", "plate": "" }
+      ], "text": "The three desires of Hua, the Nine Comparisons in [the poem] Tianbao"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "10", "plate": "" },
+        { "citation": "yi4abjp5", "page": "10", "plate": "" }
+      ], "text": "(may you enjoy) the 3 wishes of Haon and also of the 9 similitudes of thien bao"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "180", "plate": "" }
+      ], "text": "Les trois souhaits des gens de Hoa-Phong (à l'empereur Nghiên), (c'est-à-dire richesse, longue vie et nombreuse postérité). Comme les neufs souhaits du Thiên bảo"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "208,430", "plate": "" }
+      ], "text": "(Puissiez-vous jouir des) trois souhaits de Hoa, (ainsi que des) neuf similitudes de Thiên bảo"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "86", "plate": "" }
+      ], "text": "Obtenez les Trois Souhaits du feudataire de Hua et les Neuf “Comme” du Tian Bao"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "1", "plate": "" }
+      ], "text": "昔、華の人々が祝福したょうに、三っの幸せ、すなゎち長寿、裕福 子孫繁栄が福得られるよらに"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "124", "plate": "" }
+      ], "text": "華の3つの欲望、天保[の詩]の九如"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "52xcxi30", "page": "47", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "167", "plate": "" }
+      ], "text": "Ngườì giữ phong cương ở Hoa Châu (Hoa Phong) chúc thánh nhân ba điều (giàu, sổng lâu, nhiều con trai)"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "69", "plate": "" },
+        { "citation": "twunhs0e", "page": "77", "plate": "" }
+      ], "text": "Chúc thánh nhân ba điều : giàu, sống lâu, nhiều con trai (Hoa phong nghĩa là ngườì giữ phong cương ở hoa châu)"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "d3ajayqe", "page": "10", "plate": "" }
+      ], "text": "Ngườì giữ phong cương ở Hoa Châu (Hoa Phong) chúc thánh nhân 3 điều. Thơ Thiên bảo chúc phúc nhà vua 9 điều"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Người ở Hoa Phong chúc 3 điều là sống lâu, giàu có và nhiều con, tức 4 mỹ hiệu “Phú, Thọ, Đa nam”, cũng được gọi là “tam đa” (đa phú, đa thọ, đa nam)"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "愿圣人多富,多寿,多男子"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "愿圣人多富,多寿,多男子"
+    }, "type": "maxim" }
+  ] }
+]
