@@ -1,0 +1,103 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "8tm3rfdc", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "ksz47bmg", "lang": "", "route": "lno4a9jy", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "dl2k2w2q", "lang": "", "route": "x1lplxft", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "sxd75b3h", "lang": "", "route": "d0ciftrq", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "61", "plate": "" }
+      ], "text": "Den Thron erlangen, Überfluß erwerben, einen guten Ruf gewinnen, ein ianges Leben erwarten"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "387", "plate": "" },
+        { "citation": "vat3hloi", "page": "155", "plate": "" },
+        { "citation": "wzrb21p7", "page": "", "plate": "" }
+      ], "text": "Achieve status, achieve riches, achieve reputation, achieve longevity"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "10", "plate": "" },
+        { "citation": "yi4abjp5", "page": "10", "plate": "" }
+      ], "text": "To obtain the throne; to secure affluence to gain a good renown; to live a long life"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "181", "plate": "" }
+      ], "text": "Qu'il obtienne les dignité, qu'il obtienne la prospérité, qu'il obtienne la renommée, qu'il obtienne la longévité"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "191", "plate": "" }
+      ], "text": "Obtenez la réputation, obtenez la longévité, obtenez les bonheurs, obtenez la prospérité"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "208,430", "plate": "" },
+        { "citation": "rqdaou3y", "page": "146", "plate": "" }
+      ], "text": "Obtenir le trône, acquérir l'opulence, gagner une bonne renommée, atteindre le longévité"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "86", "plate": "" }
+      ], "text": "Obtenez dignité, opulence, renommée et longévité"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "6,40", "plate": "" }
+      ], "text": "地位を得て、収入を得て、名声を得て、長寿を得る"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "124", "plate": "" }
+      ], "text": "地位を得る、富を得る、評判を得る、長寿を得る"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "70", "plate": "" },
+        { "citation": "twunhs0e", "page": "78", "plate": "" }
+      ], "text": "Được ngôi được lộc - Được danh được thọ"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "52xcxi30", "page": "48", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "168", "plate": "" },
+        { "citation": "d3ajayqe", "page": "11", "plate": "" }
+      ], "text": "Được địa vị, dược công danh, dược lộc, dược sống lâu"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "839", "plate": "" },
+        { "citation": "zv1eosh2", "page": "47", "plate": "" }
+      ], "text": "Được ngôi, được lộc, được danh, được thọ"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "f9ewv5w2", "page": "201", "plate": "" }
+      ], "text": "Được công danh, dược sống lâu"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Có được địa vị, có được công danh là có lộc và sống lâu"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "故大德必得其位,必得其禄,必得其名,必得其寿"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "故大德必得其位,必得其禄,必得其名,必得其寿"
+    }, "type": "maxim" }
+  ] }
+]
