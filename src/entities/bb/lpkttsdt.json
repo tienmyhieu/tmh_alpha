@@ -1,0 +1,95 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "v01gsiwo", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "o5n1w1my", "lang": "", "route": "giffr8vy", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "5wmtj1c0", "lang": "", "route": "4kevb7m0", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "9q2y7rj1", "lang": "", "route": "noa9vveg", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "61", "plate": "" }
+      ], "text": "Die sechs Schätze der Natur sind großartig verbessert werden, die drei Aneignungen wurden gut geregelt"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "387", "plate": "" },
+        { "citation": "vat3hloi", "page": "155", "plate": "" },
+        { "citation": "wzrb21p7", "page": "", "plate": "" }
+      ], "text": "The Six Treasuries maintained perfectly, the Three Occupations performed correctly"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "10", "plate": "" },
+        { "citation": "yi4abjp5", "page": "10", "plate": "" }
+      ], "text": "The six treasure of Nature have been greatly improved, the 3 professions are well ordered"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "181", "plate": "" }
+      ], "text": "Lorsque les trois ministres gouvernent bien, les six sortes de provinces sont grandement améliorées"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "208", "plate": "" },
+        { "citation": "rqdaou3y", "page": "146", "plate": "" }
+      ], "text": "Les six trésors de la nature ont été grandement améliorés, les trois occupations sont bien réglées"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "87", "plate": "" },
+        { "citation": "hq8n5n8z", "page": "71", "plate": "" }
+      ], "text": "Les Six Trésors ont été excellement maintenus, les Trois Occupation correctement apliquées"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "7", "plate": "" }
+      ], "text": "食料など六種類の資源はとても順調であり、 三っの政治原則は真に治世に役立ってぃる"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "125", "plate": "" }
+      ], "text": "六府は完全に維持され、三事は正しく実行されました"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "70", "plate": "" },
+        { "citation": "twunhs0e", "page": "79", "plate": "" }
+      ], "text": "Sáu kho (kim, mộc, thuỷ, hoả, thổ và thóc) đầy đủ - Ba việc (chính đức, lợi dụng, hậu sinh) đều làm"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "839", "plate": "" },
+        { "citation": "zv1eosh2", "page": "47", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "202", "plate": "" }
+      ], "text": "Sáu phủ sửa sang, ba việc chỉnh đốn"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "52xcxi30", "page": "48", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "168", "plate": "" },
+        { "citation": "d3ajayqe", "page": "10", "plate": "" }
+      ], "text": "Sáu kho (kim, mộc, thuỷ, hoả, thổ và thóc) đây đủ. Ba việc (chính đức, lợi dụng, hậu sinh) đêu làm"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "6 kho (là kim, mộc, thủy, hỏa, thổ và lương thực) được dồi dào ; 3 nguyên tắc chính trị (là chính đức, áp dụng hữu hiệu, nâng cao mức sống nhân dân) đều được làm"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "地平天成,六府三事允治。万世永赖,时乃功"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "地平天成,六府三事允治。万世永赖,时乃功"
+    }, "type": "maxim" }
+  ] }
+]
