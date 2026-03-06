@@ -1,0 +1,120 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "q202gw30", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "shllhwjp", "lang": "", "route": "qsby8vrz", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "s8rbkws7", "lang": "", "route": "wvm35ssb", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "m8rqpy7y", "lang": "", "route": "s5nz9ymn", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "haxepuxb", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "a3ka7fzv",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["1i3umth2"], "type": "text" }
+        ]
+      }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "63", "plate": "" }
+      ], "text": "Die Eltern lieben, die höher Stehenden achten, die Alten ehren, zu kleinen Kindern zärtlich sein"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "390", "plate": "" },
+        { "citation": "vat3hloi", "page": "155", "plate": "" }
+      ], "text": "Love one’s parents, respect one’s superiors, honour the old, cherish the children"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "11", "plate": "" },
+        { "citation": "yi4abjp5", "page": "11", "plate": "" }
+      ], "text": "To love one's parents, to have regard for one's betters, to honor the old ones, to cherish the young children"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "180", "plate": "" }
+      ], "text": "Aimez vos superérieurs, jeunes et vieux"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "209", "plate": "" }
+      ], "text": "Aimer ses parents, respecter ceux qui sont au-dessous de soi, honorer les veillards, chérir les jeunes enfants"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "85", "plate": "" },
+        { "citation": "hq8n5n8z", "page": "71", "plate": "" }
+      ], "text": "Aimer ses parents, respecter ses supérieurs, honorer les viellards, choyer les enfants"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "20", "plate": "" }
+      ], "text": "親は親らしく、目上は目上らしく、年長者は年長者らしく、年少者は年少者らしく"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "127", "plate": "" }
+      ], "text": "親を愛し、目上の人を尊敬し、老人を尊重し、子供たちを大切にする"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "70", "plate": "" }
+      ], "text": "Thân người thân, kính người trưởng - Trọng người già, yêu trẻ con"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "839", "plate": "" }
+      ], "text": "Thân với người thân, kính người tôn trưởng, trọng người già, yêu trẻ bé"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "twunhs0e", "page": "84", "plate": "" }
+      ], "text": "Thân người thân, kính người trưởng, trọng người già, yêu trẻ con"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "52xcxi30", "page": "48", "plate": "" },
+        { "citation": "jgar9yls", "page": "62", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "168,202,234", "plate": "" },
+        { "citation": "d3ajayqe", "page": "10", "plate": "" }
+      ], "text": "Thân ngưồi, thân kính ngưồi trưởng, trọng già, yêu trẻ"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "zv1eosh2", "page": "46", "plate": "" }
+      ], "text": "Thân với ngườì thân, tôn kính ngưồi trưởng, trọng ngườì già, yêu trẻ thơ"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "n2u0xpv3", "page": "12", "plate": "" }
+      ], "text": "Thân người thân, kính người trưởng, trọng già, yêu trẻn"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Cha mẹ cho ra cha mẹ, người trên ra người trên, người già ra người già, trẻ ra tre"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "人人亲爱他的父母、尊敬他的长辈,天下就会太平"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "人人亲爱他的父母、尊敬他的长辈,天下就会太平"
+    }, "type": "maxim" }
+  ] }
+]
