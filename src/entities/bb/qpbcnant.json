@@ -1,0 +1,152 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "z8jewlpk", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "zwxxsucl", "lang": "", "route": "vorhih72", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "d31lfkm2", "lang": "", "route": "2ew57fhw", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "atz37l9n", "lang": "", "route": "x3qe9rl5", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "haxepuxb", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "uaffrmxp",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Minh Mang thong bao: Cường - 彊",
+            "en-GB": "Minh Mang thong bao: Cường - 彊",
+            "fr-FR": "Minh Mang thong bao: Cường - 彊",
+            "ja-JP": "明命通寶: 彊",
+            "vi-VN": "Minh Mệnh thông bảo: Cường - 彊",
+            "zh-Hans": "明命通宝: 彊",
+            "zh-Hant": "明命通寶: 彊"
+          }, "type": "locale_text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Thieu Tri thong bao: Cường - 彊",
+            "en-GB": "Thieu Tri thong bao: Cường - 彊",
+            "fr-FR": "Thieu Tri thong bao: Cường - 彊",
+            "ja-JP": "紹治通寶: 彊",
+            "vi-VN": "Thiệu Trị thông bảo: Cường - 彊",
+            "zh-Hans": "绍治通宝: 彊",
+            "zh-Hant": "紹治通寶: 彊"
+          }, "type": "locale_text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Tu Duc thong bao: Cường - 强",
+            "en-GB": "Tu Duc thong bao: Cường - 强",
+            "fr-FR": "Tu Duc thong bao: Cường - 强",
+            "ja-JP": "嗣德通寳: 强",
+            "vi-VN": "Tự Đức thông bảo: Cường - 强",
+            "zh-Hans": "嗣德通宝: 强",
+            "zh-Hant": "嗣德通寳: 强"
+          }, "type": "locale_text" }
+        ]
+      }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "63", "plate": "" }
+      ], "text": "Den Staat anreichern, die Armee stärken, im Lande Sicherheit, an den Grenzen Ruhe"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "390", "plate": "" },
+        { "citation": "vat3hloi", "page": "155", "plate": "" },
+        { "citation": "wzrb21p7", "page": "", "plate": "" }
+      ], "text": "When the state is rich and the army is strong, there is peace at home, and calm abroad"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "11", "plate": "" },
+        { "citation": "yi4abjp5", "page": "11", "plate": "" }
+      ], "text": "To enrich the kingdom; to consolidate the army; safety in the kingdom, Peace out of the kingdom"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "179", "plate": "" }
+      ], "text": "Avec une armée forte on obtient la tranquilité au-dedans, la paix au dehors, et le royaume est prospère"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "209", "plate": "" }
+      ], "text": "Enrichir le royaume, affermir l'armée, la sûreté au dedans, la tranquillité au dehors"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "hq8n5n8z", "page": "76", "plate": "" }
+      ], "text": "Enrichir le Royaume, affermir l'armée; Paix à l'interiéur et Tranquillité à l'Extérieur"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "hq8n5n8z", "page": "71", "plate": "" },
+        { "citation": "qcsd2clc", "page": "278", "plate": "" }
+      ], "text": "Enrichir le royaume, affermir l'armée, paix interiéure et calme extérieur"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "10", "plate": "" }
+      ], "text": "富国強兵、国内は安定し、周辺国も静かにしている"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "127", "plate": "" }
+      ], "text": "国家が豊かで軍隊が強いとき、内には平和であつ、外には平穏がある"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "70", "plate": "" }
+      ], "text": "Nước giàu binh mạnh - Trong yên ngoài lặng"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "839", "plate": "" },
+        { "citation": "zv1eosh2", "page": "46", "plate": "" }
+      ], "text": "Nước giàu, quân mạnh, trong ngoài yên ổn"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "52xcxi30", "page": "48", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "169", "plate": "" }
+      ], "text": "Nược giàu, quân mạnh, trong yên, ngoài lặng"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "f9ewv5w2", "page": "200", "plate": "" }
+      ], "text": "Nược giàu, quân mạnh, trong ngoài - yên ổn"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "d3ajayqe", "page": "10", "plate": "" },
+        { "citation": "n2u0xpv3", "page": "13", "plate": "" }
+      ], "text": "Nược giàu, quân mạnh, trong yên, ngoài tĩnh"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "twunhs0e", "page": "85", "plate": "" }
+      ], "text": "Nước giàu binh mạnh, trong yên ngoài lặng"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Dân giàu, nước mạnh, trong yên, ngoài ổn"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "人人亲爱他的父母、尊敬他的长辈,天下就会太平"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "人人亲爱他的父母、尊敬他的长辈,天下就会太平"
+    }, "type": "maxim" }
+  ] }
+]
