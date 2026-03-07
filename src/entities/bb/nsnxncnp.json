@@ -1,0 +1,138 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "kwo8ouac", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "s0nt2jd0", "lang": "", "route": "4le1zg1p", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "mtpyd7r7", "lang": "", "route": "v1k2nwp7", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "7qoq2k8i", "lang": "", "route": "cr4077u0", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "haxepuxb", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "uaffrmxp",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Minh Mang thong bao: Cường - 岡",
+            "en-GB": "Minh Mang thong bao: Cường - 岡",
+            "fr-FR": "Minh Mang thong bao: Cường - 岡",
+            "ja-JP": "明命通寶: 岡",
+            "vi-VN": "Minh Mệnh thông bảo: Cường - 岡",
+            "zh-Hans": "明命通宝: 岡",
+            "zh-Hant": "明命通寶: 岡"
+          }, "type": "locale_text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Thieu Tri thong bao: Cường - 崗",
+            "en-GB": "Thieu Tri thong bao: Cường - 崗",
+            "fr-FR": "Thieu Tri thong bao: Cường - 崗",
+            "ja-JP": "紹治通寶: 崗",
+            "vi-VN": "Thiệu Trị thông bảo: Cường - 崗",
+            "zh-Hans": "绍治通宝: 崗",
+            "zh-Hant": "紹治通寶: 崗"
+          }, "type": "locale_text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Tu Duc thong bao: Cường - 崗",
+            "en-GB": "Tu Duc thong bao: Cường - 崗",
+            "fr-FR": "Tu Duc thong bao: Cường - 崗",
+            "ja-JP": "嗣德通寳: 崗",
+            "vi-VN": "Tự Đức thông bảo: Cường - 崗",
+            "zh-Hans": "嗣德通宝: 崗",
+            "zh-Hant": "嗣德通寳: 崗"
+          }, "type": "locale_text" }
+        ]
+      }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "64", "plate": "" }
+      ], "text": "Daß das Vermögen sich ansammie »wie ein Gebirge, wie ein Fluß, wie eine Bergspitze, wie ein Hügel«"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "391", "plate": "" },
+        { "citation": "vat3hloi", "page": "155", "plate": "" },
+        { "citation": "wzrb21p7", "page": "", "plate": "" }
+      ], "text": "Like a mountain, like a river, like a ridge, like a mound"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "11", "plate": "" },
+        { "citation": "yi4abjp5", "page": "11", "plate": "" }
+      ], "text": "May your wealth increase and be like a mountain-crest"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "179,191", "plate": "" }
+      ], "text": "Comme une montagne, comme une île, comme une monticule, comme un fleuve"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "209", "plate": "" }
+      ], "text": "Comme une montagne, comme une fleuve, comme une crête de montagne, comme une monticule"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "431", "plate": "" }
+      ], "text": "(Que les biens s'accumulent et soient) comme une montagne, comme une fleuve, comme une crête de montagne, comme une monticule"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "87", "plate": "" },
+        { "citation": "hq8n5n8z", "page": "71", "plate": "" }
+      ], "text": "Comme une montagne, comme une fleuve, comme la crête d'une montagne, comme une monticule"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "2", "plate": "" }
+      ], "text": "山のように、川のょうに、岡のように、陸のように"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "127", "plate": "" }
+      ], "text": "山のように、川のように、尾根のように、塚堤のように"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "70", "plate": "" }
+      ], "text": "Như núi như sông - Như gò như đống"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "839", "plate": "" }
+      ], "text": "Sống lâu như núi sông, như gò đống"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "52xcxi30", "page": "48", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "169,201", "plate": "" },
+        { "citation": "d3ajayqe", "page": "11", "plate": "" },
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Như núi, như sông, như gò, như đống"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "zv1eosh2", "page": "47", "plate": "" },
+        { "citation": "twunhs0e", "page": "86", "plate": "" }
+      ], "text": "Nước giàu binh mạnh, trong yên ngoài lặng"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "象山头,象高岭,象山背、象丘陵"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "象山头,象高岭,象山背、象丘陵"
+    }, "type": "maxim" }
+  ] }
+]
