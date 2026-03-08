@@ -19,27 +19,27 @@
         "translation": "uaffrmxp",
         "items": [
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
-            "de-DE": "Minh Mang thong bao: Cường - 彊",
-            "en-GB": "Minh Mang thong bao: Cường - 彊",
-            "fr-FR": "Minh Mang thong bao: Cường - 彊",
+            "de-DE": "Minh Mang thong bao: Cuong - 彊",
+            "en-GB": "Minh Mang thong bao: Cuong - 彊",
+            "fr-FR": "Minh Mang thong bao: Cuong - 彊",
             "ja-JP": "明命通寶: 彊",
             "vi-VN": "Minh Mệnh thông bảo: Cường - 彊",
             "zh-Hans": "明命通宝: 彊",
             "zh-Hant": "明命通寶: 彊"
           }, "type": "locale_text" },
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
-            "de-DE": "Thieu Tri thong bao: Cường - 彊",
-            "en-GB": "Thieu Tri thong bao: Cường - 彊",
-            "fr-FR": "Thieu Tri thong bao: Cường - 彊",
+            "de-DE": "Thieu Tri thong bao: Cuong - 彊",
+            "en-GB": "Thieu Tri thong bao: Cuong - 彊",
+            "fr-FR": "Thieu Tri thong bao: Cuong - 彊",
             "ja-JP": "紹治通寶: 彊",
             "vi-VN": "Thiệu Trị thông bảo: Cường - 彊",
             "zh-Hans": "绍治通宝: 彊",
             "zh-Hant": "紹治通寶: 彊"
           }, "type": "locale_text" },
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
-            "de-DE": "Tu Duc thong bao: Cường - 强",
-            "en-GB": "Tu Duc thong bao: Cường - 强",
-            "fr-FR": "Tu Duc thong bao: Cường - 强",
+            "de-DE": "Tu Duc thong bao: Cuong - 强",
+            "en-GB": "Tu Duc thong bao: Cuong - 强",
+            "fr-FR": "Tu Duc thong bao: Cuong - 强",
             "ja-JP": "嗣德通寳: 强",
             "vi-VN": "Tự Đức thông bảo: Cường - 强",
             "zh-Hans": "嗣德通宝: 强",

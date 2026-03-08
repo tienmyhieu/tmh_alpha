@@ -1,0 +1,135 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "o273du9k", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "jiksqp5c", "lang": "", "route": "fznalc0t", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "d8z4aq1s", "lang": "", "route": "bu73uzg8", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "hgo37l7l", "lang": "", "route": "14yxwjxa", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "haxepuxb", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "uaffrmxp",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Minh Mang thong bao: Bao - 寶",
+            "en-GB": "Minh Mang thong bao: Bao - 寶",
+            "fr-FR": "Minh Mang thong bao: Bao - 寶",
+            "ja-JP": "明命通寶: 寶",
+            "vi-VN": "Minh Mệnh thông bảo: Bảo - 寶",
+            "zh-Hans": "明命通宝: 寶",
+            "zh-Hant": "明命通寶: 寶"
+          }, "type": "locale_text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Thieu Tri thong bao: Bao - 寶",
+            "en-GB": "Thieu Tri thong bao: Bao - 寶",
+            "fr-FR": "Thieu Tri thong bao: Bao - 寶",
+            "ja-JP": "紹治通寶: 寶",
+            "vi-VN": "Thiệu Trị thông bảo: Bảo - 寶",
+            "zh-Hans": "绍治通宝: 寶",
+            "zh-Hant": "紹治通寶: 寶"
+          }, "type": "locale_text" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
+            "de-DE": "Tu Duc thong bao: Bao - 寳",
+            "en-GB": "Tu Duc thong bao: Bao - 寳",
+            "fr-FR": "Tu Duc thong bao: Bao - 寳",
+            "ja-JP": "嗣德通寳: 寳",
+            "vi-VN": "Tự Đức thông bảo: Bảo - 寳",
+            "zh-Hans": "嗣德通宝: 寳",
+            "zh-Hant": "嗣德通寳: 寳"
+          }, "type": "locale_text" }
+        ]
+      }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "64", "plate": "" }
+      ], "text": "Der Himmel geize nicht mit seinen Wohltaten, noch die Erde mit ihren Schätzen"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "54q4hlvb", "page": "115", "plate": "" }
+      ], "text": "Heaven grudges not its laws nor earth its treasures"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "392", "plate": "" },
+        { "citation": "vat3hloi", "page": "155", "plate": "" },
+        { "citation": "wzrb21p7", "page": "", "plate": "" }
+      ], "text": "Heaven does not care too much about its rules, Earth does not care too much about its treasures"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "11", "plate": "" },
+        { "citation": "yi4abjp5", "page": "11", "plate": "" }
+      ], "text": "The heaven will not square its blessings, neither will the earth spare its treasures"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "210", "plate": "" },
+        { "citation": "rqdaou3y", "page": "149", "plate": "" }
+      ], "text": "Le ciel ne sera pas avare de ses bienfaits, ni la terre de ses trésors"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "88", "plate": "" },
+        { "citation": "hq8n5n8z", "page": "71", "plate": "" }
+      ], "text": "Le Ciel dispense la Voie, la Terre n'est pas avare de ses trésors"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "15", "plate": "" }
+      ], "text": "天は摂理を惜しみなく一示し、地は宝物を惜しみなく与之る"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "128", "plate": "" }
+      ], "text": "天は自らの規則を気にすぎない、地は自らの宝について気にしすぎない"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "70", "plate": "" }
+      ], "text": "Trời không tiếc đạo - Đất không tiếc của"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "840", "plate": "" }
+      ], "text": "Trời chẳng tiếc lẽ phải, đất chẳng tiếc của báu"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "52xcxi30", "page": "48", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "169,203", "plate": "" },
+        { "citation": "twunhs0e", "page": "90", "plate": "" },
+        { "citation": "d3ajayqe", "page": "11", "plate": "" },
+        { "citation": "3zf74hz4", "page": "6", "plate": "" },
+        { "citation": "n2u0xpv3", "page": "14", "plate": "" }
+      ], "text": "Trời không tiếc đạo, đất không tiếc của"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Trời ban cho sự sắp đặt trong vũ trụ, đất ban cho ngọc ngà, châu báu"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "故天不爱其道、地不爱其宝、人不爱其情"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "故天不爱其道、地不爱其宝、人不爱其情"
+    }, "type": "maxim" }
+  ] }
+]

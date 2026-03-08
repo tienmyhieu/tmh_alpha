@@ -19,27 +19,27 @@
         "translation": "uaffrmxp",
         "items": [
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
-            "de-DE": "Minh Mang thong bao: Cường - 岡",
-            "en-GB": "Minh Mang thong bao: Cường - 岡",
-            "fr-FR": "Minh Mang thong bao: Cường - 岡",
+            "de-DE": "Minh Mang thong bao: Cuong - 岡",
+            "en-GB": "Minh Mang thong bao: Cuong - 岡",
+            "fr-FR": "Minh Mang thong bao: Cuong - 岡",
             "ja-JP": "明命通寶: 岡",
             "vi-VN": "Minh Mệnh thông bảo: Cường - 岡",
             "zh-Hans": "明命通宝: 岡",
             "zh-Hant": "明命通寶: 岡"
           }, "type": "locale_text" },
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
-            "de-DE": "Thieu Tri thong bao: Cường - 崗",
-            "en-GB": "Thieu Tri thong bao: Cường - 崗",
-            "fr-FR": "Thieu Tri thong bao: Cường - 崗",
+            "de-DE": "Thieu Tri thong bao: Cuong - 崗",
+            "en-GB": "Thieu Tri thong bao: Cuong - 崗",
+            "fr-FR": "Thieu Tri thong bao: Cuong - 崗",
             "ja-JP": "紹治通寶: 崗",
             "vi-VN": "Thiệu Trị thông bảo: Cường - 崗",
             "zh-Hans": "绍治通宝: 崗",
             "zh-Hant": "紹治通寶: 崗"
           }, "type": "locale_text" },
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": {
-            "de-DE": "Tu Duc thong bao: Cường - 崗",
-            "en-GB": "Tu Duc thong bao: Cường - 崗",
-            "fr-FR": "Tu Duc thong bao: Cường - 崗",
+            "de-DE": "Tu Duc thong bao: Cuong - 崗",
+            "en-GB": "Tu Duc thong bao: Cuong - 崗",
+            "fr-FR": "Tu Duc thong bao: Cuong - 崗",
             "ja-JP": "嗣德通寳: 崗",
             "vi-VN": "Tự Đức thông bảo: Cường - 崗",
             "zh-Hans": "嗣德通宝: 崗",
