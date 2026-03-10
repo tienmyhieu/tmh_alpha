@@ -1,0 +1,106 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "zemh3n34", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "c9ccz7ty", "lang": "", "route": "uw9zn1pf", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "ej9gezjl", "lang": "", "route": "h5tlw0k0", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "mcwbuexw", "lang": "", "route": "b8bx92lk", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "64", "plate": "" }
+      ], "text": "Die Stimme des Herrn ist laut und weit zu hören, der Rat der Weisen hat eine große Tragkraft"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "393", "plate": "" },
+        { "citation": "vat3hloi", "page": "156", "plate": "" },
+        { "citation": "wzrb21p7", "page": "", "plate": "" }
+      ], "text": "The Way of the King is vast, the teachings of the Wise man are immense"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "11", "plate": "" },
+        { "citation": "yi4abjp5", "page": "11", "plate": "" }
+      ], "text": "The way of the sovereign is broad and extends far away; the wise men's views are of far reaching effect"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "179", "plate": "" }
+      ], "text": "Quand les sages projets abondent, la voie du roi est large"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "210", "plate": "" },
+        { "citation": "rqdaou3y", "page": "149", "plate": "" }
+      ], "text": "La voie du souverain est large et s'étend loin, les conseils des sages ont une grande portée"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "88", "plate": "" }
+      ], "text": "La Voie du Souverain est vaste et large, grande est la portée des conseils du sage"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "3", "plate": "" }
+      ], "text": "王者の行うべ き道は遠大であり、皇帝のぉ考之は海のように広い"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "129", "plate": "" }
+      ], "text": "王の道は広大で、賢者の教えは計つ知れない"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "70", "plate": "" }
+      ], "text": "Đạo vương giả rộng thênh thang - Mưu thánh nhân dồi dào không hết"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "839", "plate": "" }
+      ], "text": "Con đường vương giả phẳng rộng, mưu thánh đầy rẫy"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "52xcxi30", "page": "48", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "170", "plate": "" },
+        { "citation": "d3ajayqe", "page": "11", "plate": "" }
+      ], "text": "Đạo vương giả thênh thang, mưa thánh nhân dôi dào"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "zv1eosh2", "page": "47", "plate": "" }
+      ], "text": "Đường vương giả phẳng rông, mưu thánh đầy đầy"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "f9ewv5w2", "page": "202", "plate": "" }
+      ], "text": "Đường vương giả thênh thang, mưa thánh nhân dôi dào"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "twunhs0e", "page": "92", "plate": "" }
+      ], "text": "Đạo vương giả rộng thênh thang, mưu thánh nhân dồi dào không hết"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Đạo của vương giả thì rộng lớn, suy nghĩ của vua thì bao la"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "君王的治國之路平遠坦蕩"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "君王的治國之路平遠坦蕩"
+    }, "type": "maxim" }
+  ] }
+]
