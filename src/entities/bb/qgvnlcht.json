@@ -1,0 +1,71 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "b4z5qqdm", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "e7haijmy", "lang": "", "route": "q5qr70cr", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "68", "plate": "" }
+      ], "text": "Im ganzen Kaiserreich gibt es nichts, das Unruhe hervorruft; dieser Wohlstand dauert an bis zu den künftigen Generationen"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "398", "plate": "" },
+        { "citation": "vat3hloi", "page": "156", "plate": "" }
+      ], "text": "A state without fear, [such] benefit reaches later generations"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "38", "plate": "" },
+        { "citation": "yi4abjp5", "page": "40", "plate": "" }
+      ], "text": "In the whole empire there appears no reason to worry about, this prosperity will extend to the future generations"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "190", "plate": "" }
+      ], "text": "Royaume inébranlable, ta prospérité s'étendra au-delà des générations"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "467", "plate": "" }
+      ], "text": "Dans tout l'empire il ne paraît aucun sujet d'inquiétude; cette prospérité s'étendra jusqu'aux générations futures"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "305", "plate": "" }
+      ], "text": "国家には教育が普及し愚かな者はなく、素質のある者が社会を発展させる"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "132", "plate": "" }
+      ], "text": "恐れのない状態、後の世代が[そのよらな]恩恵を受ける"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "jgar9yls", "page": "62", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "234", "plate": "" }
+      ], "text": "Cả nước không có diều lo lắng, lợi truyền dời sau"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Trị vì đất nước không có gì phải ưu tư thì có thể truyền lợi ích đến cả người đời sau"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "國家沒有憂患、利益延及後世"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "國家沒有憂患、利益延及後世"
+    }, "type": "maxim" }
+  ] }
+]
