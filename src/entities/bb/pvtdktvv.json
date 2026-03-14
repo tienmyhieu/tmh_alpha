@@ -1,0 +1,73 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "hruripe1", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "qoqm9mhr", "lang": "", "route": "xa7hqyir", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "haxepuxb", "identifier": "" },
+  {
+    "type": "entity_lists",
+    "items": [
+      {
+        "type": "entity_list",
+        "lang": "",
+        "translation": "a3ka7fzv",
+        "items": [
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["zl73woen"], "type": "text" }
+        ]
+      }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+      ], "text": "Keine Übersetzung verfügbar"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "396", "plate": "" },
+        { "citation": "vat3hloi", "page": "156", "plate": "" }
+      ], "text": "Moulded and enclosed by Heaven and Earth, taking meticulous care of all living things"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "98", "plate": "" }
+      ], "text": "Les limites du Ciel et de la Terre, les délinéaments de tous les êtres"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "304", "plate": "" }
+      ], "text": "天地の問の変化を全て覆い尽くし 万物をさまざまに生成することができる"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "131", "plate": "" }
+      ], "text": "天と地によつて形づくられ包み込まれ、生けるものすべてに細心の注意を払ら"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "jgar9yls", "page": "62", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "233", "plate": "" }
+      ], "text": "Trời đất uốn lượn thành, muôn vật khuôn trong cõi"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Thành tựu trọn vẹn, muôn vật ở trong phạm vi trời đất"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "曲尽细密地助成万物的生长畅达"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "曲尽细密地助成万物的生长畅达"
+    }, "type": "maxim" }
+  ] }
+]
