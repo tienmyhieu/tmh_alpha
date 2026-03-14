@@ -1,0 +1,79 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "p8s9wqen", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "fr3ukrwo", "lang": "", "route": "5kqpokt0", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "67", "plate": "" }
+      ], "text": "Der Himmel gibt ein Übermaß an Gutem, Förderung und Hilfe; seiner Vollmacht kann man vertrauen"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "397", "plate": "" },
+        { "citation": "vat3hloi", "page": "156", "plate": "" },
+        { "citation": "wzrb21p7", "page": "", "plate": "" }
+      ], "text": "With honours from heaven, he preserves the Mandate"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "38", "plate": "" },
+        { "citation": "yi4abjp5", "page": "40", "plate": "" }
+      ], "text": "The heaven overwhelms him with blessings, protects him, helps him, give him power"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "191", "plate": "" }
+      ], "text": "Le souverain doit se conformer au mandat du ciel dont il est investi"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "466", "plate": "" }
+      ], "text": "Le ciel le comble de biens, lui protège, l'aide, lui confie le pouvoir"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "98", "plate": "" },
+        { "citation": "qcsd2clc", "page": "278", "plate": "" }
+      ], "text": "Comblé d'honneurs par le Ciel, il en préserve le Mandat"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "52", "plate": "" }
+      ], "text": "皇帝は天かう福徳を受け 天は皇帝を守護して天命を与之る"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "132", "plate": "" }
+      ], "text": "天からの栄誉を得て、彼は榷限を保持する"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "jgar9yls", "page": "62", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "234", "plate": "" },
+        { "citation": "n2u0xpv3", "page": "13,14", "plate": "" }
+      ], "text": "Trời che chở giúp đỡ cho thọ, cho lộc và quyền lực"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Được thụ hưởng ơn trên, thì phải biết gánh vác sứ mệnh"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "他的奉禄是上天受来的、上天保护扶助而命令他"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "他的奉禄是上天受来的、上天保护扶助而命令他"
+    }, "type": "maxim" }
+  ] }
+]
