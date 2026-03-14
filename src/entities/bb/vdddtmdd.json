@@ -42,6 +42,7 @@
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
+        { "citation": "idu77whs", "page": "50", "plate": "" },
         { "citation": "g24mcucr", "page": "88", "plate": "" }
       ], "text": "La Voie du Souverain est vaste et large, grande est la portée des conseils du sage"
     }, "type": "maxim" },
