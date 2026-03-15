@@ -1,0 +1,100 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "evvk9x5s", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "ea78r40p", "lang": "", "route": "ti1c9xd1", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "ymkvw3cn", "lang": "", "route": "po1q5yvp", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "z8qfxge8", "lang": "", "route": "t4gqlm81", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "65", "plate": "" }
+      ], "text": "Anfang, Entwicklung, Behauptung, Vervollkommnung"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "372", "plate": "" },
+        { "citation": "vat3hloi", "page": "154", "plate": "" },
+        { "citation": "wzrb21p7", "page": "", "plate": "" }
+      ], "text": "The primordial exerts his influence, propitious and virtuous"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "12", "plate": "" },
+        { "citation": "yi4abjp5", "page": "12", "plate": "" }
+      ], "text": "Beginning, development, strengthening, and improving"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "179", "plate": "" }
+      ], "text": "La principale vertu doit être l'intégrité"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "211", "plate": "" }
+      ], "text": "Cause initiale, liberté, bien perfection"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "432", "plate": "" },
+        { "citation": "rqdaou3y", "page": "150,155", "plate": "" }
+      ], "text": "Commencement, développement, affermissement, perfectionnement"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "84", "plate": "" }
+      ], "text": "Cause initiale, pénétrant, bien, perfection"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "23", "plate": "" }
+      ], "text": "非縄常に運が開け、正しぃ人に幸運が訪れる"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "113", "plate": "" }
+      ], "text": "その基本原埋 (原始性) は、彼の影響、慈悲、そして、高潔さを及ぼすものである"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "71", "plate": "" },
+        { "citation": "twunhs0e", "page": "95", "plate": "" }
+      ], "text": "Quẻ càn có bốn đức : nguyên là khởi đầu, hanh là đương thịnh, lợi là thuận lợi, trinh là kết quảm"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "840", "plate": "" },
+        { "citation": "zv1eosh2", "page": "48", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "204", "plate": "" }
+      ], "text": "Gồm bốn đức của quẻ Càn trong Kinh Dịch"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "52xcxi30", "page": "49", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "170", "plate": "" },
+        { "citation": "d3ajayqe", "page": "10", "plate": "" },
+        { "citation": "n2u0xpv3", "page": "14", "plate": "" }
+      ], "text": "Quẻ càn có 4 đức: nguyên là khởi đâu, hanh là đang thịnh, lợi là thuận lợi, trinh là kết quả"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Vận may, hanh thông đến với người quân tử"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "元者、善之长也; 亨者、嘉之会也; 利者、义之和也; 贞者、事之干也"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "元者、善之长也; 亨者、嘉之会也; 利者、义之和也; 贞者、事之干也"
+    }, "type": "maxim" }
+  ] }
+]
