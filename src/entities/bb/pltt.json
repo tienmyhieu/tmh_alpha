@@ -1,0 +1,95 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "hcawgp3e", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "4bk0xqqn", "lang": "", "route": "dtin11bo", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "q24n2lhf", "lang": "", "route": "phecz7y2", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "b5opihhq", "lang": "", "route": "k8jklpg0", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "65", "plate": "" }
+      ], "text": "Sich erfreuen an beständiger und gesicherter Glückseligkeit"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "373", "plate": "" },
+        { "citation": "vat3hloi", "page": "154", "plate": "" }
+      ], "text": "Happiness and success, peaceful and assured"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "12", "plate": "" },
+        { "citation": "yi4abjp5", "page": "12", "plate": "" }
+      ], "text": "To enjoy a constant and certain felicity"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "179", "plate": "" }
+      ], "text": "Que votre bonheur soit assuré et grand"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "211", "plate": "" },
+        { "citation": "rqdaou3y", "page": "151", "plate": "" }
+      ], "text": "Jouir d'une félicité constant et assurée"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "84", "plate": "" },
+        { "citation": "hq8n5n8z", "page": "71", "plate": "" }
+      ], "text": "Bonheur et succès constants et assurés"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "22", "plate": "" }
+      ], "text": "(皇帝の) 幸運と裕福が (人民の) 安泰をもたらず"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "113", "plate": "" }
+      ], "text": "幸福と成功、平和と安心"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "71", "plate": "" },
+        { "citation": "52xcxi30", "page": "49", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "170", "plate": "" },
+        { "citation": "twunhs0e", "page": "96", "plate": "" },
+        { "citation": "n2u0xpv3", "page": "12", "plate": "" }
+      ], "text": "Phúc lộc yên hưởng"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "840", "plate": "" },
+        { "citation": "zv1eosh2", "page": "48", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "204", "plate": "" }
+      ], "text": "Phúc lộc dồi dào"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "d3ajayqe", "page": "10", "plate": "" }
+      ], "text": "Phúc lộc đều yên hưởng"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Hạnh phúc, giầu sang của vua sẽ mang lại an hoà cho nhân dân"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "樂哉君子、福緣來安全他"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "樂哉君子、福緣來安全他"
+    }, "type": "maxim" }
+  ] }
+]
