@@ -1,0 +1,100 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "7gpacv8a", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "ccq7fk9o", "lang": "", "route": "xa7w0mka", "translation": ["ffhq0gea"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "7nakovoc", "lang": "", "route": "pzkhxzof", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "i0jciz3l", "lang": "", "route": "qpzf7zmw", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "66", "plate": "" }
+      ], "text": "Das Glück erreichen und das Volk daran teilnehmen lassen"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "374", "plate": "" },
+        { "citation": "vat3hloi", "page": "154", "plate": "" },
+        { "citation": "wzrb21p7", "page": "", "plate": "" }
+      ], "text": "Achieve happiness and share it with the people"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "12", "plate": "" },
+        { "citation": "yi4abjp5", "page": "12", "plate": "" }
+      ], "text": "To obtain the five felicities, to make the nation share them"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "179", "plate": "" }
+      ], "text": "Amasser le bonheur pour le donner au peuple"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "190", "plate": "" }
+      ], "text": "La rentrée régulière des impôts prouve que le peuple est heureux"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "212", "plate": "" },
+        { "citation": "rqdaou3y", "page": "152", "plate": "" }
+      ], "text": "Obtenir les (cinq) bonheurs, les faire partager au peuple"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "84", "plate": "" },
+        { "citation": "hq8n5n8z", "page": "84", "plate": "" }
+      ], "text": "Obtenir le bonheur et le dispenser au peuple"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "26", "plate": "" }
+      ], "text": "皇帝は幸福を収めて、人民に分け与之る"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "115", "plate": "" }
+      ], "text": "幸福を得て人々と共有する"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "ybuwdjsb", "page": "71", "plate": "" },
+        { "citation": "52xcxi30", "page": "49", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "170", "plate": "" },
+        { "citation": "twunhs0e", "page": "100", "plate": "" },
+        { "citation": "d3ajayqe", "page": "10", "plate": "" }
+      ], "text": "Thu phúc đem cho dân"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "840", "plate": "" }
+      ], "text": "Thu phúc, ban cho dân"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "zv1eosh2", "page": "48", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "204", "plate": "" }
+      ], "text": "Thu phúc ban cho dân"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Vua nhận phúc lộc, chia cho chúng dân"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "聚集这五福、把它普遍赐给臣民"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "聚集这五福、把它普遍赐给臣民"
+    }, "type": "maxim" }
+  ] }
+]
