@@ -1,0 +1,93 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "hbisv8zx", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "1dtephf9", "lang": "", "route": "rgr3cp4z", "translation": ["j4un27gi"], "type": "image_group1" },
+      { "active": "1", "code": "", "identifier": "", "image_group": "d2fzp8lv", "lang": "", "route": "hrqe910k", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "66", "plate": "" }
+      ], "text": "Daß alle Generationen für immer ihre Früchte einsammeln"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "377", "plate": "" },
+        { "citation": "vat3hloi", "page": "154", "plate": "" }
+      ], "text": "Ten thousand generations will reap the results"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "12", "plate": "" },
+        { "citation": "yi4abjp5", "page": "12", "plate": "" }
+      ], "text": "All the generations will reap the fruits of it forever"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "17pzm9pe", "page": "184", "plate": "" }
+      ], "text": "Que les dix mille générations soient heureuses"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "213", "plate": "" }
+      ], "text": "Toutes les générations en recueilleront le fruit à jamais"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "g24mcucr", "page": "96", "plate": "" }
+      ], "text": "Dix mille générations auront confiance perpétuelle"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "hq8n5n8z", "page": "75", "plate": "" }
+      ], "text": "Toutes les générations auront perpétuelle confiance"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "35", "plate": "" }
+      ], "text": "万世一系の皇室を人民は永遠に頼りにずる"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "117", "plate": "" }
+      ], "text": "万代が結果を得ろ"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "4i4d9qv0", "page": "840", "plate": "" }
+      ], "text": "Muôn đời được nhờ mãi"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "52xcxi30", "page": "49", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "171", "plate": "" }
+      ], "text": "Muôn đời nương tựa"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "zv1eosh2", "page": "48", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "205", "plate": "" }
+      ], "text": "Muôn đời nhờ mãi"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Dòng dõi hoàng thất được duy trì qua nhiều đời là chỗ dựa muôn đời cho dân, tức cũng chúc tụng sự phồn vinh vĩnh cửu của hoàng gia"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "万年以后犹将依靠它"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+        { "citation": "rdvlih5h", "page": "", "plate": "" }
+      ], "text": "万年以后犹将依靠它"
+    }, "type": "maxim" }
+  ] }
+]
