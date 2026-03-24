@@ -1,0 +1,70 @@
+[
+  { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "tjlu2zq2", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "", "identifier": "", "image_group": "d5kgpgfw", "lang": "", "route": "c5f4ircv", "translation": ["qxfco1bg"], "type": "image_group1" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
+  { "type": "maxim_list", "items": [
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
+      "citations": [
+        { "citation": "kb1powff", "page": "68", "plate": "" }
+      ], "text": "Die neun Arbeiten müssen ordenlitch durchgeführt werden"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "rt5wnr81", "page": "380", "plate": "" },
+        { "citation": "vat3hloi", "page": "154", "plate": "" }
+      ], "text": "The Nine Meritorious Acts must be carried out in order"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
+      "citations": [
+        { "citation": "v793uyej", "page": "38", "plate": "" },
+        { "citation": "yi4abjp5", "page": "40", "plate": "" }
+      ], "text": "The 9 works must be completed in order"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "jwb4rurt", "page": "467", "plate": "" }
+      ], "text": "Les neuf travaux doivent être accomplis avec ordre"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
+      "citations": [
+        { "citation": "idu77whs", "page": "64", "plate": "" },
+        { "citation": "g24mcucr", "page": "96", "plate": "" }
+      ], "text": "Les Neuf Œuvres doivent être accomplies avec ordre"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "oicprxpn", "page": "63", "plate": "" }
+      ], "text": "皇帝には立派な功績が続いてぃる"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
+      "citations": [
+        { "citation": "yo8nlu7d", "page": "118", "plate": "" }
+      ], "text": "九功は順番に実行されなければならない"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "jgar9yls", "page": "63", "plate": "" },
+        { "citation": "f9ewv5w2", "page": "235", "plate": "" }
+      ], "text": "Chín công đêu dặt trong trật tự"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
+      "citations": [
+        { "citation": "p5x51tts", "page": "", "plate": "" }
+      ], "text": "Không rõ điển tích, mỹ hiệu để truyền công đức lâu dài của Hoàng Đế"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
+      "citations": [
+      ], "text": "合此九功、既能修和,则养民之政各有成功、一顺其当然之理而不至错乱"
+    }, "type": "maxim" },
+    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
+      "citations": [
+      ], "text": "合此九功、既能修和,则养民之政各有成功、一顺其当然之理而不至错乱"
+    }, "type": "maxim" }
+  ] }
+]
