@@ -1,10 +1,10 @@
 [
   { "type": "title", "lang": "", "translation": "jnfvwgrt", "identifier": "" },
-  { "type": "topic", "lang": "", "translation": "ub5tvyce", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "v8irqgcj", "identifier": "" },
   {
     "type": "image_gallery",
     "items": [
-      { "active": "1", "code": "", "identifier": "", "image_group": "smvoa35r", "lang": "", "route": "cwov41jk", "translation": ["qxfco1bg"], "type": "image_group1" }
+      { "active": "1", "code": "", "identifier": "", "image_group": "s1niaai8", "lang": "", "route": "3bg42e07", "translation": ["qxfco1bg"], "type": "image_group1" }
     ]
   },
   { "type": "topic", "lang": "", "translation": "invvearo", "identifier": "" },
@@ -15,24 +15,15 @@
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "381", "plate": "" },
-        { "citation": "vat3hloi", "page": "154", "plate": "" }
-      ], "text": "All the affairs of State in harmony"
+      ], "text": "No translations available"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "97", "plate": "" }
-      ], "text": "Mettre en harmonie toutes ses affaires de l'État"
+      ], "text": "Aucune traduction disponible"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "306", "plate": "" }
-      ], "text": "すべ ての政治は調和している"
-    }, "type": "maxim" },
-    { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
-      "citations": [
-        { "citation": "yo8nlu7d", "page": "120", "plate": "" }
-      ], "text": "調和のとれた国家のすべての事柄"
+      ], "text": "翻訳はありません"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
@@ -40,13 +31,11 @@
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
-      ], "text": "庶政惟和、万国威宁"
+      ], "text": "没有可用的翻译"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
-      ], "text": "庶政惟和、万国威宁"
+      ], "text": "没有可用的翻译"
     }, "type": "maxim" }
   ] }
 ]
