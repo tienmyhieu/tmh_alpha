@@ -20,6 +20,7 @@ readonly class TmhTranslatorFactory
             'entity_list_item' => new TmhEntityListItemTranslator($this, $this->locale),
             'entity_lists' => new TmhEntityListsTranslator($this, $this->locale),
             'citation' => new TmhCitationTranslator($this->locale),
+            'citation_list' => new TmhCitationListTranslator($this, $this->locale),
             'image' => new TmhImageTranslator($this, $this->locale),
             'image_gallery' => new TmhImageGalleryTranslator($this),
             'image_gallery_title' => new TmhImageGalleryTitleTranslator($this->locale),

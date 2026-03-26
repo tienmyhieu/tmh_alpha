@@ -15,6 +15,7 @@ readonly class TmhHtmlComponentFactory
         return match ($type) {
             'ancestors' => new TmhAncestorsHtmlComponent($this->elementFactory),
             'article' => new TmhArticleHtmlComponent($this, $this->elementFactory),
+            'citation_list' => new TmhCitationListHtmlComponent($this->elementFactory),
             'entity_list' => new TmhEntityListHtmlComponent($this->elementFactory),
             'entity_lists' => new TmhEntityListsHtmlComponent($this, $this->elementFactory),
             'image_gallery' => new TmhImageGalleryHtmlComponent($this, $this->elementFactory),
