@@ -38,6 +38,7 @@
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr", "route": "ez3zldag", "translation": ["9zsnmxko"], "type": "route1" },
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en", "route": "pj52zqmb", "translation": ["i2svaccd"], "type": "route1" },
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de", "route": "fz5zw7uh", "translation": ["so4ab9a7"], "type": "route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de", "route": "j81wzfgb", "translation": ["q5o8nbd4"], "type": "route1" },
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr", "route": "85zo275i", "translation": ["pbqy0frk"], "type": "route1" },
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr", "route": "2or373hf", "translation": ["3cbtt8wz"], "type": "route1" }
         ]
@@ -48,7 +49,8 @@
         "translation": "bybat0tg",
         "items": [
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en", "route": "3f4n4x9h", "translation": ["w8m47yvm"], "type": "route1" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en", "route": "bd7yecht", "translation": ["lx0zz8c4"], "type": "route1" }
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en", "route": "bd7yecht", "translation": ["lx0zz8c4"], "type": "route1" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en", "route": "t42gh5g9", "translation": ["yfozr02x"], "type": "route1" }
         ]
       }
     ]

@@ -22,7 +22,6 @@ readonly class TmhRouteTranslator implements TmhTranslator
         $specimenRouteTypes = ['specimen', 'specimen_group'];
         $hasCode = 0 < strlen($entity['code']);
         if (in_array($entity['type'], $specimenRouteTypes) && $hasCode) {
-            echo '-adding code' . $entity['code'] . PHP_EOL;
             $translated['href'][] = $entity['code'];
         }
         foreach ($entity['title'] as $uuid) {
