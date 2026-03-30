@@ -18,8 +18,8 @@
     "items": [
       { "active": "1", "code": "bnfr_1", "identifier": "BNFR 1", "image_group": "meqibtwr", "lang": "", "route": "qsby8vrz", "translation": [], "type": "image_group3" },
       { "active": "1", "code": "shhs_1", "identifier": "SHHS 1", "image_group": "n1swngzc", "lang": "", "route": "qsby8vrz", "translation": [], "type": "image_group3" },
-      { "active": "1", "code": "kyqs_1", "identifier": "KYQS 1", "image_group": "lzl20jg1", "lang": "", "route": "qsby8vrz", "translation": [], "type": "image_group4" },
-      { "active": "1", "code": "ans3_1", "identifier": "ANS3 1", "image_group": "z3uud3u7", "lang": "", "route": "qsby8vrz", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "kyqs_2", "identifier": "KYQS 2", "image_group": "lzl20jg1", "lang": "", "route": "qsby8vrz", "translation": [], "type": "image_group4" },
+      { "active": "1", "code": "ans3_1", "identifier": "ANS3 1", "image_group": "z3uud3u7", "lang": "", "route": "qsby8vrz", "translation": [], "type": "image_group3" },
       { "active": "1", "code": "azdq_2", "identifier": "AZDQ 2", "image_group": "yhdsp8yx", "lang": "", "route": "qsby8vrz", "translation": [], "type": "image_group3" }
     ]
   },
