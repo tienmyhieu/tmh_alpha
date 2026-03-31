@@ -1,0 +1,61 @@
+[
+  { "type": "title", "lang": "", "translation": "ffhq0gea", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "yz04hagr", "identifier": "" },
+  { "type": "image_gallery_title", "lang": "", "translation": "lit9eokw", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "brmu_1", "identifier": "BRMU 1", "image_group": "h43hnjzx", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "bhcm_1", "identifier": "BHCM 1", "image_group": "2uqqppvw", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "hccv_1", "identifier": "HCCV 1", "image_group": "7ic5rk0v", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "kyqs_1", "identifier": "KYQS 1", "image_group": "fb74jflv", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "azdq_1", "identifier": "AZDQ 1", "image_group": "uoygtowc", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group3" }
+    ]
+  },
+  { "type": "image_gallery_title", "lang": "", "translation": "fyfjlkm7", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "bsqg_1", "identifier": "BSQG 1", "image_group": "37bcnfog", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mjs1_1", "identifier": "MJS1 1", "image_group": "yfh052gb", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "zeno_1", "identifier": "ZENO 1", "image_group": "m3yiqgci", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "huay_1", "identifier": "HUAY 1", "image_group": "w4v80nl2", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "azdq_2", "identifier": "AZDQ 2", "image_group": "imgck4m9", "lang": "", "route": "js3thp2i", "translation": [], "type": "image_group3" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "rce1jqt1", "lang": "zh", "page": "", "plate": "" },
+    { "citation": "c4zw8o7a", "lang": "en", "page": "132", "plate": "" },
+    { "citation": "5wx9pyjr", "lang": "fr", "page": "106", "plate": "" },
+    { "citation": "17pzm9pe", "lang": "fr", "page": "180", "plate": "29" },
+    { "citation": "jwb4rurt", "lang": "fr", "page": "431", "plate": "" },
+    { "citation": "54q4hlvb", "lang": "en", "page": "115", "plate": "130" },
+    { "citation": "5z3zorbi", "lang": "ja", "page": "62", "plate": "" },
+    { "citation": "az3njd7x", "lang": "zh", "page": "616", "plate": "" },
+    { "citation": "v793uyej", "lang": "en", "page": "11", "plate": "" },
+    { "citation": "yi4abjp5", "lang": "en", "page": "11", "plate": "" },
+    { "citation": "1ee3zir3", "lang": "ja", "page": "12", "plate": "" },
+    { "citation": "52xcxi30", "lang": "vi", "page": "48", "plate": "" },
+    { "citation": "j7kz4y0u", "lang": "vi", "page": "141", "plate": "" },
+    { "citation": "kb1powff", "lang": "de", "page": "64", "plate": "" },
+    { "citation": "f9ewv5w2", "lang": "vi", "page": "167", "plate": "" },
+    { "citation": "swn15bxv", "lang": "en", "page": "268,281", "plate": "" },
+    { "citation": "ybuwdjsb", "lang": "vi", "page": "70", "plate": "" },
+    { "citation": "v42e5riq", "lang": "vi", "page": "119", "plate": "" },
+    { "citation": "jyvs7zwq", "lang": "ja", "page": "52", "plate": "" },
+    { "citation": "rt5wnr81", "lang": "en", "page": "393", "plate": "" },
+    { "citation": "5zb2pigu", "lang": "fr", "page": "21", "plate": "" },
+    { "citation": "oicprxpn", "lang": "ja", "page": "12", "plate": "" },
+    { "citation": "twunhs0e", "lang": "vi", "page": "91", "plate": "" },
+    { "citation": "vat3hloi", "lang": "en", "page": "156", "plate": "" },
+    { "citation": "m0ngyzvr", "lang": "fr", "page": "22", "plate": "" },
+    { "citation": "yig5kfbi", "lang": "fr", "page": "76", "plate": "" },
+    { "citation": "d3ajayqe", "lang": "vi", "page": "11", "plate": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "69,129,216", "plate": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "152,520", "plate": "" },
+    { "citation": "kspdu1yv", "lang": "vi", "page": "", "plate": "" },
+    { "citation": "is4ltgfl", "lang": "vi", "page": "", "plate": "" },
+    { "citation": "wzrb21p7", "lang": "en", "page": "", "plate": "" }
+  ] }
+]
