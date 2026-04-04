@@ -7,7 +7,7 @@
     "items": [
       { "active": "1", "code": "bhcm_1", "identifier": "BHCM 1", "image_group": "kj9mwshx", "lang": "", "route": "4u4de93m", "translation": [], "type": "image_group3" },
       { "active": "1", "code": "bnfr_1", "identifier": "BNFR 1", "image_group": "55pp1jtr", "lang": "", "route": "4u4de93m", "translation": [], "type": "image_group3" },
-      { "active": "1", "code": "ikar_1", "identifier": "IKAR 1", "image_group": "3y4cmu0p", "lang": "", "route": "4u4de93m", "translation": [], "type": "image_group3" }
+      { "active": "1", "code": "ikar_1", "identifier": "IKAR 1", "image_group": "3y4cmu0p", "lang": "", "route": "4u4de93m", "translation": [], "type": "image_group4" }
     ]
   },
   { "type": "image_gallery_title", "lang": "", "translation": "fyfjlkm7", "identifier": "" },
