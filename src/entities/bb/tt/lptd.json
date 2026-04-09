@@ -1,0 +1,23 @@
+[
+  { "type": "title", "lang": "", "translation": "j4un27gi", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "7gpacv8a", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "bhcm_1", "identifier": "BHCM 1", "image_group": "7nakovoc", "lang": "", "route": "pzkhxzof", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "moda_1", "identifier": "MODA 1", "image_group": "njwrr3d8", "lang": "", "route": "pzkhxzof", "translation": [], "type": "image_group3" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "phlru25j", "lang": "zh", "page": "", "plate": "" },
+    { "citation": "zv1eosh2", "lang": "vi", "page": "48", "plate": "" },
+    { "citation": "f9ewv5w2", "lang": "vi", "page": "204", "plate": "" },
+    { "citation": "swn15bxv", "lang": "en", "page": "269", "plate": "" },
+    { "citation": "4i4d9qv0", "lang": "vi", "page": "840", "plate": "" },
+    { "citation": "v42e5riq", "lang": "vi", "page": "125", "plate": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "73", "plate": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "108,153,521", "plate": "" },
+    { "citation": "is4ltgfl", "lang": "vi", "page": "", "plate": "" }
+  ] }
+]
