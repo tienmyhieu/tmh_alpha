@@ -1,0 +1,29 @@
+[
+  { "type": "title", "lang": "", "translation": "j4un27gi", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "q3ibadex", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "hccv_1", "identifier": "HCCV 1", "image_group": "15nf1oop", "lang": "", "route": "vvpa2gi7", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "lsdt_1", "identifier": "LSDT 1", "image_group": "81w0ojil", "lang": "", "route": "vvpa2gi7", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "kyqs_1", "identifier": "KYQS 1", "image_group": "u3n21r9y", "lang": "", "route": "vvpa2gi7", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "azdq_1", "identifier": "AZDQ 1", "image_group": "n3t2iyu9", "lang": "", "route": "vvpa2gi7", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "amdk_1", "identifier": "AMDK 1", "image_group": "s9muyi0z", "lang": "", "route": "vvpa2gi7", "translation": [], "type": "image_group3" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "phlru25j", "lang": "zh", "page": "", "plate": "" },
+    { "citation": "zv1eosh2", "lang": "vi", "page": "48", "plate": "" },
+    { "citation": "f9ewv5w2", "lang": "vi", "page": "204", "plate": "" },
+    { "citation": "swn15bxv", "lang": "en", "page": "269,298", "plate": "" },
+    { "citation": "4i4d9qv0", "lang": "vi", "page": "840", "plate": "" },
+    { "citation": "v42e5riq", "lang": "vi", "page": "125", "plate": "" },
+    { "citation": "jyvs7zwq", "lang": "ja", "page": "79", "plate": "" },
+    { "citation": "rt5wnr81", "lang": "en", "page": "377", "plate": "" },
+    { "citation": "oicprxpn", "lang": "ja", "page": "34", "plate": "" },
+    { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "73,115,189", "plate": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "106,153,520", "plate": "" }
+  ] }
+]
