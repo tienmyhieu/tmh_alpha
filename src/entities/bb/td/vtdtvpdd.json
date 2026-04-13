@@ -1,0 +1,31 @@
+[
+  { "type": "title", "lang": "", "translation": "qxfco1bg", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "wyxchkgo", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "mian_1", "identifier": "MIAN 1", "image_group": "mppz1rth", "lang": "", "route": "r8vi5dpk", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "hccv_1", "identifier": "HCCV 1", "image_group": "qyxzs44d", "lang": "", "route": "r8vi5dpk", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mmdp_1", "identifier": "MMDP 1", "image_group": "7ohwp1n7", "lang": "", "route": "r8vi5dpk", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "azdq_1", "identifier": "AZDQ 1", "image_group": "wleds00j", "lang": "", "route": "r8vi5dpk", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "amdk_1", "identifier": "AMDK 1", "image_group": "2iukvxv4", "lang": "", "route": "r8vi5dpk", "translation": [], "type": "image_group3" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "idu77whs", "lang": "fr", "page": "64", "plate": "61" },
+    { "citation": "1nk3wolc", "lang": "zh", "page": "218", "plate": "" },
+    { "citation": "swn15bxv", "lang": "en", "page": "268,304", "plate": "" },
+    { "citation": "v42e5riq", "lang": "vi", "page": "131", "plate": "" },
+    { "citation": "ybuwdjsb", "lang": "vi", "page": "93", "plate": "" },
+    { "citation": "rt5wnr81", "lang": "en", "page": "392", "plate": "" },
+    { "citation": "oicprxpn", "lang": "ja", "page": "43", "plate": "" },
+    { "citation": "vat3hloi", "lang": "en", "page": "155", "plate": "" },
+    { "citation": "n2u0xpv3", "lang": "vi", "page": "14", "plate": "" },
+    { "citation": "yig5kfbi", "lang": "fr", "page": "22", "plate": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "128,214", "plate": "" },
+    { "citation": "h3381a7q", "lang": "fr", "page": "66", "plate": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "152", "plate": "" },
+    { "citation": "0iyvz089", "lang": "fr", "page": "", "plate": "" }
+  ] }
+]
