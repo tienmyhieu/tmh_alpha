@@ -1,0 +1,15 @@
+[
+  { "type": "title", "lang": "", "translation": "qxfco1bg", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "sco84zua", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "bsqg_1", "identifier": "BSQG 1", "image_group": "er7h3sm7", "lang": "", "route": "pddnae1k", "translation": [], "type": "image_group3" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "n2u0xpv3", "lang": "vi", "page": "13", "plate": "" },
+    { "citation": "kspdu1yv", "lang": "vi", "page": "", "plate": "" }
+  ] }
+]
