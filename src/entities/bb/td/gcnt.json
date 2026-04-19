@@ -1,0 +1,29 @@
+[
+  { "type": "title", "lang": "", "translation": "qxfco1bg", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "y88pcryx", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "hccv_1", "identifier": "HCCV 1", "image_group": "sa3rqp91", "lang": "", "route": "7rn1egww", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "bsqg_1", "identifier": "BSQG 1", "image_group": "e9fzitii", "lang": "", "route": "7rn1egww", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "gzll_1", "identifier": "GZLL 1", "image_group": "ltfa4irl", "lang": "", "route": "7rn1egww", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "bnfr_1", "identifier": "BNFR 1", "image_group": "4o2v9ptm", "lang": "", "route": "7rn1egww", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "amdk_1", "identifier": "AMDK 1", "image_group": "fezk0muh", "lang": "", "route": "7rn1egww", "translation": [], "type": "image_group3" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "17pzm9pe", "lang": "fr", "page": "189", "plate": "34" },
+    { "citation": "g24mcucr", "lang": "fr", "page": "96", "plate": "30" },
+    { "citation": "swn15bxv", "lang": "en", "page": "269,309", "plate": "" },
+    { "citation": "v42e5riq", "lang": "vi", "page": "131", "plate": "" },
+    { "citation": "rt5wnr81", "lang": "en", "page": "375", "plate": "" },
+    { "citation": "oicprxpn", "lang": "ja", "page": "59", "plate": "" },
+    { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "" },
+    { "citation": "n2u0xpv3", "lang": "vi", "page": "12", "plate": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "115,188", "plate": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "153", "plate": "" },
+    { "citation": "kspdu1yv", "lang": "vi", "page": "", "plate": "" },
+    { "citation": "zght3xer", "lang": "fr", "page": "", "plate": "" }
+  ] }
+]
