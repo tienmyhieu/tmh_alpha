@@ -1,0 +1,23 @@
+[
+  { "type": "title", "lang": "", "translation": "qxfco1bg", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "a2xs5nm1", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "bhcm_1", "identifier": "BHCM 1", "image_group": "tpj9s29h", "lang": "", "route": "wzo2dtne", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "wnlu_1", "identifier": "WNLU 1", "image_group": "cfic0er0", "lang": "", "route": "wzo2dtne", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "azdq_1", "identifier": "AZDQ 1", "image_group": "a7g9x25x", "lang": "", "route": "wzo2dtne", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "nuan_1", "identifier": "NUAN 1", "image_group": "8d59n5ej", "lang": "", "route": "wzo2dtne", "translation": [], "type": "image_group4" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "17pzm9pe", "lang": "fr", "page": "191", "plate": "35" },
+    { "citation": "jyvs7zwq", "lang": "ja", "page": "110", "plate": "" },
+    { "citation": "rt5wnr81", "lang": "en", "page": "378", "plate": "" },
+    { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "117,192", "plate": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "137,527", "plate": "" },
+    { "citation": "kspdu1yv", "lang": "vi", "page": "", "plate": "" }
+  ] }
+]
