@@ -1,0 +1,29 @@
+[
+  { "type": "title", "lang": "", "translation": "qxfco1bg", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "0yaqyr50", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "zhfa_1", "identifier": "ZHFA 1", "image_group": "xkiae7pg", "lang": "", "route": "kf4heh9h", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "chco_1", "identifier": "CHCO 1", "image_group": "0w795v7f", "lang": "", "route": "kf4heh9h", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "azdq_1", "identifier": "AZDQ 1", "image_group": "m4sqch7g", "lang": "", "route": "kf4heh9h", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "nuan_1", "identifier": "NUAN 1", "image_group": "9mciigr4", "lang": "", "route": "kf4heh9h", "translation": [], "type": "image_group4" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "17pzm9pe", "lang": "fr", "page": "191", "plate": "34" },
+    { "citation": "jwb4rurt", "lang": "fr", "page": "467", "plate": "" },
+    { "citation": "v793uyej", "lang": "en", "page": "38", "plate": "" },
+    { "citation": "yi4abjp5", "lang": "en", "page": "40", "plate": "" },
+    { "citation": "jgar9yls", "lang": "vi", "page": "63", "plate": "" },
+    { "citation": "f9ewv5w2", "lang": "vi", "page": "235", "plate": "" },
+    { "citation": "swn15bxv", "lang": "en", "page": "269", "plate": "" },
+    { "citation": "v42e5riq", "lang": "vi", "page": "131", "plate": "" },
+    { "citation": "jyvs7zwq", "lang": "ja", "page": "112", "plate": "" },
+    { "citation": "rt5wnr81", "lang": "en", "page": "382", "plate": "" },
+    { "citation": "oicprxpn", "lang": "ja", "page": "307", "plate": "" },
+    { "citation": "vat3hloi", "lang": "en", "page": "155", "plate": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "121,199", "plate": "" }
+  ] }
+]
