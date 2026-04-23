@@ -1,0 +1,15 @@
+[
+  { "type": "title", "lang": "", "translation": "qxfco1bg", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "v8irqgcj", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "moda_1", "identifier": "MODA 1", "image_group": "s1niaai8", "lang": "", "route": "3bg42e07", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "mnic_1", "identifier": "MNIC 1", "image_group": "d71zfppo", "lang": "", "route": "3bg42e07", "translation": [], "type": "image_group4" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "yig5kfbi", "lang": "fr", "page": "272", "plate": "" }
+  ] }
+]
