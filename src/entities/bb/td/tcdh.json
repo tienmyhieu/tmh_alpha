@@ -1,0 +1,28 @@
+[
+  { "type": "title", "lang": "", "translation": "qxfco1bg", "identifier": "" },
+  { "type": "topic", "lang": "", "translation": "ub5tvyce", "identifier": "" },
+  {
+    "type": "image_gallery",
+    "items": [
+      { "active": "1", "code": "bhcm_1", "identifier": "BHCM 1", "image_group": "smvoa35r", "lang": "", "route": "cwov41jk", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "hccv_1", "identifier": "HCCV 1", "image_group": "1xpzzlso", "lang": "", "route": "cwov41jk", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "haeu_1", "identifier": "HAEU 1", "image_group": "wtbomroe", "lang": "", "route": "cwov41jk", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "bnfr_1", "identifier": "BNFR 1", "image_group": "qe7i82sm", "lang": "", "route": "cwov41jk", "translation": [], "type": "image_group3" },
+      { "active": "1", "code": "cn96_1", "identifier": "CN96 1", "image_group": "m30h1gic", "lang": "", "route": "cwov41jk", "translation": [], "type": "image_group3" }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "g24mcucr", "lang": "fr", "page": "97", "plate": "31" },
+    { "citation": "jr0pbas5", "lang": "zh", "page": "51", "plate": "" },
+    { "citation": "swn15bxv", "lang": "en", "page": "269,310", "plate": "" },
+    { "citation": "v42e5riq", "lang": "vi", "page": "131", "plate": "" },
+    { "citation": "rt5wnr81", "lang": "en", "page": "381", "plate": "" },
+    { "citation": "oicprxpn", "lang": "ja", "page": "306", "plate": "" },
+    { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "120,198", "plate": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "137,526", "plate": "" },
+    { "citation": "zz0pfqdx", "lang": "vi", "page": "", "plate": "" },
+    { "citation": "zght3xer", "lang": "fr", "page": "", "plate": "" }
+  ] }
+]
