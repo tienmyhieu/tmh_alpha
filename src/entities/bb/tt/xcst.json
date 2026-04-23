@@ -13,17 +13,17 @@
   },
   { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
   { "type": "citation_list", "items": [
-    { "citation": "phlru25j", "lang": "zh", "page": "", "plate": "" },
-    { "citation": "zv1eosh2", "lang": "vi", "page": "48", "plate": "" },
-    { "citation": "f9ewv5w2", "lang": "vi", "page": "204", "plate": "" },
-    { "citation": "swn15bxv", "lang": "en", "page": "269,298", "plate": "" },
-    { "citation": "4i4d9qv0", "lang": "vi", "page": "840", "plate": "" },
-    { "citation": "v42e5riq", "lang": "vi", "page": "125", "plate": "" },
-    { "citation": "jyvs7zwq", "lang": "ja", "page": "79", "plate": "" },
-    { "citation": "rt5wnr81", "lang": "en", "page": "377", "plate": "" },
-    { "citation": "oicprxpn", "lang": "ja", "page": "34", "plate": "" },
-    { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "" },
-    { "citation": "yo8nlu7d", "lang": "ja", "page": "73,115,189", "plate": "" },
-    { "citation": "rprrp722", "lang": "vi", "page": "106,153,520", "plate": "" }
+    { "citation": "phlru25j", "lang": "zh", "page": "", "plate": "", "url": "" },
+    { "citation": "zv1eosh2", "lang": "vi", "page": "48", "plate": "", "url": "" },
+    { "citation": "f9ewv5w2", "lang": "vi", "page": "204", "plate": "", "url": "" },
+    { "citation": "swn15bxv", "lang": "en", "page": "269,298", "plate": "", "url": "" },
+    { "citation": "4i4d9qv0", "lang": "vi", "page": "840", "plate": "", "url": "" },
+    { "citation": "v42e5riq", "lang": "vi", "page": "125", "plate": "", "url": "" },
+    { "citation": "jyvs7zwq", "lang": "ja", "page": "79", "plate": "", "url": "" },
+    { "citation": "rt5wnr81", "lang": "en", "page": "377", "plate": "", "url": "" },
+    { "citation": "oicprxpn", "lang": "ja", "page": "34", "plate": "", "url": "" },
+    { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "", "url": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "73,115,189", "plate": "", "url": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "106,153,520", "plate": "", "url": "" }
   ] }
 ]
