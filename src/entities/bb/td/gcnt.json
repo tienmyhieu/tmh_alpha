@@ -13,17 +13,17 @@
   },
   { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
   { "type": "citation_list", "items": [
-    { "citation": "17pzm9pe", "lang": "fr", "page": "189", "plate": "34" },
-    { "citation": "g24mcucr", "lang": "fr", "page": "96", "plate": "30" },
-    { "citation": "swn15bxv", "lang": "en", "page": "269,309", "plate": "" },
-    { "citation": "v42e5riq", "lang": "vi", "page": "131", "plate": "" },
-    { "citation": "rt5wnr81", "lang": "en", "page": "375", "plate": "" },
-    { "citation": "oicprxpn", "lang": "ja", "page": "59", "plate": "" },
-    { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "" },
-    { "citation": "n2u0xpv3", "lang": "vi", "page": "12", "plate": "" },
-    { "citation": "yo8nlu7d", "lang": "ja", "page": "115,188", "plate": "" },
-    { "citation": "rprrp722", "lang": "vi", "page": "153", "plate": "" },
-    { "citation": "is4ltgfl", "lang": "vi", "page": "", "plate": "" },
-    { "citation": "zght3xer", "lang": "fr", "page": "", "plate": "" }
+    { "citation": "17pzm9pe", "lang": "fr", "page": "189", "plate": "34", "url": "" },
+    { "citation": "g24mcucr", "lang": "fr", "page": "96", "plate": "30", "url": "" },
+    { "citation": "swn15bxv", "lang": "en", "page": "269,309", "plate": "", "url": "" },
+    { "citation": "v42e5riq", "lang": "vi", "page": "131", "plate": "", "url": "" },
+    { "citation": "rt5wnr81", "lang": "en", "page": "375", "plate": "", "url": "" },
+    { "citation": "oicprxpn", "lang": "ja", "page": "59", "plate": "", "url": "" },
+    { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "", "url": "" },
+    { "citation": "n2u0xpv3", "lang": "vi", "page": "12", "plate": "", "url": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "115,188", "plate": "", "url": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "153", "plate": "", "url": "" },
+    { "citation": "is4ltgfl", "lang": "vi", "page": "", "plate": "", "url": "" },
+    { "citation": "zght3xer", "lang": "fr", "page": "", "plate": "", "url": "" }
   ] }
 ]

@@ -13,18 +13,18 @@
   },
   { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
   { "type": "citation_list", "items": [
-    { "citation": "g24mcucr", "lang": "fr", "page": "99", "plate": "34" },
-    { "citation": "swn15bxv", "lang": "en", "page": "268,305", "plate": "" },
-    { "citation": "v42e5riq", "lang": "vi", "page": "131", "plate": "" },
-    { "citation": "jyvs7zwq", "lang": "ja", "page": "96", "plate": "" },
-    { "citation": "rt5wnr81", "lang": "en", "page": "397", "plate": "" },
-    { "citation": "oicprxpn", "lang": "ja", "page": "304", "plate": "" },
-    { "citation": "vat3hloi", "lang": "en", "page": "156", "plate": "" },
-    { "citation": "n2u0xpv3", "lang": "vi", "page": "14", "plate": "" },
-    { "citation": "yo8nlu7d", "lang": "ja", "page": "131,225", "plate": "" },
-    { "citation": "rprrp722", "lang": "vi", "page": "141,152,528", "plate": "" },
-    { "citation": "zz0pfqdx", "lang": "vi", "page": "", "plate": "" },
-    { "citation": "is4ltgfl", "lang": "vi", "page": "", "plate": "" },
-    { "citation": "zght3xer", "lang": "fr", "page": "", "plate": "" }
+    { "citation": "g24mcucr", "lang": "fr", "page": "99", "plate": "34", "url": "" },
+    { "citation": "swn15bxv", "lang": "en", "page": "268,305", "plate": "", "url": "" },
+    { "citation": "v42e5riq", "lang": "vi", "page": "131", "plate": "", "url": "" },
+    { "citation": "jyvs7zwq", "lang": "ja", "page": "96", "plate": "", "url": "" },
+    { "citation": "rt5wnr81", "lang": "en", "page": "397", "plate": "", "url": "" },
+    { "citation": "oicprxpn", "lang": "ja", "page": "304", "plate": "", "url": ""},
+    { "citation": "vat3hloi", "lang": "en", "page": "156", "plate": "", "url": "" },
+    { "citation": "n2u0xpv3", "lang": "vi", "page": "14", "plate": "", "url": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "131,225", "plate": "", "url": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "141,152,528", "plate": "", "url": "" },
+    { "citation": "zz0pfqdx", "lang": "vi", "page": "", "plate": "", "url": "" },
+    { "citation": "is4ltgfl", "lang": "vi", "page": "", "plate": "", "url": "" },
+    { "citation": "zght3xer", "lang": "fr", "page": "", "plate": "", "url": "" }
   ] }
 ]

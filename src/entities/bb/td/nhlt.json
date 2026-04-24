@@ -12,9 +12,9 @@
   },
   { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
   { "type": "citation_list", "items": [
-    { "citation": "n2u0xpv3", "lang": "vi", "page": "14", "plate": "" },
-    { "citation": "rprrp722", "lang": "vi", "page": "138", "plate": "" },
-    { "citation": "zz0pfqdx", "lang": "vi", "page": "", "plate": "" },
-    { "citation": "is4ltgfl", "lang": "vi", "page": "", "plate": "" }
+    { "citation": "n2u0xpv3", "lang": "vi", "page": "14", "plate": "", "url": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "138", "plate": "", "url": "" },
+    { "citation": "zz0pfqdx", "lang": "vi", "page": "", "plate": "", "url": "" },
+    { "citation": "is4ltgfl", "lang": "vi", "page": "", "plate": "", "url": "" }
   ] }
 ]

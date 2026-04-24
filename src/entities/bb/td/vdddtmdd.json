@@ -12,10 +12,10 @@
   },
   { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
   { "type": "citation_list", "items": [
-    { "citation": "1nk3wolc", "lang": "zh", "page": "219", "plate": "" },
-    { "citation": "swn15bxv", "lang": "en", "page": "268", "plate": "" },
-    { "citation": "jyvs7zwq", "lang": "ja", "page": "88", "plate": "" },
-    { "citation": "rprrp722", "lang": "vi", "page": "152", "plate": "" },
-    { "citation": "zz0pfqdx", "lang": "vi", "page": "", "plate": "" }
+    { "citation": "1nk3wolc", "lang": "zh", "page": "219", "plate": "", "url": "" },
+    { "citation": "swn15bxv", "lang": "en", "page": "268", "plate": "", "url": "" },
+    { "citation": "jyvs7zwq", "lang": "ja", "page": "88", "plate": "", "url": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "152", "plate": "", "url": "" },
+    { "citation": "zz0pfqdx", "lang": "vi", "page": "", "plate": "", "url": "" }
   ] }
 ]
