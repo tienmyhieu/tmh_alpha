@@ -15,23 +15,23 @@
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "381", "plate": "" },
-        { "citation": "vat3hloi", "page": "154", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "381", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "", "url": "" }
       ], "text": "All the affairs of State in harmony"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "97", "plate": "" }
+        { "citation": "g24mcucr", "lang": "fr", "page": "97", "plate": "", "url": "" }
       ], "text": "Mettre en harmonie toutes ses affaires de l'État"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "306", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "306", "plate": "", "url": "" }
       ], "text": "すべ ての政治は調和している"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "120", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "120", "plate": "", "url": "" }
       ], "text": "調和のとれた国家のすべての事柄"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
@@ -40,12 +40,12 @@
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "庶政惟和、万国威宁"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "庶政惟和、萬國威寧"
     }, "type": "maxim" }
   ] }

@@ -11,69 +11,69 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "65", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "65", "plate": "", "url": "" }
       ], "text": "Tue das Gute jetzt, erwarte Wohltaten für tausend Generationen"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "395", "plate": "" },
-        { "citation": "vat3hloi", "page": "156", "plate": "" },
-        { "citation": "wzrb21p7", "page": "", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "395", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "156", "plate": "", "url": "" },
+        { "citation": "wzrb21p7", "lang": "en", "page": "", "plate": "", "url": "" }
       ], "text": "Act now, the time is right to benefit 10,000 generations"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "12", "plate": "" },
-        { "citation": "yi4abjp5", "page": "12", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "12", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "12", "plate": "", "url": "" }
       ], "text": "To engage at present in good works, to extend one's blessing to 10,000 generations"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "211", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "211", "plate": "", "url": "" }
       ], "text": "Faire le bien dans le présent, étendre ses bienfaits à dix milles générations"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "91", "plate": "" },
-        { "citation": "hq8n5n8z", "page": "77", "plate": "" }
+        { "citation": "g24mcucr", "lang": "fr", "page": "91", "plate": "", "url": "" },
+        { "citation": "hq8n5n8z", "lang": "fr", "page": "77", "plate": "", "url": "" }
       ], "text": "Faire le bien maintenant, c'est accorder des bienfaits sur 10 000 générations"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "130", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "130", "plate": "", "url": "" }
       ], "text": "行動せよ、今こそ万代の恩恵を受ゖる時"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "4i4d9qv0", "page": "840", "plate": "" }
+        { "citation": "4i4d9qv0", "lang": "vi", "page": "840", "plate": "", "url": "" }
       ], "text": "Ân huệ thấm nhuần thời bấy giờ, ơn đức để mãi muôn đời"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "52xcxi30", "page": "49", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "171", "plate": "" }
+        { "citation": "52xcxi30", "lang": "vi", "page": "49", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "171", "plate": "", "url": "" }
       ], "text": "Ân huệ tới ngày nay và tới mãi muôn đời"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "zv1eosh2", "page": "47", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "203", "plate": "" },
-        { "citation": "3zf74hz4", "page": "6", "plate": "" }
+        { "citation": "zv1eosh2", "lang": "vi", "page": "47", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "203", "plate": "", "url": "" },
+        { "citation": "3zf74hz4", "lang": "vi", "page": "6", "plate": "", "url": "" }
       ], "text": "Ân huệ thấm kịp đời nay, ơn đức đến mãi muôn đời"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Công việc hôm nay, để lại muôn đời"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "恩惠能像雨露沾润作物一样、泽及当时、流传万年"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "恩惠能像雨露沾潤作物一樣、澤及當時、流傳萬年"
     }, "type": "maxim" }
   ] }

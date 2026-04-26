@@ -15,38 +15,38 @@
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "397", "plate": "" },
-        { "citation": "vat3hloi", "page": "156", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "397", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "156", "plate": "", "url": "" }
       ], "text": "In all places and all times, [may you] receive the blessing of heaven"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "99", "plate": "" }
+        { "citation": "g24mcucr", "lang": "fr", "page": "99", "plate": "", "url": "" }
       ], "text": "En tous lieux et temps, maintenir ce que l'on a reçu du Ciel"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "304", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "304", "plate": "", "url": "" }
       ], "text": "皇帝の寿命が続く限り、天から幸せを受ける"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "132", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "132", "plate": "", "url": "" }
       ], "text": "いつでもどこも、あなたが天からの祝福を受けとつまように"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "n2u0xpv3", "page": "14", "plate": "" }
+        { "citation": "n2u0xpv3", "lang": "vi", "page": "14", "plate": "", "url": "" }
       ], "text": "Nhận sự giúp đỡ từ trời cao dài lâu"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "谓在这以后的千万年里、都受到苍天的福佑"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "謂在這以後的千萬年裡、都受到蒼天的福佑"
     }, "type": "maxim" }
   ] }

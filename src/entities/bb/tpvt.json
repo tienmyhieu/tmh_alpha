@@ -13,78 +13,78 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "66", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "66", "plate": "", "url": "" }
       ], "text": "Vorbild sein für das ganze Reich"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "375", "plate": "" },
-        { "citation": "vat3hloi", "page": "154", "plate": "" },
-        { "citation": "wzrb21p7", "page": "", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "375", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "", "url": "" },
+        { "citation": "wzrb21p7", "lang": "en", "page": "", "plate": "", "url": "" }
       ], "text": "To be a model throughout the empire"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "12", "plate": "" },
-        { "citation": "yi4abjp5", "page": "12", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "12", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "12", "plate": "", "url": "" }
       ], "text": "To be the model of the whole empire"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "179", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "179", "plate": "", "url": "" }
       ], "text": "Tout le royaume obéit aux lois"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "213", "plate": "" },
-        { "citation": "rqdaou3y", "page": "153", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "213", "plate": "", "url": "" },
+        { "citation": "rqdaou3y", "lang": "fr", "page": "153", "plate": "", "url": "" }
       ], "text": "Être la modèle de tout l'Empire"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "84", "plate": "" },
-        { "citation": "hq8n5n8z", "page": "84", "plate": "" }
+        { "citation": "g24mcucr", "lang": "fr", "page": "84", "plate": "", "url": "" },
+        { "citation": "hq8n5n8z", "lang": "fr", "page": "84", "plate": "", "url": "" }
       ], "text": "Être la règle pour tout l'Empire"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "30", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "30", "plate": "", "url": "" }
       ], "text": "周辺諸国の模範となる"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "115", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "115", "plate": "", "url": "" }
       ], "text": "帝国全体の模範であること"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "ybuwdjsb", "page": "71", "plate": "" },
-        { "citation": "52xcxi30", "page": "49", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "171", "plate": "" },
-        { "citation": "twunhs0e", "page": "101", "plate": "" },
-        { "citation": "d3ajayqe", "page": "10", "plate": "" }
+        { "citation": "ybuwdjsb", "lang": "vi", "page": "71", "plate": "", "url": "" },
+        { "citation": "52xcxi30", "lang": "vi", "page": "49", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "171", "plate": "", "url": "" },
+        { "citation": "twunhs0e", "lang": "vi", "page": "101", "plate": "", "url": "" },
+        { "citation": "d3ajayqe", "lang": "vi", "page": "10", "plate": "", "url": "" }
       ], "text": "Bốn phương lấy làm khuôn phép"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "4i4d9qv0", "page": "840", "plate": "" },
-        { "citation": "zv1eosh2", "page": "48", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "204", "plate": "" }
+        { "citation": "4i4d9qv0", "lang": "vi", "page": "840", "plate": "", "url": "" },
+        { "citation": "zv1eosh2", "lang": "vi", "page": "48", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "204", "plate": "", "url": "" }
       ], "text": "Làm khuôn phép cho bốn phương"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Làm tấm gương cho các lân bang"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "和乐平易的君子! 四方诸侯就作为榜样"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "和樂平易的君子! 四方諸侯就作為榜樣"
     }, "type": "maxim" }
   ] }

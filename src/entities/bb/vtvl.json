@@ -12,81 +12,81 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "66", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "66", "plate": "", "url": "" }
       ], "text": "Daß alle Generationen für immer ihre Früchte einsammeln"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "377", "plate": "" },
-        { "citation": "vat3hloi", "page": "154", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "377", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "", "url": "" }
       ], "text": "Ten thousand generations will reap the results"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "12", "plate": "" },
-        { "citation": "yi4abjp5", "page": "12", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "12", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "12", "plate": "", "url": "" }
       ], "text": "All the generations will reap the fruits of it forever"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "184", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "184", "plate": "", "url": "" }
       ], "text": "Que les dix mille générations soient heureuses"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "213", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "213", "plate": "", "url": "" }
       ], "text": "Toutes les générations en recueilleront le fruit à jamais"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "96", "plate": "" }
+        { "citation": "g24mcucr", "lang": "fr", "page": "96", "plate": "", "url": "" }
       ], "text": "Dix mille générations auront confiance perpétuelle"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "hq8n5n8z", "page": "75", "plate": "" }
+        { "citation": "hq8n5n8z", "lang": "fr", "page": "75", "plate": "", "url": "" }
       ], "text": "Toutes les générations auront perpétuelle confiance"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "35", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "35", "plate": "", "url": "" }
       ], "text": "万世一系の皇室を人民は永遠に頼りにずる"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "117", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "117", "plate": "", "url": "" }
       ], "text": "万代が結果を得ろ"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "4i4d9qv0", "page": "840", "plate": "" }
+        { "citation": "4i4d9qv0", "lang": "vi", "page": "840", "plate": "", "url": "" }
       ], "text": "Muôn đời được nhờ mãi"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "52xcxi30", "page": "49", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "171", "plate": "" }
+        { "citation": "52xcxi30", "lang": "vi", "page": "49", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "171", "plate": "", "url": "" }
       ], "text": "Muôn đời nương tựa"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "zv1eosh2", "page": "48", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "205", "plate": "" }
+        { "citation": "zv1eosh2", "lang": "vi", "page": "48", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "205", "plate": "", "url": "" }
       ], "text": "Muôn đời nhờ mãi"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Dòng dõi hoàng thất được duy trì qua nhiều đời là chỗ dựa muôn đời cho dân, tức cũng chúc tụng sự phồn vinh vĩnh cửu của hoàng gia"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "万年以后犹将依靠它"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "萬年後猶將依靠它"
     }, "type": "maxim" }
   ] }

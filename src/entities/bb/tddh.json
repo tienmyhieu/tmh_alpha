@@ -11,63 +11,65 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "68", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "68", "plate": "", "url": "" }
       ], "text": "Das ganze Volk weiht ihm aufrichtig seine Zuneigung"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "381", "plate": "" },
-        { "citation": "vat3hloi", "page": "154", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "381", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "", "url": "" }
       ], "text": "All the people have sincere affection for him"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "38", "plate": "" },
-        { "citation": "yi4abjp5", "page": "40", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "38", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "40", "plate": "", "url": "" }
       ], "text": "The whole nation feels a sincere affection for him"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "191", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "191", "plate": "", "url": "" }
       ], "text": "Que le roi soit aimé et adoré de son peuple"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "467", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "467", "plate": "", "url": "" }
       ], "text": "Toute le peuple lui voua une sincère affection"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "97", "plate": "" }
+        { "citation": "g24mcucr", "lang": "fr", "page": "97", "plate": "", "url": "" }
       ], "text": "Tout le peuple lui voue une sincère affection"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "308", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "308", "plate": "", "url": "" }
       ], "text": "皇帝の徳に天下の万民が皆なっいている"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "120", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "120", "plate": "", "url": "" }
       ], "text": "皇帝には立派な功績が続いてぃる"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "jgar9yls", "page": "63", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "235", "plate": "" }
+        { "citation": "jgar9yls", "lang": "vi", "page": "63", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "235", "plate": "", "url": "" }
       ], "text": "Nhân dân ca nườc đêu chờ mong"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Điển cố trích từ Kinh Thư, với ý nghĩa cầu mong được muôn dân yêu mến"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "代虐以宽、兆民允怀"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "代虐以寬、兆民允懷"
     }, "type": "maxim" }
   ] }

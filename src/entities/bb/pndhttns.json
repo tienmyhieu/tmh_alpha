@@ -13,85 +13,85 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "64", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "64", "plate": "", "url": "" }
       ], "text": "Unermeßlicher Wohlstand wie das Ostmeer, ein ianges Leben vergleichbar dem Südgebirge"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "392", "plate": "" },
-        { "citation": "vat3hloi", "page": "155", "plate": "" },
-        { "citation": "wzrb21p7", "page": "", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "392", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "155", "plate": "", "url": "" },
+        { "citation": "wzrb21p7", "lang": "en", "page": "", "plate": "", "url": "" }
       ], "text": "Happiness [as vast] as the Eastern Sea, longevity [as old] as the Southern Mountains"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "11", "plate": "" },
-        { "citation": "yi4abjp5", "page": "11", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "11", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "11", "plate": "", "url": "" }
       ], "text": "A prosperity as immense as the Oriental Sea, a longevity that can be compared to the Southern Mountain"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "178", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "178", "plate": "", "url": "" }
       ], "text": "Ayez du bonheur autant qu'il y a d'eau dans la mer de l'Est et vivez aussi longtemps que les montagnes du Sud"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "209", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "209", "plate": "", "url": "" }
       ], "text": "La prosperité immense comme la mer orientale, la longévité comparable à la montagne du sud"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "98", "plate": "" }
+        { "citation": "g24mcucr", "lang": "fr", "page": "98", "plate": "", "url": "" }
       ], "text": "Bonheur comparable à la Mer de l'est, longévité égale à celle de la Montagne du sud"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "14", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "14", "plate": "", "url": "" }
       ], "text": "幸福は東海のうつに尽きることなく、寿命は終南山のょうに長く久しぃ"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "128", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "128", "plate": "", "url": "" }
       ], "text": "東海のように[広大な]幸福、南部の山のように[年を重わた]長寿"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "ybuwdjsb", "page": "70", "plate": "" }
+        { "citation": "ybuwdjsb", "lang": "vi", "page": "70", "plate": "", "url": "" }
       ], "text": "Phúc lớn như biển Đông - Sống lâu như núi Nam sơn"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "4i4d9qv0", "page": "839", "plate": "" },
-        { "citation": "zv1eosh2", "page": "47", "plate": "" }
+        { "citation": "4i4d9qv0", "lang": "vi", "page": "839", "plate": "", "url": "" },
+        { "citation": "zv1eosh2", "lang": "vi", "page": "47", "plate": "", "url": "" }
       ], "text": "Phúc như biển Đông, thọ sánh núi Nam"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "52xcxi30", "page": "48", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "169", "plate": "" },
-        { "citation": "twunhs0e", "page": "88", "plate": "" },
-        { "citation": "d3ajayqe", "page": "10", "plate": "" },
-        { "citation": "n2u0xpv3", "page": "12", "plate": "" }
+        { "citation": "52xcxi30", "lang": "vi", "page": "48", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "169", "plate": "", "url": "" },
+        { "citation": "twunhs0e", "lang": "vi", "page": "88", "plate": "", "url": "" },
+        { "citation": "d3ajayqe", "lang": "vi", "page": "10", "plate": "", "url": "" },
+        { "citation": "n2u0xpv3", "lang": "vi", "page": "12", "plate": "", "url": "" }
       ], "text": "Phúc lớn như biển Đông, sống lâu như núi Nam"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "f9ewv5w2", "page": "201", "plate": "" }
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "201", "plate": "", "url": "" }
       ], "text": "Phúc như biển Đông, thọ sánh như núi Nam"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Phúc lớn như Biển Đông, tuổi thọ dài như núi Chung Nam"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "壽比南山、福如東海、佳期"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "壽比南山、福如東海、佳期"
     }, "type": "maxim" }
   ] }

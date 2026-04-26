@@ -13,84 +13,84 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "61", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "61", "plate": "", "url": "" }
       ], "text": "Der Kaiser, der Kaiser, 10 Tausend mal 10 Tausend Lebensjahre"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "388", "plate": "" },
-        { "citation": "vat3hloi", "page": "155", "plate": "" },
-        { "citation": "wzrb21p7", "page": "", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "388", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "155", "plate": "", "url": "" },
+        { "citation": "wzrb21p7", "lang": "en", "page": "", "plate": "", "url": "" }
       ], "text": "Ten thousand years, ten thousand years, ten thousand times ten thousand years, longevity"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "10", "plate": "" },
-        { "citation": "yi4abjp5", "page": "10", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "10", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "10", "plate": "", "url": "" }
       ], "text": "May the Emperor live 10,000 times 10,000 years"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "180", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "180", "plate": "", "url": "" }
       ], "text": "Dix mille années, dix mille années, cent million d'années (Souhait de bonheur et de longue vie)"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "209", "plate": "" },
-        { "citation": "rqdaou3y", "page": "156", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "209", "plate": "", "url": "" },
+        { "citation": "rqdaou3y", "lang": "fr", "page": "156", "plate": "", "url": "" }
       ], "text": "À l'empereur, à l'empereur, dix mille fois dix milles ans de vie"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "87", "plate": "" }
+        { "citation": "g24mcucr", "lang": "fr", "page": "87", "plate": "", "url": "" }
       ], "text": "Dix mille, dix mille années, dix mille fois dix mille années de longévite"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "8", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "8", "plate": "", "url": "" }
       ], "text": "寿命が一 万歳を超之ますょうに"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "125", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "125", "plate": "", "url": "" }
       ], "text": "万年、万年、一万回の万年、長寿"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "ybuwdjsb", "page": "70", "plate": "" },
-        { "citation": "twunhs0e", "page": "81", "plate": "" }
+        { "citation": "ybuwdjsb", "lang": "vi", "page": "70", "plate": "", "url": "" },
+        { "citation": "twunhs0e", "lang": "vi", "page": "81", "plate": "", "url": "" }
       ], "text": "Muôn năm muôn năm - Muôn năm sống lâu"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "4i4d9qv0", "page": "839", "plate": "" }
+        { "citation": "4i4d9qv0", "lang": "vi", "page": "839", "plate": "", "url": "" }
       ], "text": "Sống lâu, muôn năm, muôn muôn năm"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "52xcxi30", "page": "48", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "168,200", "plate": "" },
-        { "citation": "d3ajayqe", "page": "10", "plate": "" }
+        { "citation": "52xcxi30", "lang": "vi", "page": "48", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "168,200", "plate": "", "url": "" },
+        { "citation": "d3ajayqe", "lang": "vi", "page": "10", "plate": "", "url": "" }
       ], "text": "Muôn năm, muôn năm, muôn muôn năm sống lâu"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "zv1eosh2", "page": "47", "plate": "" }
+        { "citation": "zv1eosh2", "lang": "vi", "page": "47", "plate": "", "url": "" }
       ], "text": "Muôn năm, muôn năm, muôn muôn năm"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Điển cố không rõ, câu để chúc vua sống lâu"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "延年益寿于万岁"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "延年益壽萬歲"
     }, "type": "maxim" }
   ] }

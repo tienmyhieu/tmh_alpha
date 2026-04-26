@@ -12,88 +12,88 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "64", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "64", "plate": "", "url": "" }
       ], "text": "Seine Verzierungen sind gut geschnitten und gearbeitet, Geld uncl Schmuckstücke entsprechen der Art des Rohstoffes"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "54q4hlvb", "page": "115", "plate": "" }
+        { "citation": "54q4hlvb", "lang": "en", "page": "115", "plate": "", "url": "" }
       ], "text": "Engraved and chiselled are the ornaments of metal and of jade is their substance"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "393", "plate": "" },
-        { "citation": "vat3hloi", "page": "156", "plate": "" },
-        { "citation": "wzrb21p7", "page": "", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "393", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "156", "plate": "", "url": "" },
+        { "citation": "wzrb21p7", "lang": "en", "page": "", "plate": "", "url": "" }
       ], "text": "His emblems are chiseled in metal and stone, they are made of gold and of jade"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "11", "plate": "" },
-        { "citation": "yi4abjp5", "page": "11", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "11", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "11", "plate": "", "url": "" }
       ], "text": "His adornments are chiseled, and well wrought, they are made of gold and precious stones"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "mxzmbv4m", "page": "106", "plate": "" }
+        { "citation": "mxzmbv4m", "lang": "fr", "page": "106", "plate": "", "url": "" }
       ], "text": "Comme toute chose précieuse, ne brille de son éclat qu'à l'aide du travail du joaillier"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "180", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "180", "plate": "", "url": "" }
       ], "text": "D'or et de jade il se compose; les ornaments sont fait au ciseau"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "210", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "210", "plate": "", "url": "" }
       ], "text": "Ses ornaments sont ciselés et bien travaillés, l'or et les pierres précieuses en forment la matière"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "12", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "12", "plate": "", "url": "" }
       ], "text": "王の栄光を金や玉石に彫り残し、そのお姿を宝物としよう"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "129", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "129", "plate": "", "url": "" }
       ], "text": "彼の紋章は金属と石に彫られ、金や翡翠で作られている"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "ybuwdjsb", "page": "70", "plate": "" }
+        { "citation": "ybuwdjsb", "lang": "vi", "page": "70", "plate": "", "url": "" }
       ], "text": "Mài giũa cho bóng - Đẹp như vàng ngọc"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "4i4d9qv0", "page": "839", "plate": "" },
-        { "citation": "zv1eosh2", "page": "47", "plate": "" }
+        { "citation": "4i4d9qv0", "lang": "vi", "page": "839", "plate": "", "url": "" },
+        { "citation": "zv1eosh2", "lang": "vi", "page": "47", "plate": "", "url": "" }
       ], "text": "Mài giũa cho đẹp, vàng ngọc nạm vào"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "52xcxi30", "page": "48", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "169,202", "plate": "" },
-        { "citation": "d3ajayqe", "page": "11", "plate": "" }
+        { "citation": "52xcxi30", "lang": "vi", "page": "48", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "169,202", "plate": "", "url": "" },
+        { "citation": "d3ajayqe", "lang": "vi", "page": "11", "plate": "", "url": "" }
       ], "text": "Mài rũa ấn chương cho đẹp, tô điểm vóc dáng như vàng, ngọc"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "twunhs0e", "page": "91", "plate": "" }
+        { "citation": "twunhs0e", "lang": "vi", "page": "91", "plate": "", "url": "" }
       ], "text": "Mài giũa cho bóng, đẹp như vàng ngọc"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Tạc khắc vinh quang của vua vào huy chương tôn quý bằng vàng bằng ngọc"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "雕琢是他的修饰、金玉是他的资质"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "雕琢是他的修飾、金玉是他的資質"
     }, "type": "maxim" }
   ] }
