@@ -15,36 +15,38 @@
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "380", "plate": "" },
-        { "citation": "vat3hloi", "page": "154", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "380", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "", "url": "" }
       ], "text": "To weave (the immutable law) across the empire"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "96", "plate": "" }
+        { "citation": "g24mcucr", "lang": "fr", "page": "96", "plate": "", "url": "" }
       ], "text": "Gouverner l'Empire"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "62", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "62", "plate": "", "url": "" }
       ], "text": "世界を筋の通った政治によって運営する"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "118", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "118", "plate": "", "url": "" }
       ], "text": "帝国中に (不変の法律を) 編集する"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "n2u0xpv3", "page": "12", "plate": "" }
+        { "citation": "n2u0xpv3", "lang": "vi", "page": "12", "plate": "", "url": "" }
       ], "text": "Tài năng gánh vác trị vì thiên hạ"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "独有天下最诚心的人、才能分别合类修定人伦的大道"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "獨有天下最誠心的人、才能分別合類修定人倫的大道"
     }, "type": "maxim" }
   ] }

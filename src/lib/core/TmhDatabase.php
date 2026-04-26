@@ -9,6 +9,8 @@ class TmhDatabase
     private array $inscriptions = [];
     private array $uploads = [];
     private array $uploadGroups = [];
+    private array $urls = [];
+    private array $webSites = [];
 
     public function __construct(private readonly TmhJson $json)
     {
@@ -83,5 +85,21 @@ class TmhDatabase
             $this->uploadGroups = $this->json->database('upload_group');
         }
         return $this->uploadGroups;
+    }
+
+    private function getUrls(): array
+    {
+        if (empty($this->urls)) {
+            $this->urls = $this->json->database('url');
+        }
+        return $this->urls;
+    }
+
+    private function getWebSites(): array
+    {
+        if (empty($this->webSites)) {
+            $this->webSites = $this->json->database('web_site');
+        }
+        return $this->webSites;
     }
 }

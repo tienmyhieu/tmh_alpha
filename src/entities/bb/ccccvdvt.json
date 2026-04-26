@@ -13,85 +13,85 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "61", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "61", "plate": "", "url": "" }
       ], "text": "Höchst gerecht, höchst vorwurfsfrei, ohne fehlenden Geist, ohne Wankelmütigkeit"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "388", "plate": "" },
-        { "citation": "vat3hloi", "page": "155", "plate": "" },
-        { "citation": "wzrb21p7", "page": "", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "388", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "155", "plate": "", "url": "" },
+        { "citation": "wzrb21p7", "lang": "en", "page": "", "plate": "", "url": "" }
       ], "text": "Impartiality and rectitude at their utmost, impartiality without favouritism"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "10", "plate": "" },
-        { "citation": "yi4abjp5", "page": "10", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "10", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "10", "plate": "", "url": "" }
       ], "text": "Eminently just, eminently irreproachable to have no party spirit, not being predisposed towards one side or another"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "180", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "180", "plate": "", "url": "" }
       ], "text": "Très juste, très droit, sans parti, sans mauvais instincts"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "209", "plate": "" },
-        { "citation": "rqdaou3y", "page": "147", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "209", "plate": "", "url": "" },
+        { "citation": "rqdaou3y", "lang": "fr", "page": "147", "plate": "", "url": "" }
       ], "text": "Éminemment juste, éminemment irréprochable, sans esprit de parti, sans incliner plus d'un côté que de l'autre"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "idu77whs", "page": "50", "plate": "" },
-        { "citation": "g24mcucr", "page": "87", "plate": "" }
+        { "citation": "idu77whs", "lang": "fr", "page": "50", "plate": "", "url": "" },
+        { "citation": "g24mcucr", "lang": "fr", "page": "87", "plate": "", "url": "" }
       ], "text": "Absolument juste et sans réproche, sans parti pris ni favoritisme"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "4", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "4", "plate": "", "url": "" }
       ], "text": "極めて公正、 ひぃきゃかたよりがない"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "125", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "125", "plate": "", "url": "" }
       ], "text": "最大限の公平さと清廉、之にひいきのない公平"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "ybuwdjsb", "page": "70", "plate": "" }
+        { "citation": "ybuwdjsb", "lang": "vi", "page": "70", "plate": "", "url": "" }
       ], "text": "Rất công rất chính - không bè đảng không thiên tư"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "4i4d9qv0", "page": "839", "plate": "" },
-        { "citation": "zv1eosh2", "page": "47", "plate": "" }
+        { "citation": "4i4d9qv0", "lang": "vi", "page": "839", "plate": "", "url": "" },
+        { "citation": "zv1eosh2", "lang": "vi", "page": "47", "plate": "", "url": "" }
       ], "text": "Rất công bằng, rất ngay thẳng, không bè đảng, không thiên vị"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "52xcxi30", "page": "48", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "168,200", "plate": "" },
-        { "citation": "d3ajayqe", "page": "10", "plate": "" }
+        { "citation": "52xcxi30", "lang": "vi", "page": "48", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "168,200", "plate": "", "url": "" },
+        { "citation": "d3ajayqe", "lang": "vi", "page": "10", "plate": "", "url": "" }
       ], "text": "Rất công, rất chính, không bè đảng, không thiên tư"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "twunhs0e", "page": "80", "plate": "" }
+        { "citation": "twunhs0e", "lang": "vi", "page": "80", "plate": "", "url": "" }
       ], "text": "Rất công rất chính, không bè đảng không thiên tư"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Hết lòng chính trực, không bè phái, không thiên vị"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "无反无侧、王道正直"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "無反無側、王道正直"
     }, "type": "maxim" }
   ] }

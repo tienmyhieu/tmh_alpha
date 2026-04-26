@@ -53,85 +53,85 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "64", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "64", "plate": "", "url": "" }
       ], "text": "Daß das Vermögen sich ansammie »wie ein Gebirge, wie ein Fluß, wie eine Bergspitze, wie ein Hügel«"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "391", "plate": "" },
-        { "citation": "vat3hloi", "page": "155", "plate": "" },
-        { "citation": "wzrb21p7", "page": "", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "391", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "155", "plate": "", "url": "" },
+        { "citation": "wzrb21p7", "lang": "en", "page": "", "plate": "", "url": "" }
       ], "text": "Like a mountain, like a river, like a ridge, like a mound"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "11", "plate": "" },
-        { "citation": "yi4abjp5", "page": "11", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "11", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "11", "plate": "", "url": "" }
       ], "text": "May your wealth increase and be like a mountain-crest"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "179,191", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "179,191", "plate": "", "url": "" }
       ], "text": "Comme une montagne, comme une île, comme une monticule, comme un fleuve"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "209", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "209", "plate": "", "url": "" }
       ], "text": "Comme une montagne, comme une fleuve, comme une crête de montagne, comme une monticule"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "431", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "431", "plate": "", "url": "" }
       ], "text": "(Que les biens s'accumulent et soient) comme une montagne, comme une fleuve, comme une crête de montagne, comme une monticule"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "87", "plate": "" },
-        { "citation": "hq8n5n8z", "page": "71", "plate": "" }
+        { "citation": "g24mcucr", "lang": "fr", "page": "87", "plate": "", "url": "" },
+        { "citation": "hq8n5n8z", "lang": "fr", "page": "71", "plate": "", "url": "" }
       ], "text": "Comme une montagne, comme une fleuve, comme la crête d'une montagne, comme une monticule"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "2", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "2", "plate": "", "url": "" }
       ], "text": "山のように、川のょうに、岡のように、陸のように"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "127", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "127", "plate": "", "url": "" }
       ], "text": "山のように、川のように、尾根のように、塚堤のように"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "ybuwdjsb", "page": "70", "plate": "" }
+        { "citation": "ybuwdjsb", "lang": "vi", "page": "70", "plate": "", "url": "" }
       ], "text": "Như núi như sông - Như gò như đống"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "4i4d9qv0", "page": "839", "plate": "" }
+        { "citation": "4i4d9qv0", "lang": "vi", "page": "839", "plate": "", "url": "" }
       ], "text": "Sống lâu như núi sông, như gò đống"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "52xcxi30", "page": "48", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "169,201", "plate": "" },
-        { "citation": "d3ajayqe", "page": "11", "plate": "" },
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "52xcxi30", "lang": "vi", "page": "48", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "169,201", "plate": "", "url": "" },
+        { "citation": "d3ajayqe", "lang": "vi", "page": "11", "plate": "", "url": "" },
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Như núi, như sông, như gò, như đống"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "zv1eosh2", "page": "47", "plate": "" },
-        { "citation": "twunhs0e", "page": "86", "plate": "" }
+        { "citation": "zv1eosh2", "lang": "vi", "page": "47", "plate": "", "url": "" },
+        { "citation": "twunhs0e", "lang": "vi", "page": "86", "plate": "", "url": "" }
       ], "text": "Nước giàu binh mạnh, trong yên ngoài lặng"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "象山头,象高岭,象山背、象丘陵"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "象山頭,象高嶺,象山背、象丘陵"
     }, "type": "maxim" }
   ] }

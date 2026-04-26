@@ -13,87 +13,87 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "65", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "65", "plate": "", "url": "" }
       ], "text": "Anfang, Entwicklung, Behauptung, Vervollkommnung"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "372", "plate": "" },
-        { "citation": "vat3hloi", "page": "154", "plate": "" },
-        { "citation": "wzrb21p7", "page": "", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "372", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "154", "plate": "", "url": "" },
+        { "citation": "wzrb21p7", "lang": "en", "page": "", "plate": "", "url": "" }
       ], "text": "The primordial exerts his influence, propitious and virtuous"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "12", "plate": "" },
-        { "citation": "yi4abjp5", "page": "12", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "12", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "12", "plate": "", "url": "" }
       ], "text": "Beginning, development, strengthening, and improving"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "179", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "179", "plate": "", "url": "" }
       ], "text": "La principale vertu doit être l'intégrité"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "211", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "211", "plate": "", "url": "" }
       ], "text": "Cause initiale, liberté, bien perfection"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "432", "plate": "" },
-        { "citation": "rqdaou3y", "page": "150,155", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "432", "plate": "", "url": "" },
+        { "citation": "rqdaou3y", "lang": "fr", "page": "150,155", "plate": "", "url": "" }
       ], "text": "Commencement, développement, affermissement, perfectionnement"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "g24mcucr", "page": "84", "plate": "" }
+        { "citation": "g24mcucr", "lang": "fr", "page": "84", "plate": "", "url": "" }
       ], "text": "Cause initiale, pénétrant, bien, perfection"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "23", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "23", "plate": "", "url": "" }
       ], "text": "非縄常に運が開け、正しぃ人に幸運が訪れる"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "113", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "113", "plate": "", "url": "" }
       ], "text": "その基本原埋 (原始性) は、彼の影響、慈悲、そして、高潔さを及ぼすものである"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "ybuwdjsb", "page": "71", "plate": "" },
-        { "citation": "twunhs0e", "page": "95", "plate": "" }
+        { "citation": "ybuwdjsb", "lang": "vi", "page": "71", "plate": "", "url": "" },
+        { "citation": "twunhs0e", "lang": "vi", "page": "95", "plate": "", "url": "" }
       ], "text": "Quẻ càn có bốn đức : nguyên là khởi đầu, hanh là đương thịnh, lợi là thuận lợi, trinh là kết quảm"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "4i4d9qv0", "page": "840", "plate": "" },
-        { "citation": "zv1eosh2", "page": "48", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "204", "plate": "" }
+        { "citation": "4i4d9qv0", "lang": "vi", "page": "840", "plate": "", "url": "" },
+        { "citation": "zv1eosh2", "lang": "vi", "page": "48", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "204", "plate": "", "url": "" }
       ], "text": "Gồm bốn đức của quẻ Càn trong Kinh Dịch"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "52xcxi30", "page": "49", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "170", "plate": "" },
-        { "citation": "d3ajayqe", "page": "10", "plate": "" },
-        { "citation": "n2u0xpv3", "page": "14", "plate": "" }
+        { "citation": "52xcxi30", "lang": "vi", "page": "49", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "170", "plate": "", "url": "" },
+        { "citation": "d3ajayqe", "lang": "vi", "page": "10", "plate": "", "url": "" },
+        { "citation": "n2u0xpv3", "lang": "vi", "page": "14", "plate": "", "url": "" }
       ], "text": "Quẻ càn có 4 đức: nguyên là khởi đâu, hanh là đang thịnh, lợi là thuận lợi, trinh là kết quả"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Vận may, hanh thông đến với người quân tử"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "元者、善之长也; 亨者、嘉之会也; 利者、义之和也; 贞者、事之干也"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "元者、善之長也; 亨者、嘉之會也; 利者、義之和也; 貞者、事之幹也"
     }, "type": "maxim" }
   ] }

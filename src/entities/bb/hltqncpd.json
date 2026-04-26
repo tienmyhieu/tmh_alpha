@@ -13,87 +13,87 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "62", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "62", "plate": "", "url": "" }
       ], "text": "Die Flüsse mögen unverändert günstig strömen, damit das Getreide jedes Jahr Reife und Überfluß erreicht"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "389", "plate": "" },
-        { "citation": "vat3hloi", "page": "155", "plate": "" },
-        { "citation": "wzrb21p7", "page": "", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "389", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "155", "plate": "", "url": "" },
+        { "citation": "wzrb21p7", "lang": "en", "page": "", "plate": "", "url": "" }
       ], "text": "When the rivers follow their course, the annual harvest is abundant"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "11", "plate": "" },
-        { "citation": "yi4abjp5", "page": "11", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "11", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "11", "plate": "", "url": "" }
       ], "text": "May the rivers have an invariably favourable stream; may the seeds come to maturity and in abundance each year"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "180", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "180", "plate": "", "url": "" }
       ], "text": "Si les fleuves suivent leur cours normal, les récoltes sont bonnes"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "185", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "185", "plate": "", "url": "" }
       ], "text": "Que le fleuve suive son cours, que les récoltes soient bonnes"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "209", "plate": "" },
-        { "citation": "rqdaou3y", "page": "147", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "209", "plate": "", "url": "" },
+        { "citation": "rqdaou3y", "lang": "fr", "page": "147", "plate": "", "url": "" }
       ], "text": "Que les fleuves aient un courant invariablement favorable, que les grains arrivent à maturité et en abondance chaque année"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "idu77whs", "page": "56", "plate": "" },
-        { "citation": "g24mcucr", "page": "87", "plate": "" }
+        { "citation": "idu77whs", "lang": "fr", "page": "56", "plate": "", "url": "" },
+        { "citation": "g24mcucr", "lang": "fr", "page": "87", "plate": "", "url": "" }
       ], "text": "Que le cours des fleuves sont invariablement favorable, chaque année les récoltes abondantes et mûres"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "9", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "9", "plate": "", "url": "" }
       ], "text": "川の流れは安定して、穀物は毎年豊作"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "126", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "126", "plate": "", "url": "" }
       ], "text": "川がをの道筋に従らとき、毎年の収穫は豊富である"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "ybuwdjsb", "page": "70", "plate": "" }
+        { "citation": "ybuwdjsb", "lang": "vi", "page": "70", "plate": "", "url": "" }
       ], "text": "Nguồn nước thuận dòng - Hằng năm được mùa"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "4i4d9qv0", "page": "839", "plate": "" },
-        { "citation": "zv1eosh2", "page": "47", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "202", "plate": "" },
-        { "citation": "d3ajayqe", "page": "10", "plate": "" }
+        { "citation": "4i4d9qv0", "lang": "vi", "page": "839", "plate": "", "url": "" },
+        { "citation": "zv1eosh2", "lang": "vi", "page": "47", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "202", "plate": "", "url": "" },
+        { "citation": "d3ajayqe", "lang": "vi", "page": "10", "plate": "", "url": "" }
       ], "text": "Dòng sông thuận lối, hằng năm được mùa"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "52xcxi30", "page": "48", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "168", "plate": "" },
-        { "citation": "twunhs0e", "page": "83", "plate": "" }
+        { "citation": "52xcxi30", "lang": "vi", "page": "48", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "168", "plate": "", "url": "" },
+        { "citation": "twunhs0e", "lang": "vi", "page": "83", "plate": "", "url": "" }
       ], "text": "Nguồn nước thuận dòng, hàng năm được mùa"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Sông nước ổn dòng, mùa màng đúng thời"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "一作河流顺轨年谷丰登"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "一作河流順軌年谷豐登"
     }, "type": "maxim" }
   ] }

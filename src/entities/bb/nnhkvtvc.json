@@ -13,79 +13,79 @@
   { "type": "maxim_list", "items": [
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "de-DE", "route": "", "translation": {
       "citations": [
-        { "citation": "kb1powff", "page": "65", "plate": "" }
+        { "citation": "kb1powff", "lang": "de", "page": "65", "plate": "", "url": "" }
       ], "text": "Der Herrscher sei glücklich, er lebe zehntausend Jahre, er lebe ewig"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "rt5wnr81", "page": "394", "plate": "" },
-        { "citation": "vat3hloi", "page": "156", "plate": "" },
-        { "citation": "wzrb21p7", "page": "", "plate": "" }
+        { "citation": "rt5wnr81", "lang": "en", "page": "394", "plate": "", "url": "" },
+        { "citation": "vat3hloi", "lang": "en", "page": "156", "plate": "", "url": "" },
+        { "citation": "wzrb21p7", "lang": "en", "page": "", "plate": "", "url": "" }
       ], "text": "The Unique Man [the King] is blessed by heaven, ten thousand [years] of longevity without limit"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "en-GB", "route": "", "translation": {
       "citations": [
-        { "citation": "v793uyej", "page": "11", "plate": "" },
-        { "citation": "yi4abjp5", "page": "11", "plate": "" }
+        { "citation": "v793uyej", "lang": "en", "page": "11", "plate": "", "url": "" },
+        { "citation": "yi4abjp5", "lang": "en", "page": "11", "plate": "", "url": "" }
       ], "text": "The sovereign will be happy, he will live 10,000 years"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "17pzm9pe", "page": "178", "plate": "" }
+        { "citation": "17pzm9pe", "lang": "fr", "page": "178", "plate": "", "url": "" }
       ], "text": "Quand l'homme à la fortune, sa longévité est sans bornes"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "jwb4rurt", "page": "210", "plate": "" },
-        { "citation": "rqdaou3y", "page": "150", "plate": "" }
+        { "citation": "jwb4rurt", "lang": "fr", "page": "210", "plate": "", "url": "" },
+        { "citation": "rqdaou3y", "lang": "fr", "page": "150", "plate": "", "url": "" }
       ], "text": "Le souverain sera heureux, il vivra dix mille ans, il vivra toujours"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "fr-FR", "route": "", "translation": {
       "citations": [
-        { "citation": "idu77whs", "page": "64", "plate": "" },
-        { "citation": "g24mcucr", "page": "88", "plate": "" },
-        { "citation": "hq8n5n8z", "page": "76", "plate": "" }
+        { "citation": "idu77whs", "lang": "fr", "page": "64", "plate": "", "url": "" },
+        { "citation": "g24mcucr", "lang": "fr", "page": "88", "plate": "", "url": "" },
+        { "citation": "hq8n5n8z", "lang": "fr", "page": "76", "plate": "", "url": "" }
       ], "text": "Que l'Homme Unique (l'empereur) ait la félicité, qu'il vive éternellement"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "oicprxpn", "page": "13", "plate": "" }
+        { "citation": "oicprxpn", "lang": "ja", "page": "13", "plate": "", "url": "" }
       ], "text": "皇帝が善行を行うからには、その寿命は限りがない"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "ja-JP", "route": "", "translation": {
       "citations": [
-        { "citation": "yo8nlu7d", "page": "129", "plate": "" }
+        { "citation": "yo8nlu7d", "lang": "ja", "page": "129", "plate": "", "url": "" }
       ], "text": "唯一の男[王]は天に祝福される、終わつのない万年の長寿"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "ybuwdjsb", "page": "70", "plate": "" }
+        { "citation": "ybuwdjsb", "lang": "vi", "page": "70", "plate": "", "url": "" }
       ], "text": "Một người có phúc - Muôn tuổi không cùng"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "4i4d9qv0", "page": "839", "plate": "" },
-        { "citation": "52xcxi30", "page": "48", "plate": "" },
-        { "citation": "zv1eosh2", "page": "47", "plate": "" },
-        { "citation": "f9ewv5w2", "page": "170,202", "plate": "" },
-        { "citation": "twunhs0e", "page": "93", "plate": "" },
-        { "citation": "d3ajayqe", "page": "11", "plate": "" },
-        { "citation": "3zf74hz4", "page": "6", "plate": "" }
+        { "citation": "4i4d9qv0", "lang": "vi", "page": "839", "plate": "", "url": "" },
+        { "citation": "52xcxi30", "lang": "vi", "page": "48", "plate": "", "url": "" },
+        { "citation": "zv1eosh2", "lang": "vi", "page": "47", "plate": "", "url": "" },
+        { "citation": "f9ewv5w2", "lang": "vi", "page": "170,202", "plate": "", "url": "" },
+        { "citation": "twunhs0e", "lang": "vi", "page": "93", "plate": "", "url": "" },
+        { "citation": "d3ajayqe", "lang": "vi", "page": "11", "plate": "", "url": "" },
+        { "citation": "3zf74hz4", "lang": "vi", "page": "6", "plate": "", "url": "" }
       ], "text": "Một người có phúc, muôn tuổi không cùng"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "vi-VN", "route": "", "translation": {
       "citations": [
-        { "citation": "p5x51tts", "page": "", "plate": "" }
+        { "citation": "p5x51tts", "lang": "vi", "page": "", "plate": "", "url": "" }
       ], "text": "Hoàng Đế có đức độ thì muôn tuổi không cùng"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hans", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "一人元良、萬邦以貞"
     }, "type": "maxim" },
     { "active": "1", "code": "", "identifier": "", "image": "", "lang": "zh-Hant", "route": "", "translation": {
       "citations": [
-        { "citation": "rdvlih5h", "page": "", "plate": "" }
+        { "citation": "rdvlih5h", "lang": "zh", "page": "", "plate": "", "url": "" }
       ], "text": "一人元良、萬邦以貞"
     }, "type": "maxim" }
   ] }
