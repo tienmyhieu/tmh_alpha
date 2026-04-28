@@ -47,6 +47,20 @@ class TmhDatabase
         return in_array($uuid, array_keys($uploadGroups)) ? $uploadGroups[$uuid] : $emptyUploadGroup;
     }
 
+    public function url(string $uuid): array
+    {
+        $urls = $this->getUrls();
+        $empty = ['translation' => '', 'type' => '', 'url' => '', 'website' => ''];
+        return in_array($uuid, array_keys($urls)) ? $urls[$uuid] : $empty;
+    }
+
+    public function webSite(string $uuid): array
+    {
+        $webSites = $this->getWebSites();
+        $empty = ['translation' => '', 'lang' => '', 'url' => ''];
+        return in_array($uuid, array_keys($webSites)) ? $webSites[$uuid] : $empty;
+    }
+
     private function getImages(): array
     {
         if (empty($this->images)) {

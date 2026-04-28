@@ -19,7 +19,8 @@ readonly class TmhCitationListTranslator implements TmhTranslator
             $translatedCitation = $citationTranslator->translate($citation);
             $translatedCitations[] = [
                 'citation' => $translatedCitation['citation'],
-                'lang' => $citation['lang']
+                'lang' => $citation['lang'],
+                'url' => $translatedCitation['url']
             ];
         }
         $translated['items'] = $translatedCitations;

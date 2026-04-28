@@ -20,7 +20,12 @@ readonly class TmhCitationListHtmlComponent implements TmhHtmlComponent
             if ($useLanguage) {
                 $attributes['lang'] = $listItem['lang'];
             }
-            $listItemNodes[] = $this->elementFactory->span($attributes, $listItem['citation']);
+            if (is_array($listItem['url'])) {
+                $listItemNodes[] = $this->externalUrl($listItem['url'], $attributes);
+            } else {
+                $listItemNodes[] = $this->elementFactory->span($attributes, $listItem['citation']);
+            }
+
             $listItemNodes[] = $br;
         }
         return $this->elementFactory->citations([], $listItemNodes);
@@ -29,5 +34,25 @@ readonly class TmhCitationListHtmlComponent implements TmhHtmlComponent
     private function useLanguage(array $entity, string $language): bool
     {
         return 0 < strlen($entity['lang']) && $entity['lang'] != $language;
+    }
+
+    private function externalUrl(array $url, array $attributes): array
+    {
+        $baseUrl = 'http://img1.tienmyhieu.com/';
+        $svgLink = match($url['type']) {
+            'pdf' => $baseUrl . 'pdf.svg',
+            default => $baseUrl . 'external-link.svg'
+        };
+        $svg = $this->elementFactory->svgImg($svgLink);
+        $span = $this->elementFactory->span($attributes, $url['translation']);
+        $link = $this->elementFactory->externalListItemLink(
+            [
+                'href' =>$url['url'],
+                'title' => $url['translation']
+            ],
+            '',
+            [$span, $svg]
+        );
+        return $this->elementFactory->listItem($attributes, [$link]);
     }
 }

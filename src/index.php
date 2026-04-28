@@ -70,6 +70,7 @@ require_once('lib/transformers/TmhRouteTransformer.php');
 require_once('lib/transformers/TmhSiblingTransformer.php');
 require_once('lib/transformers/TmhUploadTransformer.php');
 require_once('lib/transformers/TmhUploadGroupTransformer.php');
+require_once('lib/transformers/TmhUrlTransformer.php');
 require_once('lib/transformers/TmhVerticalQuoteListTransformer.php');
 require_once('lib/transformers/TmhTransformerFactory.php');
 

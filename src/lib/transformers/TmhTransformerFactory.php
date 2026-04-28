@@ -24,7 +24,7 @@ readonly class TmhTransformerFactory
         return match($type) {
             'ancestors' => new TmhAncestorsTransformer($this->locale, $this->route),
             'article' => new TmhArticleTransformer($this),
-            'citation_list' => new TmhCitationListTransformer(),
+            'citation_list' => new TmhCitationListTransformer($this),
             'entity_list_item' => new TmhEntityListItemTransformer($this),
             'entity_lists' => new TmhEntityListsTransformer($this),
             'image1',
@@ -45,6 +45,7 @@ readonly class TmhTransformerFactory
             'route5' => new TmhRouteTransformer($this->route),
             'upload1' => new TmhUploadTransformer($this->database, $this->server),
             'upload_group1' => new TmhUploadGroupTransformer($this, $this->database),
+            'url' => new TmhUrlTransformer($this->database),
             'vertical_quote_list' => new TmhVerticalQuoteListTransformer()
         };
     }
