@@ -44,6 +44,7 @@ readonly class TmhTransformerFactory
             'route4',
             'route5' => new TmhRouteTransformer($this->route),
             'upload1' => new TmhUploadTransformer($this->database, $this->server),
+            'upload_gallery' => new TmhUploadGalleryTransformer($this, $this->database),
             'upload_group1' => new TmhUploadGroupTransformer($this, $this->database),
             'url' => new TmhUrlTransformer($this->database),
             'vertical_quote_list' => new TmhVerticalQuoteListTransformer()

@@ -6,7 +6,7 @@ use lib\core\TmhLocale;
 
 readonly class TmhImageGalleryTranslator implements TmhTranslator
 {
-    public function __construct(private TmhTranslatorFactory $translatorFactor)
+    public function __construct(private TmhTranslatorFactory $translatorFactory)
     {
     }
 
@@ -14,7 +14,7 @@ readonly class TmhImageGalleryTranslator implements TmhTranslator
     {
         $translated = ['type' => $entity['type'], 'items' => []];
         foreach ($entity['items'] as $imageGroup) {
-            $translator = $this->translatorFactor->create($imageGroup['type']);
+            $translator = $this->translatorFactory->create($imageGroup['type']);
             $translated['items'][] = $translator->translate($imageGroup);
         }
         return $translated;

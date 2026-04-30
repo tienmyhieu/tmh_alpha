@@ -41,6 +41,7 @@ readonly class TmhTranslatorFactory
             'title' => new TmhTitleTranslator($this->locale),
             'topic' => new TmhTopicTranslator($this->locale),
             'upload' => new TmhUploadTranslator($this, $this->locale),
+            'upload_gallery' => new TmhUploadGalleryTranslator($this->locale),
             'upload_group1' => new TmhUploadGroupTranslator($this, $this->locale),
             'vertical_quote_list' => new TmhVerticalQuoteListTranslator($this->locale)
         };
