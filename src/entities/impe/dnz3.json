@@ -71,5 +71,11 @@
     ]
   },
   { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
-  { "type": "upload_gallery", "items": ["qwa0edzq", "4osshj3f"]}
+  { "type": "upload_gallery", "items": ["qwa0edzq", "4osshj3f"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "rce1jqt1", "lang": "zh", "page": "", "plate": "", "url": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "69", "plate": "", "url": "" },
+    { "citation": "3wa25ca7", "lang": "vi", "page": "", "plate": "", "url": "m1xxle8e" }
+  ] }
 ]

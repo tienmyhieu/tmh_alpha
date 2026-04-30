@@ -44,15 +44,14 @@ readonly class TmhCitationListHtmlComponent implements TmhHtmlComponent
             default => $baseUrl . 'external-link.svg'
         };
         $svg = $this->elementFactory->svgImg($svgLink);
-        $span = $this->elementFactory->span($attributes, $url['translation']);
         $link = $this->elementFactory->externalListItemLink(
             [
                 'href' =>$url['url'],
                 'title' => $url['translation']
             ],
-            '',
-            [$span, $svg]
+            $url['translation'],
+            []
         );
-        return $this->elementFactory->listItem($attributes, [$link]);
+        return $this->elementFactory->listItem($attributes, [$link, $svg]);
     }
 }
