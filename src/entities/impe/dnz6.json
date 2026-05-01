@@ -86,5 +86,12 @@
         ]
       }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["rli1vt13"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "phlru25j", "lang": "zh", "page": "", "plate": "", "url": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "73", "plate": "", "url": "" }
+  ] }
 ]
