@@ -90,5 +90,13 @@
         ]
       }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["celiewzp", "koo2t3c2"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "c22rssui", "lang": "zh", "page": "", "plate": "", "url": "" },
+    { "citation": "yo8nlu7d", "lang": "ja", "page": "70", "plate": "", "url": "" },
+    { "citation": "3wa25ca7", "lang": "vi", "page": "", "plate": "", "url": "7rk9p3g1" }
+  ] }
 ]
