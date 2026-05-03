@@ -14,5 +14,12 @@
         ]
       }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["i2v4jw24"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "5wx9pyjr", "lang": "fr", "page": "", "plate": "", "url": "" },
+    { "citation": "rhfaud0x", "lang": "", "page": "", "plate": "", "url": "t7ft7ovr" }
+  ] }
 ]
