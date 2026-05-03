@@ -24,9 +24,8 @@ readonly class TmhCitationListHtmlComponent implements TmhHtmlComponent
                 $listItemNodes[] = $this->externalUrl($listItem['url'], $attributes);
             } else {
                 $listItemNodes[] = $this->elementFactory->span($attributes, $listItem['citation']);
+                $listItemNodes[] = $br;
             }
-
-            $listItemNodes[] = $br;
         }
         return $this->elementFactory->citations([], $listItemNodes);
     }
