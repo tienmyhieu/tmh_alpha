@@ -102,5 +102,10 @@
         ]
       }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "g24mcucr", "lang": "fr", "page": "", "plate": "", "url": "" },
+    { "citation": "hq8n5n8z", "lang": "fr", "page": "", "plate": "", "url": "" }
+  ] }
 ]
