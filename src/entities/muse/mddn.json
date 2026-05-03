@@ -7,5 +7,9 @@
     "items": [
       { "active": "1", "code": "mddn_1", "identifier": "", "image_group": "zn0hkslj", "lang": "", "route": "xa7w0mka", "translation": ["7gpacv8a"], "type": "image_group4" }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "0px1q3we", "lang": "fr", "page": "", "plate": "", "url": "" }
+  ] }
 ]
