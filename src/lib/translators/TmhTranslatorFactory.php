@@ -43,7 +43,8 @@ readonly class TmhTranslatorFactory
             'upload' => new TmhUploadTranslator($this, $this->locale),
             'upload_gallery' => new TmhUploadGalleryTranslator($this->locale),
             'upload_group1' => new TmhUploadGroupTranslator($this, $this->locale),
-            'vertical_quote_list' => new TmhVerticalQuoteListTranslator($this->locale)
+            'vertical_quote_list' => new TmhVerticalQuoteListTranslator($this->locale),
+            'video_gallery' => new TmhVideoGalleryTranslator($this->locale),
         };
     }
 }

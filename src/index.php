@@ -54,6 +54,7 @@ require_once('lib/html/component/TmhTopicHtmlComponent.php');
 require_once('lib/html/component/TmhUploadGalleryHtmlComponent.php');
 require_once('lib/html/component/TmhUploadGroupHtmlComponent.php');
 require_once('lib/html/component/TmhVerticalQuoteListHtmlComponent.php');
+require_once('lib/html/component/TmhVideoGalleryHtmlComponent.php');
 require_once('lib/html/component/TmhHtmlComponentFactory.php');
 
 require_once('lib/transformers/TmhTransformer.php');
@@ -97,6 +98,7 @@ require_once('lib/translators/TmhUploadTranslator.php');
 require_once('lib/translators/TmhUploadGalleryTranslator.php');
 require_once('lib/translators/TmhUploadGroupTranslator.php');
 require_once('lib/translators/TmhVerticalQuoteListTranslator.php');
+require_once('lib/translators/TmhVideoGalleryTranslator.php');
 require_once('lib/translators/TmhTranslatorFactory.php');
 
 //echo "<pre>";
