@@ -100,5 +100,10 @@
   { "type": "topic", "lang": "", "translation": "ouvv8bes", "identifier": "" },
   { "type": "video_gallery", "items": [
     { "height": "240", "lang": "vi", "src": "ab949a81d99f4f2d93084259b985e02a", "time_start": "658", "translation": "py9yz9b2", "width": "320" }
-  ]}
+  ]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "twunhs0e", "lang": "vi", "page": "", "plate": "", "url": "" },
+    { "citation": "rprrp722", "lang": "vi", "page": "", "plate": "", "url": "" }
+  ] }
 ]
