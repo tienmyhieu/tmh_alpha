@@ -28,7 +28,7 @@ readonly class TmhCitationTranslator implements TmhTranslator
         $entity['citation'] = $translatedCitation . $suffix;
 
         if (is_array($entity['url'])) {
-            $entity['url']['translation'] = implode('', $this->locale->getMany($entity['url']['translation']));
+            $entity['url']['translation'] = implode(' ', $this->locale->getMany($entity['url']['translation']));
         }
         return $entity;
     }

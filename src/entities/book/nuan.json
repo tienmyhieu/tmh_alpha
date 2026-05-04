@@ -84,5 +84,15 @@
         ]
       }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["b92iso71", "ag8kiccx"]},
+  { "type": "upload_gallery", "items": ["2tut84z0", "kuyemuin", "vp3339xz", "a4xlb817"]},
+  { "type": "upload_gallery", "items": ["95e4tkh3", "7r8ezhyc", "p2mmvasa", "b29ym108"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "17pzm9pe", "lang": "fr", "page": "", "plate": "", "url": "" },
+    { "citation": "17pzm9pe", "lang": "fr", "page": "", "plate": "", "url": "gt3yjays" },
+    { "citation": "17pzm9pe", "lang": "fr", "page": "", "plate": "", "url": "faivk2pw" }
+  ] }
 ]
