@@ -70,5 +70,12 @@
         ]
       }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["c4i0c8im"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "5z3zorbi", "lang": "ja", "page": "", "plate": "", "url": "" },
+    { "citation": "5z3zorbi", "lang": "ja", "page": "", "plate": "", "url": "bewkrxun" }
+  ] }
 ]
