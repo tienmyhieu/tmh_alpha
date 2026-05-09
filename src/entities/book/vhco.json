@@ -63,5 +63,11 @@
         ]
       }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["9fe7nzok"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "1nk3wolc", "lang": "vi", "page": "", "plate": "", "url": "" }
+  ] }
 ]
