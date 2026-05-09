@@ -14,5 +14,11 @@
     "items": [
       { "active": "1", "code": "", "identifier": "", "image_group": "8hsy3qn0", "lang": "", "route": "", "translation": ["ao3emrlo"], "type": "image_group4" }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["0jz8a4c7"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "tldlkhpc", "lang": "vi", "page": "", "plate": "", "url": "" }
+  ] }
 ]
