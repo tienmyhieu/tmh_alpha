@@ -88,15 +88,21 @@
           { "active": "1", "code": "amdk_1", "identifier": "", "image": "", "lang": "", "route": "fzteqy75", "translation": ["mw2dznxy"], "type": "route3" },
           { "active": "1", "code": "amdk_1", "identifier": "", "image": "", "lang": "", "route": "1ws8p4iv", "translation": ["bzpwrkeh"], "type": "route3" },
           { "active": "1", "code": "amdk_1", "identifier": "", "image": "", "lang": "", "route": "qsdvvi85", "translation": ["ffmstbn0"], "type": "route3" },
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["ge4du0yy"], "type": "text" },
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["svm2q4e3"], "type": "text" },
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["xm1fncjx"], "type": "text" },
           { "active": "1", "code": "anen_1", "identifier": "", "image": "", "lang": "", "route": "c5f4ircv", "translation": ["tjlu2zq2"], "type": "route3" },
           { "active": "1", "code": "ans3_1", "identifier": "", "image": "", "lang": "", "route": "fgbvkjoy", "translation": ["ih1gq1i4"], "type": "route3" },
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["wcsp1cee"], "type": "text" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["ub5tvyce"], "type": "text" },
-          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["ge4du0yy"], "type": "text" }
+          { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["ub5tvyce"], "type": "text" }
         ]
       }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["u20ct0za"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "jyvs7zwq", "lang": "ja", "page": "", "plate": "", "url": "" }
+  ] }
 ]
