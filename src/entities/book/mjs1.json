@@ -9,5 +9,11 @@
       { "active": "1", "code": "mjs1_1", "identifier": "1", "image_group": "yfh052gb", "lang": "", "route": "js3thp2i", "translation": ["yz04hagr"], "type": "image_group3" },
       { "active": "1", "code": "mmdp_1", "identifier": "V336", "image_group": "azqhici4", "lang": "", "route": "l27o5lmr", "translation": ["y88pcryx"], "type": "image_group3" }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["cpjn3r2o"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "5zb2pigu", "lang": "fr", "page": "", "plate": "", "url": "" }
+  ] }
 ]
