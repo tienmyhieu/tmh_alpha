@@ -8,5 +8,11 @@
       { "active": "1", "code": "", "identifier": "", "image_group": "3vih0dfp", "lang": "", "route": "", "translation": ["ao3emrlo"], "type": "image_group4" },
       { "active": "1", "code": "macf_1", "identifier": "", "image_group": "v1lrarwq", "lang": "", "route": "1az9758s", "translation": ["ish3as9t"], "type": "image_group3" }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["j4vq2z1k"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "j3r599gy", "lang": "fr", "page": "", "plate": "", "url": "" }
+  ] }
 ]
