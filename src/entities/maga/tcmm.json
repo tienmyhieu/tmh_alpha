@@ -51,6 +51,13 @@
           { "active": "1", "code": "", "identifier": "", "image": "", "lang": "", "route": "", "translation": ["ffmstbn0"], "type": "pale_text" }
         ]
       }
-       ]
-  }
+    ]
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["jxvcrbm1", "td7rygr4"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "52xcxi30", "lang": "vi", "page": "", "plate": "", "url": "" },
+    { "citation": "52xcxi30", "lang": "vi", "page": "", "plate": "", "url": "dh7g7aax" }
+  ] }
 ]
