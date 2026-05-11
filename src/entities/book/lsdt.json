@@ -97,5 +97,11 @@
         ]
       }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["74m7ri3q"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "rprrp722", "lang": "vi", "page": "", "plate": "", "url": "" }
+  ] }
 ]
