@@ -52,5 +52,12 @@
         ]
       }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["q3ozsao3", "ama4dv9q"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "zv1eosh2", "lang": "vi", "page": "", "plate": "", "url": "" },
+    { "citation": "zv1eosh2", "lang": "vi", "page": "", "plate": "", "url": "7vinmgu5" }
+  ] }
 ]
