@@ -15,5 +15,12 @@
         ]
       }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["jm13ic3t", "1e33uyf0"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "qcsd2clc", "lang": "fr", "page": "", "plate": "", "url": "" },
+    { "citation": "k059ck2l", "lang": "fr", "page": "", "plate": "", "url": "pliqsehb" }
+  ] }
 ]
