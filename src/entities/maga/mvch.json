@@ -7,5 +7,12 @@
     "items": [
       { "active": "1", "code": "bnfr_2", "identifier": "", "image_group": "riorkb2r", "lang": "", "route": "78fh1lat", "translation": ["s48pkn9o"], "type": "image_group1" }
     ]
-  }
+  },
+  { "type": "topic", "lang": "", "translation": "xpnq0cfa", "identifier": "" },
+  { "type": "upload_gallery", "items": ["2h82e3nr", "s8s72ix3"]},
+  { "type": "topic", "lang": "", "translation": "mf0m8bh5", "identifier": "" },
+  { "type": "citation_list", "items": [
+    { "citation": "gf0h4vou", "lang": "fr", "page": "", "plate": "", "url": "" },
+    { "citation": "suzp530s", "lang": "fr", "page": "", "plate": "", "url": "j7rxlew8" }
+  ] }
 ]
